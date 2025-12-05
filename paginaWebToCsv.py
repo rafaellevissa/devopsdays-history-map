@@ -5,63 +5,63 @@ import csv
 import os
 import nltk
 from nltk.corpus import stopwords
+import string
 
 BASE_URL = "https://devopsdays.org"
 EVENTS_URL = f"{BASE_URL}/events/"
 OUTPUT_CSV = "words_from_webpage.csv"
 
-nltk.download("stopwords")
+nltk.download("stopwords", quiet=True)
 
-STOPWORDS = set(stopwords.words("portuguese")) | set(stopwords.words("english"))
+STOPWORDS = set(w.lower() for w in stopwords.words("portuguese")) | set(
+    w.lower() for w in stopwords.words("english")
+)
 
 STOPWORDS.update(
     [
-        "devopsdays",
-        "event",
-        "events",
-        "program",
-        "www",
-        "http",
-        "https",
-
-        "a",
-        "the",
-        "program",
-        "contact",
-        "events",
-        "presentations",
-        "blog",
-        "welcome",
-        "reactions",
-        "speakers",
-        "participants",
-        "intro",
-        "video",
-        "slideshare",
-        "for",
-        "with",
-        "in",
-        "and",
-        "not",
-        "only",
-        "ppt",
-        "pdf",
-        "detail",
-        "non",
-        "do",
-        "is",
-        "all",
-        "so",
-        "how",
-        "t",
-        "of",
-        "to",
-        "non",
-        "not",
-        "an",
+        "devopsdays", "event", "events", "program", "www", "http", "https",
+        "a", "the", "program", "contact", "events", "presentations", "blog",
+        "welcome", "reactions", "speakers", "participants", "intro", "video",
+        "slideshare", "for", "with", "in", "and", "not", "only", "ppt", "pdf",
+        "detail", "non", "do", "is", "all", "so", "how", "t", "of", "to", "non",
+        "not", "an",
     ]
 )
 
+STOPWORDS = set(s.strip().lower() for s in STOPWORDS if s)
+
+def extract_year(text: str) -> str:
+    match = re.search(r"\b(20\d{2}|19\d{2})\b", text)
+    return match.group(1) if match else text.strip()
+
+
+def extract_city(event_name: str) -> str:
+    name = re.sub(r"\s+", " ", event_name).strip()
+
+    if " - " in name:
+        name = name.split(" - ")[0].strip()
+
+    if ":" in name:
+        parts = name.split(":")
+        name = parts[-1].strip()
+
+    name = re.sub(r"\(.*?\)", "", name).strip()
+
+    name = re.sub(r"\d+", "", name).strip()
+
+    name = re.sub(r"\s+", " ", name)
+
+    return name
+
+
+def contains_digit(token: str) -> bool:
+    return any(ch.isdigit() for ch in token)
+
+
+def normalize_token(token: str) -> str:
+    return token.strip(string.punctuation + " \t\n\r").lower()
+
+LETTER_WORD_RE = re.compile(r"[A-Za-zÀ-ÖØ-öø-ÿ]+(?:'[A-Za-zÀ-ÖØ-öø-ÿ]+)?", re.UNICODE)
 
 def fetch_page_content(url):
     try:
@@ -79,11 +79,22 @@ def extract_words_from_html(html_content):
     for script_or_style in soup(["script", "style"]):
         script_or_style.decompose()
 
-    text = soup.get_text()
+    text = soup.get_text(separator=" ")
 
-    words = re.findall(r"\b\w+\b", text.lower())
+    raw_words = LETTER_WORD_RE.findall(text)
 
-    filtered = [w for w in words if w not in STOPWORDS and len(w) > 1]
+    filtered = []
+    for w in raw_words:
+        w_norm = normalize_token(w)
+        if not w_norm:
+            continue
+        if contains_digit(w_norm):
+            continue
+        if len(w_norm) <= 1:
+            continue
+        if w_norm in STOPWORDS:
+            continue
+        filtered.append(w_norm)
 
     return filtered
 
@@ -118,7 +129,7 @@ def get_all_events():
     for tag in soup.find_all(["h4", "a"]):
 
         if tag.name == "h4" and "events-page-months" in tag.get("class", []):
-            current_year = tag.get_text(strip=True)
+            current_year = extract_year(tag.get_text(strip=True))
 
         if tag.name == "a" and "events-page-event" in tag.get("class", []):
             event_name = tag.get_text(strip=True)
@@ -133,6 +144,26 @@ def get_all_events():
     print(f"Encontrados {len(events)} eventos.")
     return events
 
+def sort_csv_by_year(output_csv):
+    if not os.path.isfile(output_csv):
+        print("CSV ainda não existe, nada para ordenar.")
+        return
+
+    rows = []
+    with open(output_csv, "r", encoding="utf-8") as csvfile:
+        reader = csv.reader(csvfile)
+        header = next(reader)
+        for row in reader:
+            rows.append(row)
+
+    rows.sort(key=lambda r: int(r[0]))
+
+    with open(output_csv, "w", encoding="utf-8", newline="") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(header)
+        writer.writerows(rows)
+
+    print("CSV ordenado por ano com sucesso!")
 
 def main():
     events = get_all_events()
@@ -153,9 +184,12 @@ def main():
             continue
 
         words = extract_words_from_html(html_content)
-        save_words_to_csv(ev["year"], ev["event"], words, OUTPUT_CSV)
+        city = extract_city(ev["event"])
+        save_words_to_csv(ev["year"], city, words, OUTPUT_CSV)
 
     print("\nFinalizado! Todas as palavras úteis foram coletadas.")
+
+    sort_csv_by_year(OUTPUT_CSV)
 
 
 if __name__ == "__main__":
