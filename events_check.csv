@@ -1,650 +1,610 @@
 Ano,Evento,Link,haveSite,haveProgram,haveVideo,haveSlide,considered
-December 2025,"Dec 6:
-Florianópolis",https://devopsdays.org/events/2025-florianopolis/program,True,True,False,False,True
-December 2025,"Dec 6:
-salvador",https://devopsdays.org/events/2025-salvador/program,True,False,False,False,True
-December 2025,"Dec 11:
-Tel Aviv",https://devopsdays.org/events/2025-tel-aviv/program,True,False,False,False,True
-December 2025,"Dec 13:
-Recife",https://devopsdays.org/events/2025-recife/program,True,True,False,False,True
-March 2026,"Mar 6:
-Los Angeles",https://devopsdays.org/events/2026-los-angeles/program,True,False,False,False,True
-April 2026,"Apr 9 - 10:
-Ciudad Autonoma de Buenos Aires",https://devopsdays.org/events/2026-ciudad-autonoma-de-buenos-aires/program,True,False,False,False,True
-April 2026,"Apr 14 - 16:
-Tokyo",https://devopsdays.org/events/2026-tokyo/program,True,False,False,False,True
-April 2026,"Apr 21 - 22:
-Atlanta",https://devopsdays.org/events/2026-atlanta/program,True,False,False,False,True
-April 2026,"Apr 28 - 29:
-copenhagen",https://devopsdays.org/events/2026-copenhagen/program,True,False,False,False,True
-April 2026,"Apr 29:
-prague",https://devopsdays.org/events/2026-prague/program,True,False,False,False,True
-April 2026,"Apr 30 - 1:
-Raleigh",https://devopsdays.org/events/2026-raleigh/program,True,False,False,False,True
-May 2026,"May 5 - 6:
-Austin",https://devopsdays.org/events/2026-austin/program,True,False,False,False,True
-May 2026,"May 6 - 7:
-Zurich",https://devopsdays.org/events/2026-zurich/program,True,False,False,False,True
-May 2026,"May 14 - 15:
-Nashville",https://devopsdays.org/events/2026-nashville/program,True,False,False,False,True
-May 2026,"May 21 - 22:
-Geneva",https://devopsdays.org/events/2026-geneva/program,True,False,False,False,True
-June 2026,"Jun 6:
-Feira de Santana",https://devopsdays.org/events/2026-feira-de-santana/program,True,False,False,False,True
-August 2026,"Aug 15:
-Rio de Janeiro",https://devopsdays.org/events/2026-rio-de-janeiro/program,True,True,False,False,True
-September 2026,"Sep 26 - 27:
-Cairo",https://devopsdays.org/events/2026-cairo/program,True,False,False,False,True
-TBD,Barcelona,https://devopsdays.org/events/2026-barcelona/program,True,False,False,False,True
-TBD,Chicago,https://devopsdays.org/events/2027-chicago/program,True,False,False,False,True
-TBD,Denver,https://devopsdays.org/events/2026-denver/program,True,False,False,False,True
-TBD,Detroit,https://devopsdays.org/events/2025-detroit/program,True,False,False,False,True
-2009,Ghent,https://devopsdays.org/events/2009-ghent/program,True,True,True,True,True
-2010,Sydney,https://devopsdays.org/events/2010-sydney/program,True,False,False,False,True
-2010,Mountain View,https://devopsdays.org/events/2010-us/program,True,True,True,False,True
-2010,Hamburg,https://devopsdays.org/events/2010-europe/program,True,True,True,True,True
-2010,São Paulo,https://devopsdays.org/events/2010-brazil/program,True,True,True,False,True
-2011,Boston,https://devopsdays.org/events/2011-boston/program,True,True,False,True,True
-2011,Mountain View,https://devopsdays.org/events/2011-mountainview/program,True,True,False,False,True
-2011,Melbourne,https://devopsdays.org/events/2011-melbourne/program,True,False,False,False,True
-2011,Bangalore,https://devopsdays.org/events/2011-bangalore/program,True,True,False,False,True
-2011,Göteborg,https://devopsdays.org/events/2011-goteborg/program,True,True,False,True,True
-2011,Manila,https://devopsdays.org/events/2011-manila/program,True,True,False,False,True
-2012,Austin,https://devopsdays.org/events/2012-austin/program,True,True,False,False,True
-2012,Tokyo,https://devopsdays.org/events/2012-tokyo/program,True,True,False,False,True
-2012,Mountain View,https://devopsdays.org/events/2012-mountainview/program,True,True,True,False,True
-2012,Delhi,https://devopsdays.org/events/2012-india/program,True,True,False,False,True
-2012,Rome,https://devopsdays.org/events/2012-italy/program,True,True,False,False,True
-2013,New York (Winter),https://devopsdays.org/events/2012-newyork/program,True,True,False,False,True
-2013,New Zealand,https://devopsdays.org/events/2013-newzealand/program,True,True,False,False,True
-2013,London (Spring),https://devopsdays.org/events/2013-london-spring/program,True,True,False,False,True
-2013,Paris,https://devopsdays.org/events/2013-paris/program,True,True,False,False,True
-2013,Austin,https://devopsdays.org/events/2013-austin/program,True,True,False,False,True
-2013,Berlin,https://devopsdays.org/events/2013-berlin/program,True,True,False,True,True
-2013,Amsterdam,https://devopsdays.org/events/2013-amsterdam/program,True,True,False,False,True
-2013,Silicon Valley,https://devopsdays.org/events/2013-mountainview/program,True,True,False,False,True
-2013,Sydney,https://devopsdays.org/events/2013-downunder/program,True,True,False,False,True
-2013,Tokyo,https://devopsdays.org/events/2013-tokyo/program,True,True,False,False,True
-2013,Tel Aviv,https://devopsdays.org/events/2013-telaviv/program,True,True,False,False,True
-2013,Atlanta,https://devopsdays.org/events/2013-atlanta/program,True,True,False,False,True
-2013,Barcelona,https://devopsdays.org/events/2013-barcelona/program,True,True,False,False,True
-2013,New York (Fall),https://devopsdays.org/events/2013-newyork/program,True,True,False,False,True
-2013,Vancouver,https://devopsdays.org/events/2013-vancouver/program,True,True,False,False,True
-2013,Portland,https://devopsdays.org/events/2013-portland/program,True,True,False,False,True
-2013,London (Autumn),https://devopsdays.org/events/2013-london/program,True,True,False,False,True
-2013,Bangalore,https://devopsdays.org/events/2013-india/program,True,True,False,False,True
-2014,Nairobi,https://devopsdays.org/events/2014-nairobi/program,True,False,False,False,True
-2014,Ljubljana,https://devopsdays.org/events/2014-ljubljana/program,True,True,False,False,True
-2014,Austin,https://devopsdays.org/events/2014-austin/program,True,True,False,True,True
-2014,Pittsburgh,https://devopsdays.org/events/2014-pittsburgh/program,True,True,False,False,True
-2014,Amsterdam,https://devopsdays.org/events/2014-amsterdam/program,True,True,False,False,True
-2014,Silicon Valley,https://devopsdays.org/events/2014-siliconvalley/program,True,True,False,False,True
-2014,Minneapolis,https://devopsdays.org/events/2014-minneapolis/program,True,True,True,False,True
-2014,Brisbane,https://devopsdays.org/events/2014-brisbane/program,True,True,False,False,True
-2014,Boston,https://devopsdays.org/events/2014-boston/program,True,True,True,True,True
-2014,Toronto,https://devopsdays.org/events/2014-toronto/program,True,True,True,False,True
-2014,New York,https://devopsdays.org/events/2014-newyork/program,True,True,True,False,True
-2014,Warsaw,https://devopsdays.org/events/2014-warsaw/program,True,True,True,False,True
-2014,Chicago,https://devopsdays.org/events/2014-chicago/program,True,True,True,False,True
-2014,Berlin,https://devopsdays.org/events/2014-berlin/program,True,True,True,True,True
-2014,Belgium,https://devopsdays.org/events/2014-belgium/program,True,True,False,False,True
-2014,Helsinki,https://devopsdays.org/events/2014-helsinki/program,True,True,False,False,True
-2014,Vancouver,https://devopsdays.org/events/2014-vancouver/program,True,True,False,False,True
-2014,Tel Aviv,https://devopsdays.org/events/2014-telaviv/program,True,True,False,False,True
-2014,Bangalore,https://devopsdays.org/events/2014-bangalore/program,True,True,False,False,True
-2015,Ljubljana,https://devopsdays.org/events/2015-ljubljana/program,True,True,False,False,True
-2015,Paris,https://devopsdays.org/events/2015-paris/program,True,True,False,False,True
-2015,Denver,https://devopsdays.org/events/2015-denver/program,True,False,False,False,True
-2015,New York,https://devopsdays.org/events/2015-newyork/program,True,True,False,False,True
-2015,Austin,https://devopsdays.org/events/2015-austin/program,True,True,False,False,True
-2015,Toronto,https://devopsdays.org/events/2015-toronto/program,True,True,True,False,True
-2015,"Washington, D.C.",https://devopsdays.org/events/2015-washington-dc/program,True,True,True,False,True
-2015,Amsterdam,https://devopsdays.org/events/2015-amsterdam/program,True,True,False,False,True
-2015,Minneapolis,https://devopsdays.org/events/2015-minneapolis/program,True,True,False,False,True
-2015,Melbourne,https://devopsdays.org/events/2015-melbourne/program,True,True,False,False,True
-2015,Pittsburgh,https://devopsdays.org/events/2015-pittsburgh/program,True,True,True,False,True
-2015,Chicago,https://devopsdays.org/events/2015-chicago/program,True,True,False,False,True
-2015,Bangalore,https://devopsdays.org/events/2015-bangalore/program,True,True,False,False,True
-2015,Boston,https://devopsdays.org/events/2015-boston/program,True,True,True,False,True
-2015,Tel Aviv,https://devopsdays.org/events/2015-telaviv/program,True,True,True,True,True
-2015,Singapore,https://devopsdays.org/events/2015-singapore/program,True,True,True,True,True
-2015,Berlin,https://devopsdays.org/events/2015-berlin/program,True,True,True,True,True
-2015,Charlotte,https://devopsdays.org/events/2015-charlotte/program,True,True,False,False,True
-2015,Silicon Valley,https://devopsdays.org/events/2015-siliconvalley/program,True,True,False,False,True
-2015,Detroit,https://devopsdays.org/events/2015-detroit/program,True,True,False,False,True
-2015,Ohio,https://devopsdays.org/events/2015-ohio/program,True,True,False,False,True
-2015,Warsaw,https://devopsdays.org/events/2015-warsaw/program,True,True,True,False,True
-2016,Los Angeles,https://devopsdays.org/events/2016-losangeles-1day/program,True,True,False,False,True
-2016,Vancouver,https://devopsdays.org/events/2016-vancouver/program,True,True,False,False,True
-2016,London,https://devopsdays.org/events/2016-london/program,True,True,True,False,True
-2016,Denver,https://devopsdays.org/events/2016-denver/program,True,True,False,False,True
-2016,Atlanta,https://devopsdays.org/events/2016-atlanta/program,True,True,False,False,True
-2016,Austin,https://devopsdays.org/events/2016-austin/program,True,True,False,False,True
-2016,Kiel,https://devopsdays.org/events/2016-kiel/program,True,True,False,False,True
-2016,Seattle,https://devopsdays.org/events/2016-seattle/program,True,True,False,False,True
-2016,Toronto,https://devopsdays.org/events/2016-toronto/program,True,True,False,False,True
-2016,Istanbul,https://devopsdays.org/events/2016-istanbul/program,True,True,False,False,True
-2016,"Washington, D.C.",https://devopsdays.org/events/2016-washington-dc/program,True,True,False,False,True
-2016,Salt Lake City,https://devopsdays.org/events/2016-saltlakecity/program,True,True,False,False,True
-2016,Silicon Valley,https://devopsdays.org/events/2016-siliconvalley/program,True,True,False,False,True
-2016,Amsterdam,https://devopsdays.org/events/2016-amsterdam/program,True,True,False,False,True
-2016,Porto Alegre,https://devopsdays.org/events/2016-portoalegre/program,True,False,False,False,True
-2016,Minneapolis,https://devopsdays.org/events/2016-minneapolis/program,True,True,False,False,True
-2016,Portland,https://devopsdays.org/events/2016-portland/program,True,True,False,False,True
-2016,Boston,https://devopsdays.org/events/2016-boston/program,True,True,False,True,True
-2016,Chicago,https://devopsdays.org/events/2016-chicago/program,True,True,True,False,True
-2016,Oslo,https://devopsdays.org/events/2016-oslo/program,True,True,True,True,True
-2016,Dallas,https://devopsdays.org/events/2016-dallas/program,True,True,False,False,True
-2016,New York,https://devopsdays.org/events/2016-newyork/program,True,True,False,False,True
-2016,Wellington,https://devopsdays.org/events/2016-newzealand/program,True,True,False,False,True
-2016,Raleigh,https://devopsdays.org/events/2016-raleigh/program,True,True,False,False,True
-2016,Boise,https://devopsdays.org/events/2016-boise/program,True,True,False,True,True
-2016,Singapore,https://devopsdays.org/events/2016-singapore/program,True,True,False,False,True
-2016,Detroit,https://devopsdays.org/events/2016-detroit/program,True,True,False,False,True
-2016,Cuba,https://devopsdays.org/events/2016-cuba/program,True,True,False,False,True
-2016,Kansas City,https://devopsdays.org/events/2016-kansascity/program,True,True,True,True,True
-2016,Philadelphia,https://devopsdays.org/events/2016-philadelphia/program,True,True,False,False,True
-2016,Ghent,https://devopsdays.org/events/2016-ghent/program,True,True,False,False,True
-2016,Ohio,https://devopsdays.org/events/2016-ohio/program,True,True,True,False,True
-2016,Madison,https://devopsdays.org/events/2016-madison/program,True,True,False,False,True
-2016,Bangalore,https://devopsdays.org/events/2016-bangalore/program,True,False,False,False,True
-2016,Cape Town,https://devopsdays.org/events/2016-capetown/program,True,True,False,False,True
-2016,Nashville,https://devopsdays.org/events/2016-nashville/program,True,True,False,False,True
-2016,Berlin,https://devopsdays.org/events/2016-berlin/program,True,True,False,False,True
-2016,Brasília,https://devopsdays.org/events/2016-brasilia/program,True,True,False,False,True
-2016,Warsaw,https://devopsdays.org/events/2016-warsaw/program,True,True,False,False,True
-2016,Paris,https://devopsdays.org/events/2016-paris/program,True,True,False,False,True
-2016,Sydney,https://devopsdays.org/events/2016-sydney/program,True,True,False,False,True
-2016,Tel Aviv,https://devopsdays.org/events/2016-telaviv/program,True,True,False,False,True
-2017,Charlotte,https://devopsdays.org/events/2017-charlotte/program,True,True,False,False,True
-2017,Los Angeles,https://devopsdays.org/events/2017-los-angeles/program,True,True,False,False,True
-2017,Baltimore,https://devopsdays.org/events/2017-baltimore/program,True,True,False,False,True
-2017,Moscow,https://devopsdays.org/events/2017-moscow/program,True,True,False,False,True
-2017,Beijing,https://devopsdays.org/events/2017-beijing/program,True,True,False,False,True
-2017,Vancouver,https://devopsdays.org/events/2017-vancouver/program,True,True,False,False,True
-2017,Denver,https://devopsdays.org/events/2017-denver/program,True,True,False,False,True
-2017,Atlanta,https://devopsdays.org/events/2017-atlanta/program,True,True,False,False,True
-2017,Tokyo,https://devopsdays.org/events/2017-tokyo/program,True,True,False,False,True
-2017,Seattle,https://devopsdays.org/events/2017-seattle/program,True,True,False,False,True
-2017,Zürich,https://devopsdays.org/events/2017-zurich/program,True,True,False,False,True
-2017,Austin,https://devopsdays.org/events/2017-austin/program,True,False,False,False,True
-2017,Stockholm,https://devopsdays.org/events/2017-stockholm/program,True,True,False,False,True
-2017,Salt Lake City,https://devopsdays.org/events/2017-salt-lake-city/program,True,True,False,False,True
-2017,Toronto,https://devopsdays.org/events/2017-toronto/program,True,True,False,False,True
-2017,Amsterdam,https://devopsdays.org/events/2017-amsterdam/program,True,True,False,False,True
-2017,"Washington, D.C.",https://devopsdays.org/events/2017-washington-dc/program,True,True,False,False,True
-2017,Minneapolis,https://devopsdays.org/events/2017-minneapolis/program,True,True,False,False,True
-2017,Portland,https://devopsdays.org/events/2017-portland/program,True,True,False,False,True
-2017,Porto Alegre,https://devopsdays.org/events/2017-porto-alegre/program,True,False,False,False,True
-2017,Shanghai,https://devopsdays.org/events/2017-shanghai/program,True,False,False,False,True
-2017,Dallas,https://devopsdays.org/events/2017-dallas/program,True,True,True,True,True
-2017,Taipei,https://devopsdays.org/events/2017-taipei/program,True,False,False,False,True
-2017,London,https://devopsdays.org/events/2017-london/program,True,True,False,False,True
-2017,Raleigh,https://devopsdays.org/events/2017-raleigh/program,True,True,False,False,True
-2017,Chicago,https://devopsdays.org/events/2017-chicago/program,True,True,True,False,True
-2017,Bangalore,https://devopsdays.org/events/2017-bangalore/program,True,False,False,False,True
-2017,Boston,https://devopsdays.org/events/2017-boston/program,True,True,False,False,True
-2017,Riga,https://devopsdays.org/events/2017-riga/program,True,True,False,False,True
-2017,Kansas City,https://devopsdays.org/events/2017-kansascity/program,True,True,False,False,True
-2017,Detroit,https://devopsdays.org/events/2017-detroit/program,True,True,False,False,True
-2017,Istanbul,https://devopsdays.org/events/2017-istanbul/program,True,True,False,False,True
-2017,Paris,https://devopsdays.org/events/2017-paris/program,True,True,False,False,True
-2017,Auckland,https://devopsdays.org/events/2017-auckland/program,True,True,False,False,True
-2017,Hartford,https://devopsdays.org/events/2017-hartford/program,True,True,False,False,True
-2017,Nashville,https://devopsdays.org/events/2017-nashville/program,True,True,False,False,True
-2017,Berlin,https://devopsdays.org/events/2017-berlin/program,True,True,False,False,True
-2017,Cuba,https://devopsdays.org/events/2017-cuba/program,True,True,False,False,True
-2017,Edinburgh,https://devopsdays.org/events/2017-edinburgh/program,True,True,False,False,True
-2017,Phoenix,https://devopsdays.org/events/2017-phoenix/program,True,True,False,False,True
-2017,Philadelphia,https://devopsdays.org/events/2017-philadelphia/program,True,True,False,False,True
-2017,Singapore,https://devopsdays.org/events/2017-singapore/program,True,True,False,False,True
-2017,Salvador,https://devopsdays.org/events/2017-salvador/program,True,False,False,False,True
-2017,Madison,https://devopsdays.org/events/2017-madison/program,True,True,False,False,True
-2017,Oslo,https://devopsdays.org/events/2017-oslo/program,True,True,False,False,True
-2017,Cape Town,https://devopsdays.org/events/2017-cape-town/program,True,True,True,True,True
-2017,Brasília,https://devopsdays.org/events/2017-brasilia/program,True,True,False,False,True
-2017,Ohio,https://devopsdays.org/events/2017-ohio/program,True,True,False,False,True
-2017,Galway,https://devopsdays.org/events/2017-galway/program,True,True,False,False,True
-2017,Tel Aviv,https://devopsdays.org/events/2017-tel-aviv/program,True,True,False,False,True
-2017,Warsaw,https://devopsdays.org/events/2017-warsaw/program,True,True,False,False,True
-2018,New York City,https://devopsdays.org/events/2018-new-york-city/program,True,True,False,False,True
-2018,Charlotte,https://devopsdays.org/events/2018-charlotte/program,True,True,False,False,True
-2018,Los Angeles,https://devopsdays.org/events/2018-los-angeles/program,True,True,False,False,True
-2018,Baltimore,https://devopsdays.org/events/2018-baltimore/program,True,False,False,False,True
-2018,Maringá,https://devopsdays.org/events/2018-maringa/program,True,False,False,False,True
-2018,Des Moines,https://devopsdays.org/events/2018-des-moines/program,True,True,False,False,True
-2018,Atlanta,https://devopsdays.org/events/2018-atlanta/program,True,True,False,False,True
-2018,Denver,https://devopsdays.org/events/2018-denver/program,True,True,False,False,True
-2018,Vancouver,https://devopsdays.org/events/2018-vancouver/program,True,True,False,False,True
-2018,Seattle,https://devopsdays.org/events/2018-seattle/program,True,True,False,False,True
-2018,Copenhagen,https://devopsdays.org/events/2018-copenhagen/program,True,True,False,False,True
-2018,Tokyo,https://devopsdays.org/events/2018-tokyo/program,True,True,False,False,True
-2018,Jakarta,https://devopsdays.org/events/2018-jakarta/program,True,True,False,False,True
-2018,Zürich,https://devopsdays.org/events/2018-zurich/program,True,True,False,False,True
-2018,Austin,https://devopsdays.org/events/2018-austin/program,True,True,False,False,True
-2018,Beijing,https://devopsdays.org/events/2018-beijing/program,True,False,False,False,True
-2018,Kiev,https://devopsdays.org/events/2018-kiev/program,True,True,False,False,True
-2018,Salt Lake City,https://devopsdays.org/events/2018-salt-lake-city/program,True,False,False,False,True
-2018,Kiel,https://devopsdays.org/events/2018-kiel/program,True,True,False,False,True
-2018,Silicon Valley,https://devopsdays.org/events/2018-silicon-valley/program,True,True,False,False,True
-2018,Victoria,https://devopsdays.org/events/2018-victoria/program,True,True,False,False,True
-2018,Toronto,https://devopsdays.org/events/2018-toronto/program,True,True,False,False,True
-2018,São Paulo,https://devopsdays.org/events/2018-sao-paulo/program,True,True,False,False,True
-2018,"Washington, D.C.",https://devopsdays.org/events/2018-washington-dc/program,True,False,False,False,True
-2018,Boise,https://devopsdays.org/events/2018-boise/program,True,True,False,False,True
-2018,Moscow,https://devopsdays.org/events/2018-moscow/program,True,True,False,False,True
-2018,Amsterdam,https://devopsdays.org/events/2018-amsterdam/program,True,True,False,False,True
-2018,Minneapolis,https://devopsdays.org/events/2018-minneapolis/program,True,True,False,False,True
-2018,Indianapolis,https://devopsdays.org/events/2018-indianapolis/program,True,True,False,False,True
-2018,Santa Maria,https://devopsdays.org/events/2018-santa-maria/program,True,True,False,False,True
-2018,Shanghai,https://devopsdays.org/events/2018-shanghai/program,True,False,False,False,True
-2018,Chicago,https://devopsdays.org/events/2018-chicago/program,True,True,True,True,True
-2018,Dallas,https://devopsdays.org/events/2018-dallas/program,True,True,True,True,True
-2018,Raleigh,https://devopsdays.org/events/2018-raleigh/program,True,False,False,False,True
-2018,Taipei,https://devopsdays.org/events/2018-taipei/program,True,False,False,False,True
-2018,Portland,https://devopsdays.org/events/2018-portland/program,True,True,False,False,True
-2018,Berlin,https://devopsdays.org/events/2018-berlin/program,True,True,False,False,True
-2018,Kazan,https://devopsdays.org/events/2018-kazan/program,True,False,False,False,True
-2018,Porto Alegre,https://devopsdays.org/events/2018-porto-alegre/program,True,True,False,False,True
-2018,Cairo,https://devopsdays.org/events/2018-cairo/program,True,True,False,False,True
-2018,Columbus,https://devopsdays.org/events/2018-columbus/program,True,True,True,False,True
-2018,London,https://devopsdays.org/events/2018-london/program,True,True,False,False,True
-2018,Cape Town,https://devopsdays.org/events/2018-cape-town/program,True,True,False,False,True
-2018,Istanbul,https://devopsdays.org/events/2018-istanbul/program,True,True,False,False,True
-2018,Boston,https://devopsdays.org/events/2018-boston/program,True,True,False,False,True
-2018,Riga,https://devopsdays.org/events/2018-riga/program,True,True,False,False,True
-2018,Belo Horizonte,https://devopsdays.org/events/2018-belo-horizonte/program,True,True,False,False,True
-2018,Detroit,https://devopsdays.org/events/2018-detroit/program,True,True,False,False,True
-2018,Montreal,https://devopsdays.org/events/2018-montreal/program,True,True,False,False,True
-2018,Singapore,https://devopsdays.org/events/2018-singapore/program,True,True,False,False,True
-2018,Hartford,https://devopsdays.org/events/2018-hartford/program,True,True,False,False,True
-2018,Paris,https://devopsdays.org/events/2018-paris/program,True,False,False,False,True
-2018,Kansas City,https://devopsdays.org/events/2018-kansas-city/program,True,True,False,False,True
-2018,Fortaleza,https://devopsdays.org/events/2018-fortaleza/program,True,True,False,False,True
-2018,Philadelphia,https://devopsdays.org/events/2018-philadelphia/program,True,True,False,False,True
-2018,Phoenix,https://devopsdays.org/events/2018-phoenix/program,True,True,False,False,True
-2018,Newcastle,https://devopsdays.org/events/2018-newcastle/program,True,False,False,False,True
-2018,Salvador,https://devopsdays.org/events/2018-salvador/program,True,True,False,False,True
-2018,Oslo,https://devopsdays.org/events/2018-oslo/program,True,True,False,False,True
-2018,Edinburgh,https://devopsdays.org/events/2018-edinburgh/program,True,True,False,False,True
-2018,Shenzhen,https://devopsdays.org/events/2018-shenzhen/program,True,False,False,False,True
-2018,Wellington,https://devopsdays.org/events/2018-wellington/program,True,True,False,False,True
-2018,Rio de Janeiro,https://devopsdays.org/events/2018-rio-de-janeiro/program,True,True,False,False,True
-2018,Chattanooga,https://devopsdays.org/events/2018-chattanooga/program,True,True,False,False,True
-2018,Galway,https://devopsdays.org/events/2018-galway/program,True,True,False,False,True
-2018,Warsaw,https://devopsdays.org/events/2018-warsaw/program,True,True,False,False,True
-2018,Belém,https://devopsdays.org/events/2018-belem/program,True,False,False,False,True
-2018,Florianópolis,https://devopsdays.org/events/2018-florianopolis/program,True,True,False,False,True
-2018,Bengaluru,https://devopsdays.org/events/2018-bengaluru/program,True,False,False,False,True
-2018,Feira de Santana,https://devopsdays.org/events/2018-feira-de-santana/program,True,False,False,False,True
-2018,Tel Aviv,https://devopsdays.org/events/2018-tel-aviv/program,True,True,False,False,True
-2019,New York City,https://devopsdays.org/events/2019-new-york-city/program,True,True,False,False,True
-2019,Charlotte,https://devopsdays.org/events/2019-charlotte/program,True,True,False,False,True
-2019,Geneva,https://devopsdays.org/events/2019-geneva/program,True,True,False,False,True
-2019,Los Angeles,https://devopsdays.org/events/2019-los-angeles/program,True,True,False,False,True
-2019,Natal,https://devopsdays.org/events/2019-natal/program,True,True,False,False,True
-2019,Vancouver,https://devopsdays.org/events/2019-vancouver/program,True,True,False,False,True
-2019,Copenhagen,https://devopsdays.org/events/2019-copenhagen/program,True,True,False,False,True
-2019,Atlanta,https://devopsdays.org/events/2019-atlanta/program,True,True,False,False,True
-2019,Tokyo,https://devopsdays.org/events/2019-tokyo/program,True,True,False,False,True
-2019,Jakarta,https://devopsdays.org/events/2019-jakarta/program,True,True,False,False,True
-2019,São Paulo,https://devopsdays.org/events/2019-sao-paulo/program,True,True,False,False,True
-2019,Houston,https://devopsdays.org/events/2019-houston/program,True,True,False,True,True
-2019,Seattle,https://devopsdays.org/events/2019-seattle/program,True,True,False,False,True
-2019,Baltimore,https://devopsdays.org/events/2019-baltimore/program,True,False,False,False,True
-2019,Denver,https://devopsdays.org/events/2019-denver/program,True,True,False,False,True
-2019,Austin,https://devopsdays.org/events/2018-austin/program,True,True,False,False,True
-2019,Des Moines,https://devopsdays.org/events/2019-des-moines/program,True,True,False,False,True
-2019,Nashville,https://devopsdays.org/events/2019-nashville/program,True,False,False,False,True
-2019,Beijing,https://devopsdays.org/events/2019-beijing/program,True,False,False,False,True
-2019,Zürich,https://devopsdays.org/events/2019-zurich/program,True,True,False,False,True
-2019,Salt Lake City,https://devopsdays.org/events/2019-salt-lake-city/program,True,True,False,False,True
-2019,Kyiv,https://devopsdays.org/events/2019-kiev/program,True,False,False,False,True
-2019,Poznań,https://devopsdays.org/events/2019-poznan/program,True,True,False,False,True
-2019,Porto Alegre,https://devopsdays.org/events/2019-porto-alegre/program,True,True,False,False,True
-2019,Bogotá,https://devopsdays.org/events/2019-bogota/program,True,False,False,False,True
-2019,Toronto,https://devopsdays.org/events/2019-toronto/program,True,True,False,False,True
-2019,Boise,https://devopsdays.org/events/2019-boise/program,True,True,False,False,True
-2019,Victoria,https://devopsdays.org/events/2019-victoria/program,True,True,False,False,True
-2019,Portugal,https://devopsdays.org/events/2019-portugal/program,True,True,False,False,True
-2019,Tampa Bay,https://devopsdays.org/events/2019-tampa/program,True,True,False,False,True
-2019,Aracaju,https://devopsdays.org/events/2019-aracaju/program,True,True,False,False,True
-2019,Cuba,https://devopsdays.org/events/2019-cuba/program,True,False,False,False,True
-2019,Amsterdam,https://devopsdays.org/events/2019-amsterdam/program,True,True,False,False,True
-2019,"Washington, D.C.",https://devopsdays.org/events/2019-washington-dc/program,True,True,True,False,True
-2019,Indianapolis,https://devopsdays.org/events/2019-indianapolis/program,True,True,False,False,True
-2019,Florianópolis,https://devopsdays.org/events/2019-florianopolis/program,True,True,False,False,True
-2019,Goiânia,https://devopsdays.org/events/2019-goiania/program,True,False,False,False,True
-2019,Minneapolis,https://devopsdays.org/events/2019-minneapolis/program,True,True,False,False,True
-2019,Dallas,https://devopsdays.org/events/2019-dallas/program,True,True,True,True,True
-2019,Montevideo,https://devopsdays.org/events/2019-montevideo/program,True,True,False,False,True
-2019,Chicago,https://devopsdays.org/events/2019-chicago/program,True,True,True,True,True
-2019,Cape Town,https://devopsdays.org/events/2019-cape-town/program,True,True,False,False,True
-2019,Portland,https://devopsdays.org/events/2019-portland/program,True,True,False,False,True
-2019,Bengaluru,https://devopsdays.org/events/2019-bengaluru/program,True,False,False,False,True
-2019,Feira de Santana,https://devopsdays.org/events/2019-feira-de-santana/program,True,False,False,False,True
-2019,Stockholm,https://devopsdays.org/events/2019-stockholm/program,True,True,False,False,True
-2019,Columbus,https://devopsdays.org/events/2019-columbus/program,True,True,False,False,True
-2019,Cairo,https://devopsdays.org/events/2019-cairo/program,True,False,False,False,True
-2019,Istanbul,https://devopsdays.org/events/2019-istanbul/program,True,False,False,False,True
-2019,Boston,https://devopsdays.org/events/2019-boston/program,True,True,False,False,True
-2019,Buffalo,https://devopsdays.org/events/2019-buffalo/program,True,True,False,False,True
-2019,London,https://devopsdays.org/events/2019-london/program,True,True,False,False,True
-2019,Belo Horizonte,https://devopsdays.org/events/2019-belo-horizonte/program,True,True,False,False,True
-2019,Fortaleza,https://devopsdays.org/events/2019-fortaleza/program,True,True,False,False,True
-2019,Raleigh,https://devopsdays.org/events/2019-raleigh/program,True,True,False,False,True
-2019,Hartford,https://devopsdays.org/events/2019-hartford/program,True,True,False,False,True
-2019,Salvador,https://devopsdays.org/events/2019-salvador/program,True,True,False,False,True
-2019,Sydney,https://devopsdays.org/events/2019-sydney/program,True,False,False,False,True
-2019,Taipei,https://devopsdays.org/events/2019-taipei/program,True,False,False,False,True
-2019,Edinburgh,https://devopsdays.org/events/2019-edinburgh/program,True,True,False,False,True
-2019,Paris,https://devopsdays.org/events/2019-paris/program,True,False,False,False,True
-2019,Auckland,https://devopsdays.org/events/2019-auckland/program,True,True,False,False,True
-2019,Philadelphia,https://devopsdays.org/events/2019-philadelphia/program,True,True,False,False,True
-2019,Oslo,https://devopsdays.org/events/2019-oslo/program,True,True,False,False,True
-2019,Detroit,https://devopsdays.org/events/2019-detroit/program,True,True,False,False,True
-2019,Kansas City,https://devopsdays.org/events/2019-kansas-city/program,True,True,False,True,True
-2019,Campinas,https://devopsdays.org/events/2019-campinas/program,True,True,False,False,True
-2019,Ghent,https://devopsdays.org/events/2019-ghent/program,True,True,False,False,True
-2019,Montreal,https://devopsdays.org/events/2019-montreal/program,True,True,False,False,True
-2019,Chattanooga,https://devopsdays.org/events/2019-chattanooga/program,True,True,False,False,True
-2019,Macapá,https://devopsdays.org/events/2019-macapa/program,True,False,False,False,True
-2019,Galway,https://devopsdays.org/events/2019-galway/program,True,True,False,False,True
-2019,Baku,https://devopsdays.org/events/2019-baku/program,True,False,False,False,True
-2019,Warsaw,https://devopsdays.org/events/2019-warsaw/program,True,False,False,False,True
-2019,Berlin,https://devopsdays.org/events/2019-berlin/program,True,True,False,False,True
-2019,Moscow,https://devopsdays.org/events/2019-moscow/program,True,True,False,False,True
-2019,Shanghai,https://devopsdays.org/events/2019-shanghai/program,True,False,False,False,True
-2019,Belém,https://devopsdays.org/events/2019-belem/program,True,False,False,False,True
-2019,Recife,https://devopsdays.org/events/2019-recife/program,True,True,False,False,True
-2019,Tel Aviv,https://devopsdays.org/events/2019-tel-aviv/program,True,True,False,False,True
-2020,Vitoria,https://devopsdays.org/events/2020-vitoria/program,True,True,False,False,True
-2020,Guadalajara,https://devopsdays.org/events/2020-guadalajara/program,True,True,False,False,True
-2020,Madrid,https://devopsdays.org/events/2020-madrid/program,True,True,False,False,True
-2020,Geneva,https://devopsdays.org/events/2020-geneva/program,True,True,False,False,True
-2020,Charlotte,https://devopsdays.org/events/2020-charlotte/program,True,True,False,False,True
-2020,New York City,https://devopsdays.org/events/2020-new-york-city/program,True,True,False,False,True
-2020,Cáceres,https://devopsdays.org/events/2020-caceres/program,True,True,False,False,True
-2020,Los Angeles,https://devopsdays.org/events/2020-los-angeles/program,True,True,False,False,True
-2020,Jakarta,https://devopsdays.org/events/2020-jakarta/program,True,False,False,False,True
-2020,Kyiv,https://devopsdays.org/events/2020-kyiv/program,True,False,False,False,True
-2020,Ankara,https://devopsdays.org/events/2020-ankara/program,True,False,False,False,True
-2020,Istanbul,https://devopsdays.org/events/2020-istanbul/program,True,False,False,False,True
-2020,Amsterdam,https://devopsdays.org/events/2020-amsterdam/program,True,True,False,False,True
-2020,Luanda,https://devopsdays.org/events/2020-luanda/program,True,False,False,False,True
-2020,Medellín,https://devopsdays.org/events/2020-medellin/program,True,False,False,False,True
-2020,Zürich (Winterthur),https://devopsdays.org/events/2020-zurich/program,True,True,True,False,True
-2020,Chicago,https://devopsdays.org/events/2020-chicago/program,True,True,True,True,True
-2020,Kraków,https://devopsdays.org/events/2020-krakow/program,True,True,False,False,True
-2020,Goiânia,https://devopsdays.org/events/2020-goiania/program,True,False,False,False,True
-2020,Cairo,https://devopsdays.org/events/2020-cairo/program,True,False,False,False,True
-2020,Bogotá,https://devopsdays.org/events/2020-bogota/program,True,False,False,False,True
-2020,Belo Horizonte,https://devopsdays.org/events/2020-belo-horizonte/program,True,False,False,False,True
-2020,Boston,https://devopsdays.org/events/2020-boston/program,True,True,False,False,True
-2020,Buffalo,https://devopsdays.org/events/2020-buffalo/program,True,True,False,False,True
-2020,Stockholm,https://devopsdays.org/events/2020-stockholm/program,True,True,False,False,True
-2020,Raleigh,https://devopsdays.org/events/2020-raleigh/program,True,False,False,False,True
-2020,Natal,https://devopsdays.org/events/2020-natal/program,True,True,False,False,True
-2020,Fortaleza,https://devopsdays.org/events/2020-fortaleza/program,True,True,False,False,True
-2020,Warsaw,https://devopsdays.org/events/2020-warsaw/program,True,False,False,False,True
-2020,São Paulo,https://devopsdays.org/events/2020-sao-paulo/program,True,True,False,False,True
-2020,shanghai,https://devopsdays.org/events/2020-shanghai/program,True,False,False,False,True
-2020,Baku,https://devopsdays.org/events/2020-baku/program,True,False,False,False,True
-2021,Texas,https://devopsdays.org/events/2021-texas/program,True,True,False,False,True
-2021,Raleigh,https://devopsdays.org/events/2021-raleigh/program,True,True,False,False,True
-2021,Tokyo,https://devopsdays.org/events/2021-tokyo/program,True,False,False,False,True
-2021,Shanghai,https://devopsdays.org/events/2021-shanghai/program,True,False,False,False,True
-2021,Kyiv,https://devopsdays.org/events/2021-kyiv/program,True,False,False,False,True
-2021,Vancouver,https://devopsdays.org/events/2021-vancouver/program,True,True,False,False,True
-2021,Kraków,https://devopsdays.org/events/2021-krakow/program,True,True,False,False,True
-2021,Seattle,https://devopsdays.org/events/2021-seattle/program,True,True,False,False,True
-2021,Rio de Janeiro,https://devopsdays.org/events/2021-rio-de-janeiro/program,True,True,False,False,True
-2021,Amsterdam,https://devopsdays.org/events/2021-amsterdam/program,True,True,False,False,True
-2021,Porto Alegre,https://devopsdays.org/events/2021-porto-alegre/program,True,True,False,False,True
-2021,Minneapolis,https://devopsdays.org/events/2021-minneapolis/program,True,True,True,False,True
-2021,Medellín,https://devopsdays.org/events/2021-medellin/program,True,False,False,False,True
-2021,Zürich (Winterthur),https://devopsdays.org/events/2021-zurich/program,True,True,False,False,True
-2021,Blumenau,https://devopsdays.org/events/2021-blumenau/program,True,True,False,False,True
-2021,Istanbul,https://devopsdays.org/events/2021-istanbul/program,True,False,False,False,True
-2021,"Portland, OR",https://devopsdays.org/events/2021-portland-or/program,True,True,False,False,True
-2021,Houston,https://devopsdays.org/events/2021-houston/program,True,True,False,False,True
-2021,Boston,https://devopsdays.org/events/2021-boston/program,True,True,False,False,True
-2021,Cairo,https://devopsdays.org/events/2021-cairo/program,True,False,False,False,True
-2021,Poznań,https://devopsdays.org/events/2021-poznan/program,True,True,False,False,True
-2021,Buffalo,https://devopsdays.org/events/2021-buffalo/program,True,True,False,False,True
-2021,"Washington, D.C.",https://devopsdays.org/events/2021-washington-dc/program,True,False,False,False,True
-2021,Oslo,https://devopsdays.org/events/2021-oslo/program,True,True,False,False,True
-2021,Taipei,https://devopsdays.org/events/2021-taipei/program,True,False,False,False,True
-2021,Tel Aviv,https://devopsdays.org/events/2021-tel-aviv/program,True,True,False,False,True
-2021,Bogotá,https://devopsdays.org/events/2021-bogota/program,True,False,False,False,True
-2021,Baku,https://devopsdays.org/events/2021-baku/program,True,False,False,False,True
-2022,raleigh,https://devopsdays.org/events/2022-raleigh/program,True,True,False,False,True
-2022,"Birmingham, AL",https://devopsdays.org/events/2022-birmingham-al/program,True,True,False,False,True
-2022,Atlanta,https://devopsdays.org/events/2022-atlanta/program,True,True,False,False,True
-2022,Tokyo,https://devopsdays.org/events/2022-tokyo/program,True,False,False,False,True
-2022,Denver,https://devopsdays.org/events/2022-denver/program,True,True,False,False,True
-2022,Aarhus,https://devopsdays.org/events/2022-aarhus/program,True,True,False,False,True
-2022,Kraków,https://devopsdays.org/events/2022-krakow/program,True,True,False,False,True
-2022,Boise,https://devopsdays.org/events/2022-boise/program,True,True,False,False,True
-2022,Austin,https://devopsdays.org/events/2022-austin/program,True,False,False,False,True
-2022,"Birmingham, UK",https://devopsdays.org/events/2022-birmingham-uk/program,True,True,True,False,True
-2022,Geneva,https://devopsdays.org/events/2022-geneva/program,True,True,False,False,True
-2022,Ukraine (Spring),https://devopsdays.org/events/2022-kyiv-spring/program,True,False,False,False,True
-2022,Prague,https://devopsdays.org/events/2022-prague/program,True,True,False,False,True
-2022,Zurich (Winterthur),https://devopsdays.org/events/2022-zurich/program,True,True,False,False,True
-2022,Amsterdam,https://devopsdays.org/events/2022-amsterdam/program,True,True,False,False,True
-2022,Vitoria,https://devopsdays.org/events/2022-vitoria/program,True,True,False,False,True
-2022,Seattle,https://devopsdays.org/events/2022-seattle/program,True,True,False,False,True
-2022,Medellín,https://devopsdays.org/events/2022-medellin/program,True,False,False,False,True
-2022,Los Angeles,https://devopsdays.org/events/2022-los-angeles/program,True,True,False,False,True
-2022,Minneapolis,https://devopsdays.org/events/2022-minneapolis/program,True,True,True,False,True
-2022,Jakarta,https://devopsdays.org/events/2022-jakarta/program,True,False,False,False,True
-2022,Dallas,https://devopsdays.org/events/2022-dallas/program,True,True,True,True,True
-2022,Beijing,https://devopsdays.org/events/2022-beijing/program,True,False,False,False,True
-2022,Charlotte,https://devopsdays.org/events/2022-charlotte/program,True,True,False,False,True
-2022,Boston,https://devopsdays.org/events/2022-boston/program,True,True,False,False,True
-2022,taipei,https://devopsdays.org/events/2022-taipei/program,True,False,False,False,True
-2022,"Washington, D.C.",https://devopsdays.org/events/2022-washington-dc/program,True,True,False,False,True
-2022,Chicago,https://devopsdays.org/events/2022-chicago/program,True,True,True,False,True
-2022,Berlin,https://devopsdays.org/events/2022-berlin/program,True,True,False,False,True
-2022,Cairo,https://devopsdays.org/events/2022-cairo/program,True,False,False,False,True
-2022,Portugal,https://devopsdays.org/events/2022-portugal/program,True,True,False,False,True
-2022,London,https://devopsdays.org/events/2022-london/program,True,True,False,False,True
-2022,Buffalo,https://devopsdays.org/events/2022-buffalo/program,True,True,False,False,True
-2022,Houston,https://devopsdays.org/events/2022-houston/program,True,True,False,False,True
-2022,Fortaleza,https://devopsdays.org/events/2022-fortaleza/program,True,True,False,False,True
-2022,La Paz,https://devopsdays.org/events/2022-la-paz/program,True,True,False,False,True
-2022,Eindhoven,https://devopsdays.org/events/2022-eindhoven/program,True,True,False,False,True
-2022,Tampa Bay,https://devopsdays.org/events/2022-tampa/program,True,True,False,False,True
-2022,Warsaw,https://devopsdays.org/events/2022-warsaw/program,True,True,False,False,True
-2022,Montréal,https://devopsdays.org/events/2022-montreal/program,True,True,False,False,True
-2022,Des Moines,https://devopsdays.org/events/2022-des-moines/program,True,False,False,False,True
-2022,Oslo,https://devopsdays.org/events/2022-oslo/program,True,True,False,False,True
-2022,Rio de Janeiro,https://devopsdays.org/events/2022-rio-de-janeiro/program,True,True,False,False,True
-2022,Almaty,https://devopsdays.org/events/2022-almaty/program,True,False,False,False,True
-2022,Chattanooga,https://devopsdays.org/events/2022-chattanooga/program,True,True,False,False,True
-2022,Bengaluru,https://devopsdays.org/events/2022-bengaluru/program,True,False,False,False,True
-2022,Bogotá,https://devopsdays.org/events/2022-bogota/program,True,False,False,False,True
-2022,Belém,https://devopsdays.org/events/2022-belem/program,True,False,False,False,True
-2022,Baku,https://devopsdays.org/events/2022-baku/program,True,False,False,False,True
-2022,Recife,https://devopsdays.org/events/2022-recife/program,True,True,False,False,True
-2022,Tel Aviv,https://devopsdays.org/events/2022-tel-aviv/program,True,True,False,False,True
-2023,Goiânia,https://devopsdays.org/events/2023-goiania/program,True,True,False,False,True
-2023,Los Angeles,https://devopsdays.org/events/2023-los-angeles/program,True,True,True,False,True
-2023,Salt Lake City,https://devopsdays.org/events/2023-salt-lake-city/program,True,True,False,False,True
-2023,Melbourne,https://devopsdays.org/events/2023-melbourne/program,True,True,False,False,True
-2023,Nashville,https://devopsdays.org/events/2023-nashville/program,True,True,False,False,True
-2023,raleigh,https://devopsdays.org/events/2023-raleigh/program,True,True,True,False,True
-2023,Tokyo,https://devopsdays.org/events/2023-tokyo/program,True,False,False,False,True
-2023,"Birmingham, AL",https://devopsdays.org/events/2023-birmingham-al/program,True,True,False,False,True
-2023,Denver,https://devopsdays.org/events/2023-denver/program,True,True,False,False,True
-2023,geneva,https://devopsdays.org/events/2023-geneva/program,True,True,False,False,True
-2023,Kraków,https://devopsdays.org/events/2023-krakow/program,True,True,False,False,True
-2023,Cáceres,https://devopsdays.org/events/2023-caceres/program,True,True,False,False,True
-2023,Copenhagen,https://devopsdays.org/events/2023-copenhagen/program,True,True,False,False,True
-2023,Zurich (Winterthur),https://devopsdays.org/events/2023-zurich/program,True,True,False,False,True
-2023,Austin,https://devopsdays.org/events/2023-austin/program,True,False,False,False,True
-2023,Aracaju,https://devopsdays.org/events/2023-aracaju/program,True,True,False,False,True
-2023,Medellín,https://devopsdays.org/events/2023-medellin/program,True,False,False,False,True
-2023,Juiz de Fora,https://devopsdays.org/events/2023-juiz-de-fora/program,True,True,False,False,True
-2023,prague,https://devopsdays.org/events/2023-prague/program,True,True,False,False,True
-2023,Baltimore,https://devopsdays.org/events/2023-baltimore/program,True,True,False,False,True
-2023,Phoenix,https://devopsdays.org/events/2023-phoenix/program,True,True,False,False,True
-2023,New York City,https://devopsdays.org/events/2023-new-york-city/program,True,True,False,False,True
-2023,Birmingham UK,https://devopsdays.org/events/2023-birmingham-uk/program,True,True,True,False,True
-2023,Amsterdam,https://devopsdays.org/events/2023-amsterdam/program,True,True,False,False,True
-2023,Global Organizer Summit,https://devopsdays.org/events/2023-organizer-summit/program,True,True,False,False,True
-2023,Chicago,https://devopsdays.org/events/2023-chicago/program,True,True,True,False,True
-2023,Beijing,https://devopsdays.org/events/2023-beijing/program,True,False,False,False,True
-2023,Rio de Janeiro,https://devopsdays.org/events/2023-rio-de-janeiro/program,True,True,False,False,True
-2023,Dallas,https://devopsdays.org/events/2023-dallas/program,True,True,True,False,True
-2023,Fortaleza,https://devopsdays.org/events/2023-fortaleza/program,True,True,False,False,True
-2023,Vilnius,https://devopsdays.org/events/2023-vilnius/program,True,True,False,False,True
-2023,Des Moines,https://devopsdays.org/events/2023-des-moines/program,True,False,False,False,True
-2023,Almaty,https://devopsdays.org/events/2023-almaty/program,True,False,False,False,True
-2023,Boise,https://devopsdays.org/events/2023-boise/program,True,True,False,False,True
-2023,"Washington, D.C.",https://devopsdays.org/events/2023-washington-dc/program,True,True,False,False,True
-2023,Ukraine,https://devopsdays.org/events/2023-kyiv/program,True,False,False,False,True
-2023,Atlanta,https://devopsdays.org/events/2023-atlanta/program,True,True,False,False,True
-2023,Tampa Bay,https://devopsdays.org/events/2023-tampa/program,True,True,False,False,True
-2023,London,https://devopsdays.org/events/2023-london/program,True,True,False,False,True
-2023,taipei,https://devopsdays.org/events/2023-taipei/program,True,False,False,False,True
-2023,Buffalo,https://devopsdays.org/events/2023-buffalo/program,True,True,False,False,True
-2023,Cairo,https://devopsdays.org/events/2023-cairo/program,True,False,False,False,True
-2023,Ljubljana,https://devopsdays.org/events/2023-ljubljana/program,True,True,False,False,True
-2023,Indianapolis,https://devopsdays.org/events/2023-indianapolis/program,True,True,False,False,True
-2023,madrid,https://devopsdays.org/events/2023-madrid/program,True,True,False,False,True
-2023,Eindhoven,https://devopsdays.org/events/2023-eindhoven/program,True,True,False,False,True
-2023,Oslo,https://devopsdays.org/events/2023-oslo/program,True,True,False,False,True
-2023,Boston,https://devopsdays.org/events/2023-boston/program,True,True,False,False,True
-2023,Detroit,https://devopsdays.org/events/2023-detroit/program,True,True,False,False,True
-2023,bogotá,https://devopsdays.org/events/2023-bogota/program,True,False,False,False,True
-2023,bengaluru,https://devopsdays.org/events/2023-bengaluru/program,True,True,False,False,True
-2023,La Paz,https://devopsdays.org/events/2023-la-paz/program,True,True,False,False,True
-2023,Montréal,https://devopsdays.org/events/2023-montreal/program,True,False,False,False,True
-2023,Warsaw,https://devopsdays.org/events/2023-warsaw/program,True,True,False,False,True
-2023,Belém,https://devopsdays.org/events/2023-belem/program,True,False,False,False,True
-2023,Florianópolis,https://devopsdays.org/events/2023-florianopolis/program,True,True,False,False,True
-2023,Chattanooga,https://devopsdays.org/events/2023-chattanooga/program,True,True,False,False,True
-2023,Recife,https://devopsdays.org/events/2023-recife/program,True,True,False,False,True
-2023,Baku,https://devopsdays.org/events/2023-baku/program,True,False,False,False,True
-2023,Poznań,https://devopsdays.org/events/2023-poznan/program,True,True,False,False,True
-2023,Porto Alegre,https://devopsdays.org/events/2023-porto-alegre/program,True,False,False,False,True
-2023,Salvador,https://devopsdays.org/events/2023-salvador/program,True,True,False,False,True
-2024,Los Angeles,https://devopsdays.org/events/2024-los-angeles/program,True,True,True,False,True
-2024,Kraków,https://devopsdays.org/events/2024-krakow/program,True,True,False,False,True
-2024,singapore,https://devopsdays.org/events/2024-singapore/program,True,True,False,False,True
-2024,Goiânia,https://devopsdays.org/events/2024-goiania/program,True,True,False,False,True
-2024,raleigh,https://devopsdays.org/events/2024-raleigh/program,True,True,False,False,True
-2024,Zurich (Winterthur),https://devopsdays.org/events/2024-zurich/program,True,True,False,False,True
-2024,Tokyo,https://devopsdays.org/events/2024-tokyo/program,True,False,False,False,True
-2024,Aracaju,https://devopsdays.org/events/2024-aracaju/program,True,True,False,False,True
-2024,istanbul,https://devopsdays.org/events/2024-istanbul/program,True,False,False,False,True
-2024,Austin,https://devopsdays.org/events/2024-austin/program,True,False,False,False,True
-2024,Berlin,https://devopsdays.org/events/2024-berlin/program,True,True,False,False,True
-2024,geneva,https://devopsdays.org/events/2024-geneva/program,True,True,False,False,True
-2024,Seattle,https://devopsdays.org/events/2024-seattle/program,True,True,False,False,True
-2024,Philadelphia,https://devopsdays.org/events/2024-philadelphia/program,True,True,False,False,True
-2024,Kansas City,https://devopsdays.org/events/2024-kansas-city/program,True,True,True,False,True
-2024,São Paulo,https://devopsdays.org/events/2024-sao-paulo/program,True,True,False,False,True
-2024,Medellín,https://devopsdays.org/events/2024-medellin/program,True,False,False,False,True
-2024,Montréal,https://devopsdays.org/events/2024-montreal/program,True,True,False,False,True
-2024,Nairobi,https://devopsdays.org/events/2024-nairobi/program,True,False,False,False,True
-2024,Houston,https://devopsdays.org/events/2024-houston/program,True,True,False,True,True
-2024,Ukraine,https://devopsdays.org/events/2024-kyiv/program,True,False,False,False,True
-2024,Sibiu,https://devopsdays.org/events/2024-sibiu/program,True,True,False,False,True
-2024,Amsterdam,https://devopsdays.org/events/2024-amsterdam/program,True,True,False,False,True
-2024,Juiz de Fora,https://devopsdays.org/events/2024-juiz-de-fora/program,True,True,False,False,True
-2024,Nashville,https://devopsdays.org/events/2024-nashville/program,True,True,False,False,True
-2024,taipei,https://devopsdays.org/events/2024-taipei/program,True,False,False,False,True
-2024,Jakarta,https://devopsdays.org/events/2024-jakarta/program,True,False,False,False,True
-2024,Minneapolis,https://devopsdays.org/events/2024-minneapolis/program,True,True,True,False,True
-2024,"Birmingham, AL",https://devopsdays.org/events/2024-birmingham-al/program,True,True,False,False,True
-2024,Halifax,https://devopsdays.org/events/2024-halifax/program,True,True,False,False,True
-2024,Rio de Janeiro,https://devopsdays.org/events/2024-rio-de-janeiro/program,True,True,False,False,True
-2024,Curitiba,https://devopsdays.org/events/2024-curitiba/program,True,False,False,False,True
-2024,Global Organiser Summit,https://devopsdays.org/events/2024-organiser-summit/program,True,True,False,False,True
-2024,15 year anniversary celebration: Antwerp,https://devopsdays.org/events/2024-antwerp/program,True,True,True,False,True
-2024,Vilnius,https://devopsdays.org/events/2024-vilnius/program,True,True,False,False,True
-2024,Belo Horizonte,https://devopsdays.org/events/2024-belo-horizonte/program,True,True,False,False,True
-2024,Denver,https://devopsdays.org/events/2024-denver/program,True,True,False,False,True
-2024,Tampa Bay,https://devopsdays.org/events/2024-tampa/program,True,True,False,False,True
-2024,Fortaleza,https://devopsdays.org/events/2024-fortaleza/program,True,True,False,False,True
-2024,Portugal,https://devopsdays.org/events/2024-portugal/program,True,True,False,False,True
-2024,Cairo,https://devopsdays.org/events/2024-cairo/program,True,False,False,False,True
-2024,"Washington, D.C.",https://devopsdays.org/events/2024-washington-dc/program,True,True,False,False,True
-2024,London,https://devopsdays.org/events/2024-london/program,True,True,False,False,True
-2024,Ljubljana,https://devopsdays.org/events/2024-ljubljana/program,True,False,False,False,True
-2024,kerala,https://devopsdays.org/events/2024-kerala/program,True,False,False,False,True
-2024,Cáceres,https://devopsdays.org/events/2024-caceres/program,True,True,False,False,True
-2024,Almaty,https://devopsdays.org/events/2024-almaty/program,True,False,False,False,True
-2024,Dallas,https://devopsdays.org/events/2024-dallas/program,True,True,True,False,True
-2024,Des Moines,https://devopsdays.org/events/2024-des-moines/program,True,False,False,False,True
-2024,Campinas,https://devopsdays.org/events/2024-campinas/program,True,True,False,False,True
-2024,Boston,https://devopsdays.org/events/2024-boston/program,True,True,False,False,True
-2024,Tel Aviv,https://devopsdays.org/events/2024-tel-aviv/program,True,True,False,False,True
-2024,Warsaw,https://devopsdays.org/events/2024-warsaw/program,True,False,False,False,True
-2024,João Pessoa,https://devopsdays.org/events/2024-joao-pessoa/program,True,False,False,False,True
-2024,Bogotá,https://devopsdays.org/events/2024-bogota/program,True,False,False,False,True
-2024,Chattanooga,https://devopsdays.org/events/2024-chattanooga/program,True,True,False,False,True
-2024,Florianópolis,https://devopsdays.org/events/2024-florianopolis/program,True,True,False,False,True
-2024,Natal,https://devopsdays.org/events/2024-natal/program,True,False,False,False,True
-2024,Brasília,https://devopsdays.org/events/2024-brasilia/program,True,True,False,False,True
-2024,Maceio,https://devopsdays.org/events/2024-maceio/program,True,True,False,False,True
-2024,Porto Alegre,https://devopsdays.org/events/2024-porto-alegre/program,True,True,False,False,True
-2024,Paris,https://devopsdays.org/events/2024-paris/program,True,False,False,False,True
-2024,Salvador,https://devopsdays.org/events/2024-salvador/program,True,True,False,False,True
-2024,Recife,https://devopsdays.org/events/2024-recife/program,True,True,False,False,True
-2025,Los Angeles,https://devopsdays.org/events/2025-los-angeles/program,True,True,True,False,True
-2025,Zurich,https://devopsdays.org/events/2025-zurich/program,True,True,False,False,True
-2025,goiania,https://devopsdays.org/events/2025-goiania/program,True,True,False,False,True
-2025,Chicago,https://devopsdays.org/events/2025-chicago/program,True,True,False,True,True
-2025,Tokyo,https://devopsdays.org/events/2025-tokyo/program,True,False,False,False,True
-2025,Aarhus,https://devopsdays.org/events/2025-aarhus/program,True,True,False,False,True
-2025,Atlanta,https://devopsdays.org/events/2025-atlanta/program,True,True,False,False,True
-2025,Austin,https://devopsdays.org/events/2025-austin/program,True,False,False,False,True
-2025,Salt Lake City,https://devopsdays.org/events/2025-salt-lake-city/program,True,True,False,False,True
-2025,singapore,https://devopsdays.org/events/2025-singapore/program,True,True,False,False,True
-2025,geneva,https://devopsdays.org/events/2025-geneva/program,True,True,False,False,True
-2025,Baltimore,https://devopsdays.org/events/2025-baltimore/program,True,False,False,False,True
-2025,Sibiu,https://devopsdays.org/events/2025-sibiu/program,True,True,False,False,True
-2025,Medellín,https://devopsdays.org/events/2025-medellin/program,True,False,False,False,True
-2025,prague,https://devopsdays.org/events/2025-prague/program,True,True,False,False,True
-2025,Tashkent,https://devopsdays.org/events/2025-tashkent/program,True,False,False,False,True
-2025,taipei,https://devopsdays.org/events/2025-taipei/program,True,False,False,False,True
-2025,Belém,https://devopsdays.org/events/2025-belem/program,True,False,False,False,True
-2025,Feira de Santana,https://devopsdays.org/events/2025-feira-de-santana/program,True,True,False,False,True
-2025,Amsterdam,https://devopsdays.org/events/2025-amsterdam/program,True,True,False,False,True
-2025,Kansas City,https://devopsdays.org/events/2025-kansas-city/program,True,True,False,False,True
-2025,Rio de Janeiro,https://devopsdays.org/events/2025-rio-de-janeiro/program,True,True,False,False,True
-2025,Lima,https://devopsdays.org/events/2025-lima/program,True,False,False,False,True
-2025,Halifax,https://devopsdays.org/events/2025-halifax/program,True,True,False,False,True
-2025,Curitiba,https://devopsdays.org/events/2025-curitiba/program,True,False,False,False,True
-2025,Ukraine,https://devopsdays.org/events/2025-kyiv/program,True,False,False,False,True
-2025,Graz,https://devopsdays.org/events/2025-graz/program,True,False,False,False,True
-2025,santiago,https://devopsdays.org/events/2025-santiago/program,True,False,False,False,True
-2025,Vilnius,https://devopsdays.org/events/2025-vilnius/program,True,True,False,False,True
-2025,Ljubljana,https://devopsdays.org/events/2025-ljubljana/program,True,False,False,False,True
-2025,Denver,https://devopsdays.org/events/2025-denver/program,True,True,False,False,True
-2025,dallas,https://devopsdays.org/events/2025-dallas/program,True,True,False,False,True
-2025,"Washington, DC",https://devopsdays.org/events/2025-washington-dc/program,True,True,False,False,True
-2025,Brasília,https://devopsdays.org/events/2025-brasilia/program,True,True,False,False,True
-2025,london,https://devopsdays.org/events/2025-london/program,True,True,False,False,True
-2025,Cairo,https://devopsdays.org/events/2025-cairo/program,True,False,False,False,True
-2025,Juiz de Fora,https://devopsdays.org/events/2025-juiz-de-fora/program,True,False,False,False,True
-2025,Philadelphia,https://devopsdays.org/events/2025-philadelphia/program,True,True,False,False,True
-2025,Des Moines,https://devopsdays.org/events/2025-des-moines/program,True,False,False,False,True
-2025,Belo Horizonte,https://devopsdays.org/events/2025-belo-horizonte/program,True,True,False,False,True
-2025,Fortaleza,https://devopsdays.org/events/2025-fortaleza/program,True,True,False,False,True
-2025,Montréal,https://devopsdays.org/events/2025-montreal/program,True,True,False,False,True
-2025,Bogotá,https://devopsdays.org/events/2025-bogota/program,True,False,False,False,True
-2025,Campinas,https://devopsdays.org/events/2025-campinas/program,True,True,False,False,True
-2025,Garanhuns,https://devopsdays.org/events/2025-garanhuns/program,True,False,False,False,True
-2025,Almaty,https://devopsdays.org/events/2025-almaty/program,True,False,False,False,True
-2025,Maceio,https://devopsdays.org/events/2025-maceio/program,True,True,False,False,True
-2025,Istanbul,https://devopsdays.org/events/2025-istanbul/program,True,False,False,False,True
-2025,João Pessoa,https://devopsdays.org/events/2025-joao-pessoa/program,True,False,False,False,True
-2025,Warsaw,https://devopsdays.org/events/2025-warsaw/program,True,False,False,False,True
-2025,São Paulo,https://devopsdays.org/events/2025-sao-paulo/program,True,False,False,False,True
-2025,Wollongong,https://devopsdays.org/events/2025-wollongong/program,True,True,False,False,True
-2025,Porto Alegre,https://devopsdays.org/events/2025-porto-alegre/program,True,True,False,False,True
+2009,Ghent - Belgium,https://devopsdays.org/events/2009-ghent/program,True,True,True,True,True
+2010,Sydney - Australia,https://devopsdays.org/events/2010-sydney/program,True,False,False,False,True
+2010,Mountain View - United States,https://devopsdays.org/events/2010-us/program,True,True,True,False,True
+2010,Hamburg - Germany,https://devopsdays.org/events/2010-europe/program,True,True,True,True,True
+2010,São Paulo - Brazil,https://devopsdays.org/events/2010-brazil/program,True,True,True,False,True
+2011,Boston - United States,https://devopsdays.org/events/2011-boston/program,True,True,False,True,True
+2011,Mountain View - United States,https://devopsdays.org/events/2011-mountainview/program,True,True,False,False,True
+2011,Melbourne - Australia,https://devopsdays.org/events/2011-melbourne/program,True,False,False,False,True
+2011,Bangalore - India,https://devopsdays.org/events/2011-bangalore/program,True,True,False,False,True
+2011,Göteborg - Sweden,https://devopsdays.org/events/2011-goteborg/program,True,True,False,True,True
+2011,Manila - Philippines,https://devopsdays.org/events/2011-manila/program,True,True,False,False,True
+2012,Austin - United States,https://devopsdays.org/events/2012-austin/program,True,True,False,False,True
+2012,Tokyo - Japan,https://devopsdays.org/events/2012-tokyo/program,True,True,False,False,True
+2012,Mountain View - United States,https://devopsdays.org/events/2012-mountainview/program,True,True,True,False,True
+2012,Delhi - India,https://devopsdays.org/events/2012-india/program,True,True,False,False,True
+2012,Rome - Italy,https://devopsdays.org/events/2012-italy/program,True,True,False,False,True
+2013,New York - United States,https://devopsdays.org/events/2012-newyork/program,True,True,False,False,True
+2013,New Zealand - New Zealand,https://devopsdays.org/events/2013-newzealand/program,True,True,False,False,True
+2013,London - United Kingdom,https://devopsdays.org/events/2013-london-spring/program,True,True,False,False,True
+2013,Paris - France,https://devopsdays.org/events/2013-paris/program,True,True,False,False,True
+2013,Austin - United States,https://devopsdays.org/events/2013-austin/program,True,True,False,False,True
+2013,Berlin - Germany,https://devopsdays.org/events/2013-berlin/program,True,True,False,True,True
+2013,Amsterdam - The Netherlands,https://devopsdays.org/events/2013-amsterdam/program,True,True,False,False,True
+2013,Silicon Valley - United States,https://devopsdays.org/events/2013-mountainview/program,True,True,False,False,True
+2013,Sydney - Australia,https://devopsdays.org/events/2013-downunder/program,True,True,False,False,True
+2013,Tokyo - Japan,https://devopsdays.org/events/2013-tokyo/program,True,True,False,False,True
+2013,Tel Aviv - Israel,https://devopsdays.org/events/2013-telaviv/program,True,True,False,False,True
+2013,Atlanta - United States,https://devopsdays.org/events/2013-atlanta/program,True,True,False,False,True
+2013,Barcelona - Spain,https://devopsdays.org/events/2013-barcelona/program,True,True,False,False,True
+2013,New York - United States,https://devopsdays.org/events/2013-newyork/program,True,True,False,False,True
+2013,Vancouver - Canada,https://devopsdays.org/events/2013-vancouver/program,True,True,False,False,True
+2013,Portland - United States,https://devopsdays.org/events/2013-portland/program,True,True,False,False,True
+2013,London - United Kingdom,https://devopsdays.org/events/2013-london/program,True,True,False,False,True
+2013,Bangalore - India,https://devopsdays.org/events/2013-india/program,True,True,False,False,True
+2014,Nairobi - Kenya,https://devopsdays.org/events/2014-nairobi/program,True,False,False,False,True
+2014,Ljubljana - Slovenia,https://devopsdays.org/events/2014-ljubljana/program,True,True,False,False,True
+2014,Austin - United States,https://devopsdays.org/events/2014-austin/program,True,True,False,True,True
+2014,Pittsburgh - United States,https://devopsdays.org/events/2014-pittsburgh/program,True,True,False,False,True
+2014,Amsterdam - The Netherlands,https://devopsdays.org/events/2014-amsterdam/program,True,True,False,False,True
+2014,Silicon Valley - United States,https://devopsdays.org/events/2014-siliconvalley/program,True,True,False,False,True
+2014,Minneapolis - United States,https://devopsdays.org/events/2014-minneapolis/program,True,True,True,False,True
+2014,Brisbane - Australia,https://devopsdays.org/events/2014-brisbane/program,True,True,False,False,True
+2014,Boston - United States,https://devopsdays.org/events/2014-boston/program,True,True,True,True,True
+2014,Toronto - Canada,https://devopsdays.org/events/2014-toronto/program,True,True,True,False,True
+2014,New York - United States,https://devopsdays.org/events/2014-newyork/program,True,True,True,False,True
+2014,Warsaw - Poland,https://devopsdays.org/events/2014-warsaw/program,True,True,True,False,True
+2014,Chicago - United States,https://devopsdays.org/events/2014-chicago/program,True,True,True,False,True
+2014,Berlin - Germany,https://devopsdays.org/events/2014-berlin/program,True,True,True,True,True
+2014,Belgium - Belgium,https://devopsdays.org/events/2014-belgium/program,True,True,False,False,True
+2014,Helsinki - Finland,https://devopsdays.org/events/2014-helsinki/program,True,True,False,False,True
+2014,Vancouver - Canada,https://devopsdays.org/events/2014-vancouver/program,True,True,False,False,True
+2014,Tel Aviv - Israel,https://devopsdays.org/events/2014-telaviv/program,True,True,False,False,True
+2014,Bangalore - India,https://devopsdays.org/events/2014-bangalore/program,True,True,False,False,True
+2015,Ljubljana - Slovenia,https://devopsdays.org/events/2015-ljubljana/program,True,True,False,False,True
+2015,Paris - France,https://devopsdays.org/events/2015-paris/program,True,True,False,False,True
+2015,Denver - United States,https://devopsdays.org/events/2015-denver/program,True,False,False,False,True
+2015,New York - United States,https://devopsdays.org/events/2015-newyork/program,True,True,False,False,True
+2015,Austin - United States,https://devopsdays.org/events/2015-austin/program,True,True,False,False,True
+2015,Toronto - Canada,https://devopsdays.org/events/2015-toronto/program,True,True,True,False,True
+2015,Washington - United States,https://devopsdays.org/events/2015-washington-dc/program,True,True,True,False,True
+2015,Amsterdam - The Netherlands,https://devopsdays.org/events/2015-amsterdam/program,True,True,False,False,True
+2015,Minneapolis - United States,https://devopsdays.org/events/2015-minneapolis/program,True,True,False,False,True
+2015,Melbourne - Australia,https://devopsdays.org/events/2015-melbourne/program,True,True,False,False,True
+2015,Pittsburgh - United States,https://devopsdays.org/events/2015-pittsburgh/program,True,True,True,False,True
+2015,Chicago - United States,https://devopsdays.org/events/2015-chicago/program,True,True,False,False,True
+2015,Bangalore - India,https://devopsdays.org/events/2015-bangalore/program,True,True,False,False,True
+2015,Boston - United States,https://devopsdays.org/events/2015-boston/program,True,True,True,False,True
+2015,Tel Aviv - Israel,https://devopsdays.org/events/2015-telaviv/program,True,True,True,True,True
+2015,Singapore - Singapore,https://devopsdays.org/events/2015-singapore/program,True,True,True,True,True
+2015,Berlin - Germany,https://devopsdays.org/events/2015-berlin/program,True,True,True,True,True
+2015,Charlotte - United States,https://devopsdays.org/events/2015-charlotte/program,True,True,False,False,True
+2015,Silicon Valley - United States,https://devopsdays.org/events/2015-siliconvalley/program,True,True,False,False,True
+2015,Detroit - United States,https://devopsdays.org/events/2015-detroit/program,True,True,False,False,True
+2015,Ohio - United States,https://devopsdays.org/events/2015-ohio/program,True,True,False,False,True
+2015,Warsaw - Poland,https://devopsdays.org/events/2015-warsaw/program,True,True,True,False,True
+2016,Los Angeles - United States,https://devopsdays.org/events/2016-losangeles-1day/program,True,True,False,False,True
+2016,Vancouver - Canada,https://devopsdays.org/events/2016-vancouver/program,True,True,False,False,True
+2016,London - United Kingdom,https://devopsdays.org/events/2016-london/program,True,True,True,False,True
+2016,Denver - United States,https://devopsdays.org/events/2016-denver/program,True,True,False,False,True
+2016,Atlanta - United States,https://devopsdays.org/events/2016-atlanta/program,True,True,False,False,True
+2016,Austin - United States,https://devopsdays.org/events/2016-austin/program,True,True,False,False,True
+2016,Kiel - Germany,https://devopsdays.org/events/2016-kiel/program,True,True,False,False,True
+2016,Seattle - United States,https://devopsdays.org/events/2016-seattle/program,True,True,False,False,True
+2016,Toronto - Canada,https://devopsdays.org/events/2016-toronto/program,True,True,False,False,True
+2016,Istanbul - Türkiye,https://devopsdays.org/events/2016-istanbul/program,True,True,False,False,True
+2016,Washington - United States,https://devopsdays.org/events/2016-washington-dc/program,True,True,False,False,True
+2016,Salt Lake City - United States,https://devopsdays.org/events/2016-saltlakecity/program,True,True,False,False,True
+2016,Silicon Valley - United States,https://devopsdays.org/events/2016-siliconvalley/program,True,True,False,False,True
+2016,Amsterdam - The Netherlands,https://devopsdays.org/events/2016-amsterdam/program,True,True,False,False,True
+2016,Porto Alegre - Brazil,https://devopsdays.org/events/2016-portoalegre/program,True,False,False,False,True
+2016,Minneapolis - United States,https://devopsdays.org/events/2016-minneapolis/program,True,True,False,False,True
+2016,Portland - United States,https://devopsdays.org/events/2016-portland/program,True,True,False,False,True
+2016,Boston - United States,https://devopsdays.org/events/2016-boston/program,True,True,False,True,True
+2016,Chicago - United States,https://devopsdays.org/events/2016-chicago/program,True,True,True,False,True
+2016,Oslo - Norway,https://devopsdays.org/events/2016-oslo/program,True,True,True,True,True
+2016,Dallas - United States,https://devopsdays.org/events/2016-dallas/program,True,True,False,False,True
+2016,New York - United States,https://devopsdays.org/events/2016-newyork/program,True,True,False,False,True
+2016,Wellington - New Zealand,https://devopsdays.org/events/2016-newzealand/program,True,True,False,False,True
+2016,Raleigh - United States,https://devopsdays.org/events/2016-raleigh/program,True,True,False,False,True
+2016,Boise - United States,https://devopsdays.org/events/2016-boise/program,True,True,False,True,True
+2016,Singapore - Singapore,https://devopsdays.org/events/2016-singapore/program,True,True,False,False,True
+2016,Detroit - United States,https://devopsdays.org/events/2016-detroit/program,True,True,False,False,True
+2016,Cuba - Cuba,https://devopsdays.org/events/2016-cuba/program,True,True,False,False,True
+2016,Kansas City - United States,https://devopsdays.org/events/2016-kansascity/program,True,True,True,True,True
+2016,Philadelphia - United States,https://devopsdays.org/events/2016-philadelphia/program,True,True,False,False,True
+2016,Ghent - Belgium,https://devopsdays.org/events/2016-ghent/program,True,True,False,False,True
+2016,Ohio - United States,https://devopsdays.org/events/2016-ohio/program,True,True,True,False,True
+2016,Madison - United States,https://devopsdays.org/events/2016-madison/program,True,True,False,False,True
+2016,Bangalore - India,https://devopsdays.org/events/2016-bangalore/program,True,False,False,False,True
+2016,Cape Town - South Africa,https://devopsdays.org/events/2016-capetown/program,True,True,False,False,True
+2016,Nashville - United States,https://devopsdays.org/events/2016-nashville/program,True,True,False,False,True
+2016,Berlin - Germany,https://devopsdays.org/events/2016-berlin/program,True,True,False,False,True
+2016,Brasília - Brazil,https://devopsdays.org/events/2016-brasilia/program,True,True,False,False,True
+2016,Warsaw - Poland,https://devopsdays.org/events/2016-warsaw/program,True,True,False,False,True
+2016,Paris - France,https://devopsdays.org/events/2016-paris/program,True,True,False,False,True
+2016,Sydney - Australia,https://devopsdays.org/events/2016-sydney/program,True,True,False,False,True
+2016,Tel Aviv - Israel,https://devopsdays.org/events/2016-telaviv/program,True,True,False,False,True
+2017,Charlotte - United States,https://devopsdays.org/events/2017-charlotte/program,True,True,False,False,True
+2017,Los Angeles - United States,https://devopsdays.org/events/2017-los-angeles/program,True,True,False,False,True
+2017,Baltimore - United States,https://devopsdays.org/events/2017-baltimore/program,True,True,False,False,True
+2017,Moscow - Russia,https://devopsdays.org/events/2017-moscow/program,True,True,False,False,True
+2017,Beijing - China,https://devopsdays.org/events/2017-beijing/program,True,True,False,False,True
+2017,Vancouver - Canada,https://devopsdays.org/events/2017-vancouver/program,True,True,False,False,True
+2017,Denver - United States,https://devopsdays.org/events/2017-denver/program,True,True,False,False,True
+2017,Atlanta - United States,https://devopsdays.org/events/2017-atlanta/program,True,True,False,False,True
+2017,Tokyo - Japan,https://devopsdays.org/events/2017-tokyo/program,True,True,False,False,True
+2017,Seattle - United States,https://devopsdays.org/events/2017-seattle/program,True,True,False,False,True
+2017,Zürich - Switzerland,https://devopsdays.org/events/2017-zurich/program,True,True,False,False,True
+2017,Austin - United States,https://devopsdays.org/events/2017-austin/program,True,False,False,False,True
+2017,Stockholm - Sweden,https://devopsdays.org/events/2017-stockholm/program,True,True,False,False,True
+2017,Salt Lake City - United States,https://devopsdays.org/events/2017-salt-lake-city/program,True,True,False,False,True
+2017,Toronto - Canada,https://devopsdays.org/events/2017-toronto/program,True,True,False,False,True
+2017,Amsterdam - The Netherlands,https://devopsdays.org/events/2017-amsterdam/program,True,True,False,False,True
+2017,Washington - United States,https://devopsdays.org/events/2017-washington-dc/program,True,True,False,False,True
+2017,Minneapolis - United States,https://devopsdays.org/events/2017-minneapolis/program,True,True,False,False,True
+2017,Portland - United States,https://devopsdays.org/events/2017-portland/program,True,True,False,False,True
+2017,Porto Alegre - Brazil,https://devopsdays.org/events/2017-porto-alegre/program,True,False,False,False,True
+2017,Shanghai - China,https://devopsdays.org/events/2017-shanghai/program,True,False,False,False,True
+2017,Dallas - United States,https://devopsdays.org/events/2017-dallas/program,True,True,True,True,True
+2017,Taipei - Taiwan,https://devopsdays.org/events/2017-taipei/program,True,False,False,False,True
+2017,London - United Kingdom,https://devopsdays.org/events/2017-london/program,True,True,False,False,True
+2017,Raleigh - United States,https://devopsdays.org/events/2017-raleigh/program,True,True,False,False,True
+2017,Chicago - United States,https://devopsdays.org/events/2017-chicago/program,True,True,True,False,True
+2017,Bangalore - India,https://devopsdays.org/events/2017-bangalore/program,True,False,False,False,True
+2017,Boston - United States,https://devopsdays.org/events/2017-boston/program,True,True,False,False,True
+2017,Riga - Latvia,https://devopsdays.org/events/2017-riga/program,True,True,False,False,True
+2017,Kansas City - United States,https://devopsdays.org/events/2017-kansascity/program,True,True,False,False,True
+2017,Detroit - United States,https://devopsdays.org/events/2017-detroit/program,True,True,False,False,True
+2017,Istanbul - Türkiye,https://devopsdays.org/events/2017-istanbul/program,True,True,False,False,True
+2017,Paris - France,https://devopsdays.org/events/2017-paris/program,True,True,False,False,True
+2017,Auckland - New Zealand,https://devopsdays.org/events/2017-auckland/program,True,True,False,False,True
+2017,Hartford - United States,https://devopsdays.org/events/2017-hartford/program,True,True,False,False,True
+2017,Nashville - United States,https://devopsdays.org/events/2017-nashville/program,True,True,False,False,True
+2017,Berlin - Germany,https://devopsdays.org/events/2017-berlin/program,True,True,False,False,True
+2017,Cuba - Cuba,https://devopsdays.org/events/2017-cuba/program,True,True,False,False,True
+2017,Edinburgh - United Kingdom,https://devopsdays.org/events/2017-edinburgh/program,True,True,False,False,True
+2017,Phoenix - United States,https://devopsdays.org/events/2017-phoenix/program,True,True,False,False,True
+2017,Philadelphia - United States,https://devopsdays.org/events/2017-philadelphia/program,True,True,False,False,True
+2017,Singapore - Singapore,https://devopsdays.org/events/2017-singapore/program,True,True,False,False,True
+2017,Salvador - Brazil,https://devopsdays.org/events/2017-salvador/program,True,False,False,False,True
+2017,Madison - United States,https://devopsdays.org/events/2017-madison/program,True,True,False,False,True
+2017,Oslo - Norway,https://devopsdays.org/events/2017-oslo/program,True,True,False,False,True
+2017,Cape Town - South Africa,https://devopsdays.org/events/2017-cape-town/program,True,True,True,True,True
+2017,Brasília - Brazil,https://devopsdays.org/events/2017-brasilia/program,True,True,False,False,True
+2017,Ohio - United States,https://devopsdays.org/events/2017-ohio/program,True,True,False,False,True
+2017,Galway - Ireland,https://devopsdays.org/events/2017-galway/program,True,True,False,False,True
+2017,Tel Aviv - Israel,https://devopsdays.org/events/2017-tel-aviv/program,True,True,False,False,True
+2017,Warsaw - Poland,https://devopsdays.org/events/2017-warsaw/program,True,True,False,False,True
+2018,New York City - United States,https://devopsdays.org/events/2018-new-york-city/program,True,True,False,False,True
+2018,Charlotte - United States,https://devopsdays.org/events/2018-charlotte/program,True,True,False,False,True
+2018,Los Angeles - United States,https://devopsdays.org/events/2018-los-angeles/program,True,True,False,False,True
+2018,Baltimore - United States,https://devopsdays.org/events/2018-baltimore/program,True,False,False,False,True
+2018,Maringá - Brazil,https://devopsdays.org/events/2018-maringa/program,True,False,False,False,True
+2018,Des Moines - United States,https://devopsdays.org/events/2018-des-moines/program,True,True,False,False,True
+2018,Atlanta - United States,https://devopsdays.org/events/2018-atlanta/program,True,True,False,False,True
+2018,Denver - United States,https://devopsdays.org/events/2018-denver/program,True,True,False,False,True
+2018,Vancouver - Canada,https://devopsdays.org/events/2018-vancouver/program,True,True,False,False,True
+2018,Seattle - United States,https://devopsdays.org/events/2018-seattle/program,True,True,False,False,True
+2018,Copenhagen - Denmark,https://devopsdays.org/events/2018-copenhagen/program,True,True,False,False,True
+2018,Tokyo - Japan,https://devopsdays.org/events/2018-tokyo/program,True,True,False,False,True
+2018,Jakarta - Indonesia,https://devopsdays.org/events/2018-jakarta/program,True,True,False,False,True
+2018,Zürich - Switzerland,https://devopsdays.org/events/2018-zurich/program,True,True,False,False,True
+2018,Austin - United States,https://devopsdays.org/events/2018-austin/program,True,True,False,False,True
+2018,Beijing - China,https://devopsdays.org/events/2018-beijing/program,True,False,False,False,True
+2018,Kiev - Kazakhstan,https://devopsdays.org/events/2018-kiev/program,True,True,False,False,True
+2018,Salt Lake City - United States,https://devopsdays.org/events/2018-salt-lake-city/program,True,False,False,False,True
+2018,Kiel - Germany,https://devopsdays.org/events/2018-kiel/program,True,True,False,False,True
+2018,Silicon Valley - United States,https://devopsdays.org/events/2018-silicon-valley/program,True,True,False,False,True
+2018,Victoria - Brazil,https://devopsdays.org/events/2018-victoria/program,True,True,False,False,True
+2018,Toronto - Canada,https://devopsdays.org/events/2018-toronto/program,True,True,False,False,True
+2018,São Paulo - Brazil,https://devopsdays.org/events/2018-sao-paulo/program,True,True,False,False,True
+2018,Washington - United States,https://devopsdays.org/events/2018-washington-dc/program,True,False,False,False,True
+2018,Boise - United States,https://devopsdays.org/events/2018-boise/program,True,True,False,False,True
+2018,Moscow - Russia,https://devopsdays.org/events/2018-moscow/program,True,True,False,False,True
+2018,Amsterdam - The Netherlands,https://devopsdays.org/events/2018-amsterdam/program,True,True,False,False,True
+2018,Minneapolis - United States,https://devopsdays.org/events/2018-minneapolis/program,True,True,False,False,True
+2018,Indianapolis - United States,https://devopsdays.org/events/2018-indianapolis/program,True,True,False,False,True
+2018,Santa Maria - Brazil,https://devopsdays.org/events/2018-santa-maria/program,True,True,False,False,True
+2018,Shanghai - China,https://devopsdays.org/events/2018-shanghai/program,True,False,False,False,True
+2018,Chicago - United States,https://devopsdays.org/events/2018-chicago/program,True,True,True,True,True
+2018,Dallas - United States,https://devopsdays.org/events/2018-dallas/program,True,True,True,True,True
+2018,Raleigh - United States,https://devopsdays.org/events/2018-raleigh/program,True,False,False,False,True
+2018,Taipei - Taiwan,https://devopsdays.org/events/2018-taipei/program,True,False,False,False,True
+2018,Portland - United States,https://devopsdays.org/events/2018-portland/program,True,True,False,False,True
+2018,Berlin - Germany,https://devopsdays.org/events/2018-berlin/program,True,True,False,False,True
+2018,Kazan - Russia,https://devopsdays.org/events/2018-kazan/program,True,False,False,False,True
+2018,Porto Alegre - Brazil,https://devopsdays.org/events/2018-porto-alegre/program,True,True,False,False,True
+2018,Cairo - Egypt,https://devopsdays.org/events/2018-cairo/program,True,True,False,False,True
+2018,Columbus - United States,https://devopsdays.org/events/2018-columbus/program,True,True,True,False,True
+2018,London - United Kingdom,https://devopsdays.org/events/2018-london/program,True,True,False,False,True
+2018,Cape Town - South Africa,https://devopsdays.org/events/2018-cape-town/program,True,True,False,False,True
+2018,Istanbul - Türkiye,https://devopsdays.org/events/2018-istanbul/program,True,True,False,False,True
+2018,Boston - United States,https://devopsdays.org/events/2018-boston/program,True,True,False,False,True
+2018,Riga - Latvia,https://devopsdays.org/events/2018-riga/program,True,True,False,False,True
+2018,Belo Horizonte - Brazil,https://devopsdays.org/events/2018-belo-horizonte/program,True,True,False,False,True
+2018,Detroit - United States,https://devopsdays.org/events/2018-detroit/program,True,True,False,False,True
+2018,Montreal - Canada,https://devopsdays.org/events/2018-montreal/program,True,True,False,False,True
+2018,Singapore - Singapore,https://devopsdays.org/events/2018-singapore/program,True,True,False,False,True
+2018,Hartford - United States,https://devopsdays.org/events/2018-hartford/program,True,True,False,False,True
+2018,Paris - France,https://devopsdays.org/events/2018-paris/program,True,False,False,False,True
+2018,Kansas City - United States,https://devopsdays.org/events/2018-kansas-city/program,True,True,False,False,True
+2018,Fortaleza - Brazil,https://devopsdays.org/events/2018-fortaleza/program,True,True,False,False,True
+2018,Philadelphia - United States,https://devopsdays.org/events/2018-philadelphia/program,True,True,False,False,True
+2018,Phoenix - United States,https://devopsdays.org/events/2018-phoenix/program,True,True,False,False,True
+2018,Newcastle - South Africa,https://devopsdays.org/events/2018-newcastle/program,True,False,False,False,True
+2018,Salvador - Brazil,https://devopsdays.org/events/2018-salvador/program,True,True,False,False,True
+2018,Oslo - Norway,https://devopsdays.org/events/2018-oslo/program,True,True,False,False,True
+2018,Edinburgh - United Kingdom,https://devopsdays.org/events/2018-edinburgh/program,True,True,False,False,True
+2018,Shenzhen - China,https://devopsdays.org/events/2018-shenzhen/program,True,False,False,False,True
+2018,Wellington - New Zealand,https://devopsdays.org/events/2018-wellington/program,True,True,False,False,True
+2018,Rio de Janeiro - Brazil,https://devopsdays.org/events/2018-rio-de-janeiro/program,True,True,False,False,True
+2018,Chattanooga - United States,https://devopsdays.org/events/2018-chattanooga/program,True,True,False,False,True
+2018,Galway - Ireland,https://devopsdays.org/events/2018-galway/program,True,True,False,False,True
+2018,Warsaw - Poland,https://devopsdays.org/events/2018-warsaw/program,True,True,False,False,True
+2018,Belém - Brazil,https://devopsdays.org/events/2018-belem/program,True,False,False,False,True
+2018,Florianópolis - Brazil,https://devopsdays.org/events/2018-florianopolis/program,True,True,False,False,True
+2018,Bengaluru - India,https://devopsdays.org/events/2018-bengaluru/program,True,False,False,False,True
+2018,Feira de Santana - Brazil,https://devopsdays.org/events/2018-feira-de-santana/program,True,False,False,False,True
+2018,Tel Aviv - Israel,https://devopsdays.org/events/2018-tel-aviv/program,True,True,False,False,True
+2019,New York City - United States,https://devopsdays.org/events/2019-new-york-city/program,True,True,False,False,True
+2019,Charlotte - United States,https://devopsdays.org/events/2019-charlotte/program,True,True,False,False,True
+2019,Geneva - Switzerland,https://devopsdays.org/events/2019-geneva/program,True,True,False,False,True
+2019,Los Angeles - United States,https://devopsdays.org/events/2019-los-angeles/program,True,True,False,False,True
+2019,Natal - Brazil,https://devopsdays.org/events/2019-natal/program,True,True,False,False,True
+2019,Vancouver - Canada,https://devopsdays.org/events/2019-vancouver/program,True,True,False,False,True
+2019,Copenhagen - Denmark,https://devopsdays.org/events/2019-copenhagen/program,True,True,False,False,True
+2019,Atlanta - United States,https://devopsdays.org/events/2019-atlanta/program,True,True,False,False,True
+2019,Tokyo - Japan,https://devopsdays.org/events/2019-tokyo/program,True,True,False,False,True
+2019,Jakarta - Indonesia,https://devopsdays.org/events/2019-jakarta/program,True,True,False,False,True
+2019,São Paulo - Brazil,https://devopsdays.org/events/2019-sao-paulo/program,True,True,False,False,True
+2019,Houston - United States,https://devopsdays.org/events/2019-houston/program,True,True,False,True,True
+2019,Seattle - United States,https://devopsdays.org/events/2019-seattle/program,True,True,False,False,True
+2019,Baltimore - United States,https://devopsdays.org/events/2019-baltimore/program,True,False,False,False,True
+2019,Denver - United States,https://devopsdays.org/events/2019-denver/program,True,True,False,False,True
+2019,Austin - United States,https://devopsdays.org/events/2018-austin/program,True,True,False,False,True
+2019,Des Moines - United States,https://devopsdays.org/events/2019-des-moines/program,True,True,False,False,True
+2019,Nashville - United States,https://devopsdays.org/events/2019-nashville/program,True,False,False,False,True
+2019,Beijing - China,https://devopsdays.org/events/2019-beijing/program,True,False,False,False,True
+2019,Zürich - Switzerland,https://devopsdays.org/events/2019-zurich/program,True,True,False,False,True
+2019,Salt Lake City - United States,https://devopsdays.org/events/2019-salt-lake-city/program,True,True,False,False,True
+2019,Kiev - Ukraine,https://devopsdays.org/events/2019-kiev/program,True,False,False,False,True
+2019,Poznań - Poland,https://devopsdays.org/events/2019-poznan/program,True,True,False,False,True
+2019,Porto Alegre - Brazil,https://devopsdays.org/events/2019-porto-alegre/program,True,True,False,False,True
+2019,Bogotá - Colombia,https://devopsdays.org/events/2019-bogota/program,True,False,False,False,True
+2019,Toronto - Canada,https://devopsdays.org/events/2019-toronto/program,True,True,False,False,True
+2019,Boise - United States,https://devopsdays.org/events/2019-boise/program,True,True,False,False,True
+2019,Victoria - Brazil,https://devopsdays.org/events/2019-victoria/program,True,True,False,False,True
+2019,Portugal - Portugal,https://devopsdays.org/events/2019-portugal/program,True,True,False,False,True
+2019,Tampa Bay - United States,https://devopsdays.org/events/2019-tampa/program,True,True,False,False,True
+2019,Aracaju - Brazil,https://devopsdays.org/events/2019-aracaju/program,True,True,False,False,True
+2019,Cuba - Cuba,https://devopsdays.org/events/2019-cuba/program,True,False,False,False,True
+2019,Amsterdam - The Netherlands,https://devopsdays.org/events/2019-amsterdam/program,True,True,False,False,True
+2019,Washington - United States,https://devopsdays.org/events/2019-washington-dc/program,True,True,True,False,True
+2019,Indianapolis - United States,https://devopsdays.org/events/2019-indianapolis/program,True,True,False,False,True
+2019,Florianópolis - Brazil,https://devopsdays.org/events/2019-florianopolis/program,True,True,False,False,True
+2019,Goiânia - Brazil,https://devopsdays.org/events/2019-goiania/program,True,False,False,False,True
+2019,Minneapolis - United States,https://devopsdays.org/events/2019-minneapolis/program,True,True,False,False,True
+2019,Dallas - United States,https://devopsdays.org/events/2019-dallas/program,True,True,True,True,True
+2019,Montevideo - Uruguay,https://devopsdays.org/events/2019-montevideo/program,True,True,False,False,True
+2019,Chicago - United States,https://devopsdays.org/events/2019-chicago/program,True,True,True,True,True
+2019,Cape Town - South Africa,https://devopsdays.org/events/2019-cape-town/program,True,True,False,False,True
+2019,Portland - United States,https://devopsdays.org/events/2019-portland/program,True,True,False,False,True
+2019,Bengaluru - India,https://devopsdays.org/events/2019-bengaluru/program,True,False,False,False,True
+2019,Feira de Santana - Brazil,https://devopsdays.org/events/2019-feira-de-santana/program,True,False,False,False,True
+2019,Stockholm - Sweden,https://devopsdays.org/events/2019-stockholm/program,True,True,False,False,True
+2019,Columbus - United States,https://devopsdays.org/events/2019-columbus/program,True,True,False,False,True
+2019,Cairo - Egypt,https://devopsdays.org/events/2019-cairo/program,True,False,False,False,True
+2019,Istanbul - Türkiye,https://devopsdays.org/events/2019-istanbul/program,True,False,False,False,True
+2019,Boston - United States,https://devopsdays.org/events/2019-boston/program,True,True,False,False,True
+2019,Buffalo - United States,https://devopsdays.org/events/2019-buffalo/program,True,True,False,False,True
+2019,London - United Kingdom,https://devopsdays.org/events/2019-london/program,True,True,False,False,True
+2019,Belo Horizonte - Brazil,https://devopsdays.org/events/2019-belo-horizonte/program,True,True,False,False,True
+2019,Fortaleza - Brazil,https://devopsdays.org/events/2019-fortaleza/program,True,True,False,False,True
+2019,Raleigh - United States,https://devopsdays.org/events/2019-raleigh/program,True,True,False,False,True
+2019,Hartford - United States,https://devopsdays.org/events/2019-hartford/program,True,True,False,False,True
+2019,Salvador - Brazil,https://devopsdays.org/events/2019-salvador/program,True,True,False,False,True
+2019,Sydney - Australia,https://devopsdays.org/events/2019-sydney/program,True,False,False,False,True
+2019,Taipei - Taiwan,https://devopsdays.org/events/2019-taipei/program,True,False,False,False,True
+2019,Edinburgh - United Kingdom,https://devopsdays.org/events/2019-edinburgh/program,True,True,False,False,True
+2019,Paris - France,https://devopsdays.org/events/2019-paris/program,True,False,False,False,True
+2019,Auckland - New Zealand,https://devopsdays.org/events/2019-auckland/program,True,True,False,False,True
+2019,Philadelphia - United States,https://devopsdays.org/events/2019-philadelphia/program,True,True,False,False,True
+2019,Oslo - Norway,https://devopsdays.org/events/2019-oslo/program,True,True,False,False,True
+2019,Detroit - United States,https://devopsdays.org/events/2019-detroit/program,True,True,False,False,True
+2019,Kansas City - United States,https://devopsdays.org/events/2019-kansas-city/program,True,True,False,True,True
+2019,Campinas - Brazil,https://devopsdays.org/events/2019-campinas/program,True,True,False,False,True
+2019,Ghent - Belgium,https://devopsdays.org/events/2019-ghent/program,True,True,False,False,True
+2019,Montreal - Canada,https://devopsdays.org/events/2019-montreal/program,True,True,False,False,True
+2019,Chattanooga - United States,https://devopsdays.org/events/2019-chattanooga/program,True,True,False,False,True
+2019,Macapá - Brazil,https://devopsdays.org/events/2019-macapa/program,True,False,False,False,True
+2019,Galway - Ireland,https://devopsdays.org/events/2019-galway/program,True,True,False,False,True
+2019,Baku - Azerbaijan,https://devopsdays.org/events/2019-baku/program,True,False,False,False,True
+2019,Warsaw - Poland,https://devopsdays.org/events/2019-warsaw/program,True,False,False,False,True
+2019,Berlin - Germany,https://devopsdays.org/events/2019-berlin/program,True,True,False,False,True
+2019,Moscow - Russia,https://devopsdays.org/events/2019-moscow/program,True,True,False,False,True
+2019,Shanghai - China,https://devopsdays.org/events/2019-shanghai/program,True,False,False,False,True
+2019,Belém - Brazil,https://devopsdays.org/events/2019-belem/program,True,False,False,False,True
+2019,Recife - Brazil,https://devopsdays.org/events/2019-recife/program,True,True,False,False,True
+2019,Tel Aviv - Israel,https://devopsdays.org/events/2019-tel-aviv/program,True,True,False,False,True
+2020,Vitoria - Brazil,https://devopsdays.org/events/2020-vitoria/program,True,True,False,False,True
+2020,Guadalajara - Mexico,https://devopsdays.org/events/2020-guadalajara/program,True,True,False,False,True
+2020,Madrid - Spain,https://devopsdays.org/events/2020-madrid/program,True,True,False,False,True
+2020,Geneva - Switzerland,https://devopsdays.org/events/2020-geneva/program,True,True,False,False,True
+2020,Charlotte - United States,https://devopsdays.org/events/2020-charlotte/program,True,True,False,False,True
+2020,New York City - United States,https://devopsdays.org/events/2020-new-york-city/program,True,True,False,False,True
+2020,Cáceres - Spain,https://devopsdays.org/events/2020-caceres/program,True,True,False,False,True
+2020,Los Angeles - United States,https://devopsdays.org/events/2020-los-angeles/program,True,True,False,False,True
+2020,Jakarta - Indonesia,https://devopsdays.org/events/2020-jakarta/program,True,False,False,False,True
+2020,Kiev - Ukraine,https://devopsdays.org/events/2020-kyiv/program,True,False,False,False,True
+2020,Ankara - Türkiye,https://devopsdays.org/events/2020-ankara/program,True,False,False,False,True
+2020,Istanbul - Türkiye,https://devopsdays.org/events/2020-istanbul/program,True,False,False,False,True
+2020,Amsterdam - The Netherlands,https://devopsdays.org/events/2020-amsterdam/program,True,True,False,False,True
+2020,Luanda - Angola,https://devopsdays.org/events/2020-luanda/program,True,False,False,False,True
+2020,Medellín - Colombia,https://devopsdays.org/events/2020-medellin/program,True,False,False,False,True
+2020,Zürich - Switzerland,https://devopsdays.org/events/2020-zurich/program,True,True,True,False,True
+2020,Chicago - United States,https://devopsdays.org/events/2020-chicago/program,True,True,True,True,True
+2020,Kraków - Poland,https://devopsdays.org/events/2020-krakow/program,True,True,False,False,True
+2020,Goiânia - Brazil,https://devopsdays.org/events/2020-goiania/program,True,False,False,False,True
+2020,Cairo - Egypt,https://devopsdays.org/events/2020-cairo/program,True,False,False,False,True
+2020,Bogotá - Colombia,https://devopsdays.org/events/2020-bogota/program,True,False,False,False,True
+2020,Belo Horizonte - Brazil,https://devopsdays.org/events/2020-belo-horizonte/program,True,False,False,False,True
+2020,Boston - United States,https://devopsdays.org/events/2020-boston/program,True,True,False,False,True
+2020,Buffalo - United States,https://devopsdays.org/events/2020-buffalo/program,True,True,False,False,True
+2020,Stockholm - Sweden,https://devopsdays.org/events/2020-stockholm/program,True,True,False,False,True
+2020,Raleigh - United States,https://devopsdays.org/events/2020-raleigh/program,True,False,False,False,True
+2020,Natal - Brazil,https://devopsdays.org/events/2020-natal/program,True,True,False,False,True
+2020,Fortaleza - Brazil,https://devopsdays.org/events/2020-fortaleza/program,True,True,False,False,True
+2020,Warsaw - Poland,https://devopsdays.org/events/2020-warsaw/program,True,False,False,False,True
+2020,São Paulo - Brazil,https://devopsdays.org/events/2020-sao-paulo/program,True,True,False,False,True
+2020,shanghai - China,https://devopsdays.org/events/2020-shanghai/program,True,False,False,False,True
+2020,Baku - Azerbaijan,https://devopsdays.org/events/2020-baku/program,True,False,False,False,True
+2021,Texas - United States,https://devopsdays.org/events/2021-texas/program,True,True,False,False,True
+2021,Raleigh - United States,https://devopsdays.org/events/2021-raleigh/program,True,True,False,False,True
+2021,Tokyo - Japan,https://devopsdays.org/events/2021-tokyo/program,True,False,False,False,True
+2021,Shanghai - China,https://devopsdays.org/events/2021-shanghai/program,True,False,False,False,True
+2021,Kiev - Ukraine,https://devopsdays.org/events/2021-kyiv/program,True,False,False,False,True
+2021,Vancouver - Canada,https://devopsdays.org/events/2021-vancouver/program,True,True,False,False,True
+2021,Kraków - Poland,https://devopsdays.org/events/2021-krakow/program,True,True,False,False,True
+2021,Seattle - United States,https://devopsdays.org/events/2021-seattle/program,True,True,False,False,True
+2021,Rio de Janeiro - Brazil,https://devopsdays.org/events/2021-rio-de-janeiro/program,True,True,False,False,True
+2021,Amsterdam - The Netherlands,https://devopsdays.org/events/2021-amsterdam/program,True,True,False,False,True
+2021,Porto Alegre - Brazil,https://devopsdays.org/events/2021-porto-alegre/program,True,True,False,False,True
+2021,Minneapolis - United States,https://devopsdays.org/events/2021-minneapolis/program,True,True,True,False,True
+2021,Medellín - Colombia,https://devopsdays.org/events/2021-medellin/program,True,False,False,False,True
+2021,Zürich - Switzerland,https://devopsdays.org/events/2021-zurich/program,True,True,False,False,True
+2021,Blumenau - Brazil,https://devopsdays.org/events/2021-blumenau/program,True,True,False,False,True
+2021,Istanbul - Türkiye,https://devopsdays.org/events/2021-istanbul/program,True,False,False,False,True
+2021,Portland - United States,https://devopsdays.org/events/2021-portland-or/program,True,True,False,False,True
+2021,Houston - United States,https://devopsdays.org/events/2021-houston/program,True,True,False,False,True
+2021,Boston - United States,https://devopsdays.org/events/2021-boston/program,True,True,False,False,True
+2021,Cairo - Egypt,https://devopsdays.org/events/2021-cairo/program,True,False,False,False,True
+2021,Poznań - Poland,https://devopsdays.org/events/2021-poznan/program,True,True,False,False,True
+2021,Buffalo - United States,https://devopsdays.org/events/2021-buffalo/program,True,True,False,False,True
+2021,Washington - United States,https://devopsdays.org/events/2021-washington-dc/program,True,False,False,False,True
+2021,Oslo - Norway,https://devopsdays.org/events/2021-oslo/program,True,True,False,False,True
+2021,Taipei - Taiwan,https://devopsdays.org/events/2021-taipei/program,True,False,False,False,True
+2021,Tel Aviv - Israel,https://devopsdays.org/events/2021-tel-aviv/program,True,True,False,False,True
+2021,Bogotá - Colombia,https://devopsdays.org/events/2021-bogota/program,True,False,False,False,True
+2021,Baku - Azerbaijan,https://devopsdays.org/events/2021-baku/program,True,False,False,False,True
+2022,raleigh - United States,https://devopsdays.org/events/2022-raleigh/program,True,True,False,False,True
+2022,Birmingham - United Kingdom,https://devopsdays.org/events/2022-birmingham-al/program,True,True,False,False,True
+2022,Atlanta - United States,https://devopsdays.org/events/2022-atlanta/program,True,True,False,False,True
+2022,Tokyo - Japan,https://devopsdays.org/events/2022-tokyo/program,True,False,False,False,True
+2022,Denver - United States,https://devopsdays.org/events/2022-denver/program,True,True,False,False,True
+2022,Aarhus - Denmark,https://devopsdays.org/events/2022-aarhus/program,True,True,False,False,True
+2022,Kraków - Poland,https://devopsdays.org/events/2022-krakow/program,True,True,False,False,True
+2022,Boise - United States,https://devopsdays.org/events/2022-boise/program,True,True,False,False,True
+2022,Austin - United States,https://devopsdays.org/events/2022-austin/program,True,False,False,False,True
+2022,Birmingham - United Kingdom,https://devopsdays.org/events/2022-birmingham-uk/program,True,True,True,False,True
+2022,Geneva - Switzerland,https://devopsdays.org/events/2022-geneva/program,True,True,False,False,True
+2022,Kiev - Ukraine,https://devopsdays.org/events/2022-kyiv-spring/program,True,False,False,False,True
+2022,Prague - Czechia,https://devopsdays.org/events/2022-prague/program,True,True,False,False,True
+2022,Zurich - Switzerland,https://devopsdays.org/events/2022-zurich/program,True,True,False,False,True
+2022,Amsterdam - The Netherlands,https://devopsdays.org/events/2022-amsterdam/program,True,True,False,False,True
+2022,Vitoria - Brazil,https://devopsdays.org/events/2022-vitoria/program,True,True,False,False,True
+2022,Seattle - United States,https://devopsdays.org/events/2022-seattle/program,True,True,False,False,True
+2022,Medellín - Colombia,https://devopsdays.org/events/2022-medellin/program,True,False,False,False,True
+2022,Los Angeles - United States,https://devopsdays.org/events/2022-los-angeles/program,True,True,False,False,True
+2022,Minneapolis - United States,https://devopsdays.org/events/2022-minneapolis/program,True,True,True,False,True
+2022,Jakarta - Indonesia,https://devopsdays.org/events/2022-jakarta/program,True,False,False,False,True
+2022,Dallas - United States,https://devopsdays.org/events/2022-dallas/program,True,True,True,True,True
+2022,Beijing - China,https://devopsdays.org/events/2022-beijing/program,True,False,False,False,True
+2022,Charlotte - United States,https://devopsdays.org/events/2022-charlotte/program,True,True,False,False,True
+2022,Boston - United States,https://devopsdays.org/events/2022-boston/program,True,True,False,False,True
+2022,taipei - Taiwan,https://devopsdays.org/events/2022-taipei/program,True,False,False,False,True
+2022,Washington - United States,https://devopsdays.org/events/2022-washington-dc/program,True,True,False,False,True
+2022,Chicago - United States,https://devopsdays.org/events/2022-chicago/program,True,True,True,False,True
+2022,Berlin - Germany,https://devopsdays.org/events/2022-berlin/program,True,True,False,False,True
+2022,Cairo - Egypt,https://devopsdays.org/events/2022-cairo/program,True,False,False,False,True
+2022,Portugal - Portugal,https://devopsdays.org/events/2022-portugal/program,True,True,False,False,True
+2022,London - United Kingdom,https://devopsdays.org/events/2022-london/program,True,True,False,False,True
+2022,Buffalo - United States,https://devopsdays.org/events/2022-buffalo/program,True,True,False,False,True
+2022,Houston - United States,https://devopsdays.org/events/2022-houston/program,True,True,False,False,True
+2022,Fortaleza - Brazil,https://devopsdays.org/events/2022-fortaleza/program,True,True,False,False,True
+2022,La Paz - Mexico,https://devopsdays.org/events/2022-la-paz/program,True,True,False,False,True
+2022,Eindhoven - The Netherlands,https://devopsdays.org/events/2022-eindhoven/program,True,True,False,False,True
+2022,Tampa Bay - United States,https://devopsdays.org/events/2022-tampa/program,True,True,False,False,True
+2022,Warsaw - Poland,https://devopsdays.org/events/2022-warsaw/program,True,True,False,False,True
+2022,Montréal - Canada,https://devopsdays.org/events/2022-montreal/program,True,True,False,False,True
+2022,Des Moines - United States,https://devopsdays.org/events/2022-des-moines/program,True,False,False,False,True
+2022,Oslo - Norway,https://devopsdays.org/events/2022-oslo/program,True,True,False,False,True
+2022,Rio de Janeiro - Brazil,https://devopsdays.org/events/2022-rio-de-janeiro/program,True,True,False,False,True
+2022,Almaty - Kazakhstan,https://devopsdays.org/events/2022-almaty/program,True,False,False,False,True
+2022,Chattanooga - United States,https://devopsdays.org/events/2022-chattanooga/program,True,True,False,False,True
+2022,Bengaluru - India,https://devopsdays.org/events/2022-bengaluru/program,True,False,False,False,True
+2022,Bogotá - Colombia,https://devopsdays.org/events/2022-bogota/program,True,False,False,False,True
+2022,Belém - Brazil,https://devopsdays.org/events/2022-belem/program,True,False,False,False,True
+2022,Baku - Azerbaijan,https://devopsdays.org/events/2022-baku/program,True,False,False,False,True
+2022,Recife - Brazil,https://devopsdays.org/events/2022-recife/program,True,True,False,False,True
+2022,Tel Aviv - Israel,https://devopsdays.org/events/2022-tel-aviv/program,True,True,False,False,True
+2023,Goiânia - Brazil,https://devopsdays.org/events/2023-goiania/program,True,True,False,False,True
+2023,Los Angeles - United States,https://devopsdays.org/events/2023-los-angeles/program,True,True,True,False,True
+2023,Salt Lake City - United States,https://devopsdays.org/events/2023-salt-lake-city/program,True,True,False,False,True
+2023,Melbourne - Australia,https://devopsdays.org/events/2023-melbourne/program,True,True,False,False,True
+2023,Nashville - United States,https://devopsdays.org/events/2023-nashville/program,True,True,False,False,True
+2023,raleigh - United States,https://devopsdays.org/events/2023-raleigh/program,True,True,True,False,True
+2023,Tokyo - Japan,https://devopsdays.org/events/2023-tokyo/program,True,False,False,False,True
+2023,Birmingham - United Kingdom,https://devopsdays.org/events/2023-birmingham-al/program,True,True,False,False,True
+2023,Denver - United States,https://devopsdays.org/events/2023-denver/program,True,True,False,False,True
+2023,geneva - Switzerland,https://devopsdays.org/events/2023-geneva/program,True,True,False,False,True
+2023,Kraków - Poland,https://devopsdays.org/events/2023-krakow/program,True,True,False,False,True
+2023,Cáceres - Spain,https://devopsdays.org/events/2023-caceres/program,True,True,False,False,True
+2023,Copenhagen - Denmark,https://devopsdays.org/events/2023-copenhagen/program,True,True,False,False,True
+2023,Zurich - Switzerland,https://devopsdays.org/events/2023-zurich/program,True,True,False,False,True
+2023,Austin - United States,https://devopsdays.org/events/2023-austin/program,True,False,False,False,True
+2023,Aracaju - Brazil,https://devopsdays.org/events/2023-aracaju/program,True,True,False,False,True
+2023,Medellín - Colombia,https://devopsdays.org/events/2023-medellin/program,True,False,False,False,True
+2023,Juiz de Fora - Brazil,https://devopsdays.org/events/2023-juiz-de-fora/program,True,True,False,False,True
+2023,prague - Czechia,https://devopsdays.org/events/2023-prague/program,True,True,False,False,True
+2023,Baltimore - United States,https://devopsdays.org/events/2023-baltimore/program,True,True,False,False,True
+2023,Phoenix - United States,https://devopsdays.org/events/2023-phoenix/program,True,True,False,False,True
+2023,New York City - United States,https://devopsdays.org/events/2023-new-york-city/program,True,True,False,False,True
+2023,Birmingham - United Kingdom,https://devopsdays.org/events/2023-birmingham-uk/program,True,True,True,False,True
+2023,Amsterdam - The Netherlands,https://devopsdays.org/events/2023-amsterdam/program,True,True,False,False,True
+2023,Chicago - United States,https://devopsdays.org/events/2023-organizer-summit/program,True,True,False,False,True
+2023,Chicago - United States,https://devopsdays.org/events/2023-chicago/program,True,True,True,False,True
+2023,Beijing - China,https://devopsdays.org/events/2023-beijing/program,True,False,False,False,True
+2023,Rio de Janeiro - Brazil,https://devopsdays.org/events/2023-rio-de-janeiro/program,True,True,False,False,True
+2023,Dallas - United States,https://devopsdays.org/events/2023-dallas/program,True,True,True,False,True
+2023,Fortaleza - Brazil,https://devopsdays.org/events/2023-fortaleza/program,True,True,False,False,True
+2023,Vilnius - Lithuania,https://devopsdays.org/events/2023-vilnius/program,True,True,False,False,True
+2023,Des Moines - United States,https://devopsdays.org/events/2023-des-moines/program,True,False,False,False,True
+2023,Almaty - Kazakhstan,https://devopsdays.org/events/2023-almaty/program,True,False,False,False,True
+2023,Boise - United States,https://devopsdays.org/events/2023-boise/program,True,True,False,False,True
+2023,Washington - United States,https://devopsdays.org/events/2023-washington-dc/program,True,True,False,False,True
+2023,Kiev - Ukraine,https://devopsdays.org/events/2023-kyiv/program,True,False,False,False,True
+2023,Atlanta - United States,https://devopsdays.org/events/2023-atlanta/program,True,True,False,False,True
+2023,Tampa Bay - United States,https://devopsdays.org/events/2023-tampa/program,True,True,False,False,True
+2023,London - United Kingdom,https://devopsdays.org/events/2023-london/program,True,True,False,False,True
+2023,taipei - Taiwan,https://devopsdays.org/events/2023-taipei/program,True,False,False,False,True
+2023,Buffalo - United States,https://devopsdays.org/events/2023-buffalo/program,True,True,False,False,True
+2023,Cairo - Egypt,https://devopsdays.org/events/2023-cairo/program,True,False,False,False,True
+2023,Ljubljana - Slovenia,https://devopsdays.org/events/2023-ljubljana/program,True,True,False,False,True
+2023,Indianapolis - United States,https://devopsdays.org/events/2023-indianapolis/program,True,True,False,False,True
+2023,madrid - Spain,https://devopsdays.org/events/2023-madrid/program,True,True,False,False,True
+2023,Eindhoven - The Netherlands,https://devopsdays.org/events/2023-eindhoven/program,True,True,False,False,True
+2023,Oslo - Norway,https://devopsdays.org/events/2023-oslo/program,True,True,False,False,True
+2023,Boston - United States,https://devopsdays.org/events/2023-boston/program,True,True,False,False,True
+2023,Detroit - United States,https://devopsdays.org/events/2023-detroit/program,True,True,False,False,True
+2023,bogotá - Colombia,https://devopsdays.org/events/2023-bogota/program,True,False,False,False,True
+2023,bengaluru - India,https://devopsdays.org/events/2023-bengaluru/program,True,True,False,False,True
+2023,La Paz - Mexico,https://devopsdays.org/events/2023-la-paz/program,True,True,False,False,True
+2023,Montréal - Canada,https://devopsdays.org/events/2023-montreal/program,True,False,False,False,True
+2023,Warsaw - Poland,https://devopsdays.org/events/2023-warsaw/program,True,True,False,False,True
+2023,Belém - Brazil,https://devopsdays.org/events/2023-belem/program,True,False,False,False,True
+2023,Florianópolis - Brazil,https://devopsdays.org/events/2023-florianopolis/program,True,True,False,False,True
+2023,Chattanooga - United States,https://devopsdays.org/events/2023-chattanooga/program,True,True,False,False,True
+2023,Recife - Brazil,https://devopsdays.org/events/2023-recife/program,True,True,False,False,True
+2023,Baku - Azerbaijan,https://devopsdays.org/events/2023-baku/program,True,False,False,False,True
+2023,Poznań - Poland,https://devopsdays.org/events/2023-poznan/program,True,True,False,False,True
+2023,Porto Alegre - Brazil,https://devopsdays.org/events/2023-porto-alegre/program,True,False,False,False,True
+2023,Salvador - Brazil,https://devopsdays.org/events/2023-salvador/program,True,True,False,False,True
+2024,Los Angeles - United States,https://devopsdays.org/events/2024-los-angeles/program,True,True,True,False,True
+2024,Kraków - Poland,https://devopsdays.org/events/2024-krakow/program,True,True,False,False,True
+2024,singapore - Singapore,https://devopsdays.org/events/2024-singapore/program,True,True,False,False,True
+2024,Goiânia - Brazil,https://devopsdays.org/events/2024-goiania/program,True,True,False,False,True
+2024,raleigh - United States,https://devopsdays.org/events/2024-raleigh/program,True,True,False,False,True
+2024,Zurich - Switzerland,https://devopsdays.org/events/2024-zurich/program,True,True,False,False,True
+2024,Tokyo - Japan,https://devopsdays.org/events/2024-tokyo/program,True,False,False,False,True
+2024,Aracaju - Brazil,https://devopsdays.org/events/2024-aracaju/program,True,True,False,False,True
+2024,istanbul - Türkiye,https://devopsdays.org/events/2024-istanbul/program,True,False,False,False,True
+2024,Austin - United States,https://devopsdays.org/events/2024-austin/program,True,False,False,False,True
+2024,Berlin - Germany,https://devopsdays.org/events/2024-berlin/program,True,True,False,False,True
+2024,geneva - Switzerland,https://devopsdays.org/events/2024-geneva/program,True,True,False,False,True
+2024,Seattle - United States,https://devopsdays.org/events/2024-seattle/program,True,True,False,False,True
+2024,Philadelphia - United States,https://devopsdays.org/events/2024-philadelphia/program,True,True,False,False,True
+2024,Kansas City - United States,https://devopsdays.org/events/2024-kansas-city/program,True,True,True,False,True
+2024,São Paulo - Brazil,https://devopsdays.org/events/2024-sao-paulo/program,True,True,False,False,True
+2024,Medellín - Colombia,https://devopsdays.org/events/2024-medellin/program,True,False,False,False,True
+2024,Montréal - Canada,https://devopsdays.org/events/2024-montreal/program,True,True,False,False,True
+2024,Nairobi - Kenya,https://devopsdays.org/events/2024-nairobi/program,True,False,False,False,True
+2024,Houston - United States,https://devopsdays.org/events/2024-houston/program,True,True,False,True,True
+2024,Kiev - Ukraine,https://devopsdays.org/events/2024-kyiv/program,True,False,False,False,True
+2024,Sibiu - Romania,https://devopsdays.org/events/2024-sibiu/program,True,True,False,False,True
+2024,Amsterdam - The Netherlands,https://devopsdays.org/events/2024-amsterdam/program,True,True,False,False,True
+2024,Juiz de Fora - Brazil,https://devopsdays.org/events/2024-juiz-de-fora/program,True,True,False,False,True
+2024,Nashville - United States,https://devopsdays.org/events/2024-nashville/program,True,True,False,False,True
+2024,taipei - Taiwan,https://devopsdays.org/events/2024-taipei/program,True,False,False,False,True
+2024,Jakarta - Indonesia,https://devopsdays.org/events/2024-jakarta/program,True,False,False,False,True
+2024,Minneapolis - United States,https://devopsdays.org/events/2024-minneapolis/program,True,True,True,False,True
+2024,Birmingham - United Kingdom,https://devopsdays.org/events/2024-birmingham-al/program,True,True,False,False,True
+2024,Halifax - Canada,https://devopsdays.org/events/2024-halifax/program,True,True,False,False,True
+2024,Rio de Janeiro - Brazil,https://devopsdays.org/events/2024-rio-de-janeiro/program,True,True,False,False,True
+2024,Curitiba - Brazil,https://devopsdays.org/events/2024-curitiba/program,True,False,False,False,True
+2024,Antwerp - Belgium,https://devopsdays.org/events/2024-organiser-summit/program,True,True,False,False,True
+2024,Antwerp - Belgium,https://devopsdays.org/events/2024-antwerp/program,True,True,True,False,True
+2024,Vilnius - Lithuania,https://devopsdays.org/events/2024-vilnius/program,True,True,False,False,True
+2024,Belo Horizonte - Brazil,https://devopsdays.org/events/2024-belo-horizonte/program,True,True,False,False,True
+2024,Denver - United States,https://devopsdays.org/events/2024-denver/program,True,True,False,False,True
+2024,Tampa Bay - United States,https://devopsdays.org/events/2024-tampa/program,True,True,False,False,True
+2024,Fortaleza - Brazil,https://devopsdays.org/events/2024-fortaleza/program,True,True,False,False,True
+2024,Portugal - Portugal,https://devopsdays.org/events/2024-portugal/program,True,True,False,False,True
+2024,Cairo - Egypt,https://devopsdays.org/events/2024-cairo/program,True,False,False,False,True
+2024,Washington - United States,https://devopsdays.org/events/2024-washington-dc/program,True,True,False,False,True
+2024,London - United Kingdom,https://devopsdays.org/events/2024-london/program,True,True,False,False,True
+2024,Ljubljana - Slovenia,https://devopsdays.org/events/2024-ljubljana/program,True,False,False,False,True
+2024,kerala - Finland,https://devopsdays.org/events/2024-kerala/program,True,False,False,False,True
+2024,Cáceres - Spain,https://devopsdays.org/events/2024-caceres/program,True,True,False,False,True
+2024,Almaty - Kazakhstan,https://devopsdays.org/events/2024-almaty/program,True,False,False,False,True
+2024,Dallas - United States,https://devopsdays.org/events/2024-dallas/program,True,True,True,False,True
+2024,Des Moines - United States,https://devopsdays.org/events/2024-des-moines/program,True,False,False,False,True
+2024,Campinas - Brazil,https://devopsdays.org/events/2024-campinas/program,True,True,False,False,True
+2024,Boston - United States,https://devopsdays.org/events/2024-boston/program,True,True,False,False,True
+2024,Tel Aviv - Israel,https://devopsdays.org/events/2024-tel-aviv/program,True,True,False,False,True
+2024,Warsaw - Poland,https://devopsdays.org/events/2024-warsaw/program,True,False,False,False,True
+2024,João Pessoa - Brazil,https://devopsdays.org/events/2024-joao-pessoa/program,True,False,False,False,True
+2024,Bogotá - Colombia,https://devopsdays.org/events/2024-bogota/program,True,False,False,False,True
+2024,Chattanooga - United States,https://devopsdays.org/events/2024-chattanooga/program,True,True,False,False,True
+2024,Florianópolis - Brazil,https://devopsdays.org/events/2024-florianopolis/program,True,True,False,False,True
+2024,Natal - Brazil,https://devopsdays.org/events/2024-natal/program,True,False,False,False,True
+2024,Brasília - Brazil,https://devopsdays.org/events/2024-brasilia/program,True,True,False,False,True
+2024,Maceio - Brazil,https://devopsdays.org/events/2024-maceio/program,True,True,False,False,True
+2024,Porto Alegre - Brazil,https://devopsdays.org/events/2024-porto-alegre/program,True,True,False,False,True
+2024,Paris - France,https://devopsdays.org/events/2024-paris/program,True,False,False,False,True
+2024,Salvador - Brazil,https://devopsdays.org/events/2024-salvador/program,True,True,False,False,True
+2024,Recife - Brazil,https://devopsdays.org/events/2024-recife/program,True,True,False,False,True
+2025,Los Angeles - United States,https://devopsdays.org/events/2025-los-angeles/program,True,True,True,False,True
+2025,Zurich - Switzerland,https://devopsdays.org/events/2025-zurich/program,True,True,False,False,True
+2025,goiania - Brazil,https://devopsdays.org/events/2025-goiania/program,True,True,False,False,True
+2025,Chicago - United States,https://devopsdays.org/events/2025-chicago/program,True,True,False,True,True
+2025,Tokyo - Japan,https://devopsdays.org/events/2025-tokyo/program,True,False,False,False,True
+2025,Aarhus - Denmark,https://devopsdays.org/events/2025-aarhus/program,True,True,False,False,True
+2025,Atlanta - United States,https://devopsdays.org/events/2025-atlanta/program,True,True,False,False,True
+2025,Austin - United States,https://devopsdays.org/events/2025-austin/program,True,False,False,False,True
+2025,Salt Lake City - United States,https://devopsdays.org/events/2025-salt-lake-city/program,True,True,False,False,True
+2025,singapore - Singapore,https://devopsdays.org/events/2025-singapore/program,True,True,False,False,True
+2025,geneva - Switzerland,https://devopsdays.org/events/2025-geneva/program,True,True,False,False,True
+2025,Baltimore - United States,https://devopsdays.org/events/2025-baltimore/program,True,False,False,False,True
+2025,Sibiu - Romania,https://devopsdays.org/events/2025-sibiu/program,True,True,False,False,True
+2025,Medellín - Colombia,https://devopsdays.org/events/2025-medellin/program,True,False,False,False,True
+2025,prague - Czechia,https://devopsdays.org/events/2025-prague/program,True,True,False,False,True
+2025,Tashkent - Uzbekistan,https://devopsdays.org/events/2025-tashkent/program,True,False,False,False,True
+2025,taipei - Taiwan,https://devopsdays.org/events/2025-taipei/program,True,False,False,False,True
+2025,Belém - Brazil,https://devopsdays.org/events/2025-belem/program,True,False,False,False,True
+2025,Feira de Santana - Brazil,https://devopsdays.org/events/2025-feira-de-santana/program,True,True,False,False,True
+2025,Amsterdam - The Netherlands,https://devopsdays.org/events/2025-amsterdam/program,True,True,False,False,True
+2025,Kansas City - United States,https://devopsdays.org/events/2025-kansas-city/program,True,True,False,False,True
+2025,Rio de Janeiro - Brazil,https://devopsdays.org/events/2025-rio-de-janeiro/program,True,True,False,False,True
+2025,Lima - Peru,https://devopsdays.org/events/2025-lima/program,True,False,False,False,True
+2025,Halifax - Canada,https://devopsdays.org/events/2025-halifax/program,True,True,False,False,True
+2025,Curitiba - Brazil,https://devopsdays.org/events/2025-curitiba/program,True,False,False,False,True
+2025,Kiev - Ukraine,https://devopsdays.org/events/2025-kyiv/program,True,False,False,False,True
+2025,Graz - Austria,https://devopsdays.org/events/2025-graz/program,True,False,False,False,True
+2025,santiago - Dominican Republic,https://devopsdays.org/events/2025-santiago/program,True,False,False,False,True
+2025,Vilnius - Lithuania,https://devopsdays.org/events/2025-vilnius/program,True,True,False,False,True
+2025,Ljubljana - Slovenia,https://devopsdays.org/events/2025-ljubljana/program,True,False,False,False,True
+2025,Denver - United States,https://devopsdays.org/events/2025-denver/program,True,True,False,False,True
+2025,dallas - United States,https://devopsdays.org/events/2025-dallas/program,True,True,False,False,True
+2025,Washington - United States,https://devopsdays.org/events/2025-washington-dc/program,True,True,False,False,True
+2025,Brasília - Brazil,https://devopsdays.org/events/2025-brasilia/program,True,True,False,False,True
+2025,london - United Kingdom,https://devopsdays.org/events/2025-london/program,True,True,False,False,True
+2025,Cairo - Egypt,https://devopsdays.org/events/2025-cairo/program,True,False,False,False,True
+2025,Juiz de Fora - Brazil,https://devopsdays.org/events/2025-juiz-de-fora/program,True,False,False,False,True
+2025,Philadelphia - United States,https://devopsdays.org/events/2025-philadelphia/program,True,True,False,False,True
+2025,Des Moines - United States,https://devopsdays.org/events/2025-des-moines/program,True,False,False,False,True
+2025,Belo Horizonte - Brazil,https://devopsdays.org/events/2025-belo-horizonte/program,True,True,False,False,True
+2025,Fortaleza - Brazil,https://devopsdays.org/events/2025-fortaleza/program,True,True,False,False,True
+2025,Montréal - Canada,https://devopsdays.org/events/2025-montreal/program,True,True,False,False,True
+2025,Bogotá - Colombia,https://devopsdays.org/events/2025-bogota/program,True,False,False,False,True
+2025,Campinas - Brazil,https://devopsdays.org/events/2025-campinas/program,True,True,False,False,True
+2025,Garanhuns - Brazil,https://devopsdays.org/events/2025-garanhuns/program,True,False,False,False,True
+2025,Almaty - Kazakhstan,https://devopsdays.org/events/2025-almaty/program,True,False,False,False,True
+2025,Maceio - Brazil,https://devopsdays.org/events/2025-maceio/program,True,True,False,False,True
+2025,Istanbul - Türkiye,https://devopsdays.org/events/2025-istanbul/program,True,False,False,False,True
+2025,João Pessoa - Brazil,https://devopsdays.org/events/2025-joao-pessoa/program,True,False,False,False,True
+2025,Warsaw - Poland,https://devopsdays.org/events/2025-warsaw/program,True,False,False,False,True
+2025,São Paulo - Brazil,https://devopsdays.org/events/2025-sao-paulo/program,True,False,False,False,True
+2025,Wollongong - Australia,https://devopsdays.org/events/2025-wollongong/program,True,True,False,False,True
+2025,Porto Alegre - Brazil,https://devopsdays.org/events/2025-porto-alegre/program,True,True,False,False,True
