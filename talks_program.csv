@@ -402,11 +402,11 @@
 2015,Toronto - Canada,Agent of Change,Here's Your Helmet,https://legacy.devopsdays.org/events/2015-toronto/program
 2015,Toronto - Canada,Chef,"test-kitchen, Docker, CI, Oh My!",https://legacy.devopsdays.org/events/2015-toronto/program
 2015,Toronto - Canada,Keeping it All Together,"Metrics, Logging, and Alerting in the Code Base",https://legacy.devopsdays.org/events/2015-toronto/program
-2015,"Washington, D.C. - Unknown",DevOpsDays DC will return June 8-9,2016,https://legacy.devopsdays.org/events/2015-washington-dc/program
-2015,"Washington, D.C. - Unknown",Avoiding the “Half-Baked Zone”,The Fallacy of Real-Time Analytics in Performance Monitoring,https://legacy.devopsdays.org/events/2015-washington-dc/program
-2015,"Washington, D.C. - Unknown",Food Fight Show,DevOpsDays DC,https://legacy.devopsdays.org/events/2015-washington-dc/program
-2015,"Washington, D.C. - Unknown",Getting the Message Out in the (Big,"Bad, Government) Enterprise",https://legacy.devopsdays.org/events/2015-washington-dc/program
-2015,"Washington, D.C. - Unknown",DevOps Security and Continuous Failure: Lessons From Heartbleed,"Shellshock, and Countless Other Security Flaws",https://legacy.devopsdays.org/events/2015-washington-dc/program
+2015,"Washington, D.C. - United States",DevOpsDays DC will return June 8-9,2016,https://legacy.devopsdays.org/events/2015-washington-dc/program
+2015,"Washington, D.C. - United States",Avoiding the “Half-Baked Zone”,The Fallacy of Real-Time Analytics in Performance Monitoring,https://legacy.devopsdays.org/events/2015-washington-dc/program
+2015,"Washington, D.C. - United States",Food Fight Show,DevOpsDays DC,https://legacy.devopsdays.org/events/2015-washington-dc/program
+2015,"Washington, D.C. - United States",Getting the Message Out in the (Big,"Bad, Government) Enterprise",https://legacy.devopsdays.org/events/2015-washington-dc/program
+2015,"Washington, D.C. - United States",DevOps Security and Continuous Failure: Lessons From Heartbleed,"Shellshock, and Countless Other Security Flaws",https://legacy.devopsdays.org/events/2015-washington-dc/program
 2015,Minneapolis - United States,Empathy,"Fairness, and Contentment",https://legacy.devopsdays.org/events/2015-minneapolis/program
 2015,Minneapolis - United States,You,Me & StatsD,https://legacy.devopsdays.org/events/2015-minneapolis/program
 2015,Minneapolis - United States,If you want to have an impact,Devops is not enough,https://legacy.devopsdays.org/events/2015-minneapolis/program
@@ -1693,14 +1693,14 @@
 2019,Amsterdam - The Netherlands,Ricardo Castro,KDD: Kubernetes Driven Development,https://devopsdays.org/events/2019-amsterdam/program/ricardo-castro
 2019,Amsterdam - The Netherlands,- Open Space Session,Day 2 - #3,https://devopsdays.org/events/2019-amsterdam/program/open-space-three-day-two
 2019,Amsterdam - The Netherlands,Michael Russell,Stop Hitting Yourself,https://devopsdays.org/events/2019-amsterdam/program/michael-russell
-2019,"Washington, D.C. - Unknown",John Allspaw,Resilience Engineering: The What and How,https://devopsdays.org/events/2019-washington-dc/program/john-allspaw
-2019,"Washington, D.C. - Unknown",Emmanuel Apau,Application Secret Management with AWS,https://devopsdays.org/events/2019-washington-dc/program/emmanuel-apau
-2019,"Washington, D.C. - Unknown",Laurie Barth,A Software Engineer's Guide to DevOps,https://devopsdays.org/events/2019-washington-dc/program/laurie-barth
-2019,"Washington, D.C. - Unknown",Latha Nagaraj,Catching the wave: Moving Applications to Containers at Enterprise Scale,https://devopsdays.org/events/2019-washington-dc/program/latha-nagaraj
-2019,"Washington, D.C. - Unknown",Martin Folkoff,The new Recreation.gov,https://devopsdays.org/events/2019-washington-dc/program/martin-folkoff
-2019,"Washington, D.C. - Unknown",Jameson Hampton,There Is No Spoon? Understanding 'Spoon Theory' and Preventing Burnout,https://devopsdays.org/events/2019-washington-dc/program/jameson-hampton
-2019,"Washington, D.C. - Unknown",Gaurav Pal,Accelerating the ATO Process with DevSecOps,https://devopsdays.org/events/2019-washington-dc/program/gaurav-pal
-2019,"Washington, D.C. - Unknown",Marianne Bellotti,Interdisciplinary Engineering,https://devopsdays.org/events/2019-washington-dc/program/marianne-bellotti
+2019,"Washington, D.C. - United States",John Allspaw,Resilience Engineering: The What and How,https://devopsdays.org/events/2019-washington-dc/program/john-allspaw
+2019,"Washington, D.C. - United States",Emmanuel Apau,Application Secret Management with AWS,https://devopsdays.org/events/2019-washington-dc/program/emmanuel-apau
+2019,"Washington, D.C. - United States",Laurie Barth,A Software Engineer's Guide to DevOps,https://devopsdays.org/events/2019-washington-dc/program/laurie-barth
+2019,"Washington, D.C. - United States",Latha Nagaraj,Catching the wave: Moving Applications to Containers at Enterprise Scale,https://devopsdays.org/events/2019-washington-dc/program/latha-nagaraj
+2019,"Washington, D.C. - United States",Martin Folkoff,The new Recreation.gov,https://devopsdays.org/events/2019-washington-dc/program/martin-folkoff
+2019,"Washington, D.C. - United States",Jameson Hampton,There Is No Spoon? Understanding 'Spoon Theory' and Preventing Burnout,https://devopsdays.org/events/2019-washington-dc/program/jameson-hampton
+2019,"Washington, D.C. - United States",Gaurav Pal,Accelerating the ATO Process with DevSecOps,https://devopsdays.org/events/2019-washington-dc/program/gaurav-pal
+2019,"Washington, D.C. - United States",Marianne Bellotti,Interdisciplinary Engineering,https://devopsdays.org/events/2019-washington-dc/program/marianne-bellotti
 2019,Indianapolis - United States,Brian Weber,Responsible Service Ownership,https://devopsdays.org/events/2019-indianapolis/program/brian-weber
 2019,Indianapolis - United States,Mykel Alvis,Developing For Deterministic Deliveries,https://devopsdays.org/events/2019-indianapolis/program/mykel-alvis
 2019,Indianapolis - United States,Peter Varhol,Enabling Digital Transformation Through DevOps,https://devopsdays.org/events/2019-indianapolis/program/peter-varhol
@@ -2334,12 +2334,12 @@
 2021,Zürich - Switzerland,Michael Cote,"Beyond DevOps metrics – technical, business, and culture metrics for the software defined business",https://devopsdays.org/events/2021-zurich/program/michael-cote
 2021,Zürich - Switzerland,Jessica Fields,UX Unicorns Do Not Exist: The Myth of the One-Person Usability Team,https://devopsdays.org/events/2021-zurich/program/jessica-fields
 2021,Zürich - Switzerland,Quintessence Anx,Unquantified Serendipity: Diversity in Development,https://devopsdays.org/events/2021-zurich/program/quintessence-anx
-2021,"Portland, OR - Unknown",Laura Santamaria,Pick a Lane: The fallacy of generalists-only in DevOps,https://devopsdays.org/events/2021-portland-or/program/laura-santamaria
-2021,"Portland, OR - Unknown",Eric Shamow,"Don't Cross the Streams - Operational Tasks, SRE Teams, and Sprint Commitments",https://devopsdays.org/events/2021-portland-or/program/eric-shamow
-2021,"Portland, OR - Unknown",Aaron Aldrich,Anarchy and Blaseball and Community Development,https://devopsdays.org/events/2021-portland-or/program/aaron-aldrich
-2021,"Portland, OR - Unknown",Ceora Ford,Learning Tips Every Developer Should Know,https://devopsdays.org/events/2021-portland-or/program/ceora-ford
-2021,"Portland, OR - Unknown",Quintessence Anx,Sensory Friendly Monitoring: Keeping the Noise Down,https://devopsdays.org/events/2021-portland-or/program/quintessence-anx
-2021,"Portland, OR - Unknown",Jerome Comeau,The You in Union: Real Talk About Collective Action,https://devopsdays.org/events/2021-portland-or/program/jerome-comeau
+2021,"Portland - United States",Laura Santamaria,Pick a Lane: The fallacy of generalists-only in DevOps,https://devopsdays.org/events/2021-portland-or/program/laura-santamaria
+2021,"Portland - United States",Eric Shamow,"Don't Cross the Streams - Operational Tasks, SRE Teams, and Sprint Commitments",https://devopsdays.org/events/2021-portland-or/program/eric-shamow
+2021,"Portland - United States",Aaron Aldrich,Anarchy and Blaseball and Community Development,https://devopsdays.org/events/2021-portland-or/program/aaron-aldrich
+2021,"Portland - United States",Ceora Ford,Learning Tips Every Developer Should Know,https://devopsdays.org/events/2021-portland-or/program/ceora-ford
+2021,"Portland - United States",Quintessence Anx,Sensory Friendly Monitoring: Keeping the Noise Down,https://devopsdays.org/events/2021-portland-or/program/quintessence-anx
+2021,"Portland - United States",Jerome Comeau,The You in Union: Real Talk About Collective Action,https://devopsdays.org/events/2021-portland-or/program/jerome-comeau
 2021,Houston - United States,Ernest Mueller,DevOps At A Distance: Helping Remote Work Succeed For Your Organization,https://devopsdays.org/events/2021-houston/program/ernest-mueller
 2021,Houston - United States,Milecia McGregor,Adding Reproducible Experiments To Your Machine Learning Pipeline,https://devopsdays.org/events/2021-houston/program/milecia-mcgregor
 2021,Houston - United States,Dan Lorenc,Zero-Trust Supply Chain Security,https://devopsdays.org/events/2021-houston/program/dan-lorenc
@@ -2407,27 +2407,27 @@
 2022,raleigh - United States,Andreas Grabner,"Oh Keptn, my Keptn: A data driven way to DevOps & SRE automation",https://devopsdays.org/events/2022-raleigh/program/andreas-grabner
 2022,raleigh - United States,Jody Paramore,Special - Wake Early College of Health and Sciences H.E.A.L.S Program,https://devopsdays.org/events/2022-raleigh/program/jody-paramore
 2022,raleigh - United States,WakeEd Stem NCSU Citizen Science Club,Special - NCSU's Citizen Science Club,https://devopsdays.org/events/2022-raleigh/program/wakeed-stem-ncsu-citizen-science-club
-2022,"Birmingham, AL - Unknown",Andrew Poland,Authorization and policy-as-code: A DevOps-friendly approach to Zero Trust,https://devopsdays.org/events/2022-birmingham-al/program/andrew-poland
-2022,"Birmingham, AL - Unknown",Lesley Cordero,Effective Observability in a Microservices Architecture,https://devopsdays.org/events/2022-birmingham-al/program/lesley-cordero
-2022,"Birmingham, AL - Unknown","Bryan Oliver, Kingdon Barrett",GitOps and Flux scaled to 100s of Developers,https://devopsdays.org/events/2022-birmingham-al/program/bryan-oliver
-2022,"Birmingham, AL - Unknown",Jean-Rémi Beaudoin,"Rendering 3D scenes with Blender on AWS Lambda, how can it possibly make sense?",https://devopsdays.org/events/2022-birmingham-al/program/jr-beaudoin
-2022,"Birmingham, AL - Unknown",PJ Hagerty,DevOps - Philosophy vs Practice,https://devopsdays.org/events/2022-birmingham-al/program/pj-hagerty
-2022,"Birmingham, AL - Unknown",Elizabeth Anderson,Building High Performing Teams with Empathetic Leadership,https://devopsdays.org/events/2022-birmingham-al/program/elizabeth-anderson
-2022,"Birmingham, AL - Unknown",Brandon Morgado,Scaling SRE through 'Reliability as Code',https://devopsdays.org/events/2022-birmingham-al/program/brandon-morgado
-2022,"Birmingham, AL - Unknown",Kyler Bush,Bootstrapping Reliability and Performance by building a Site Reliability Team,https://devopsdays.org/events/2022-birmingham-al/program/kyler-bush
-2022,"Birmingham, AL - Unknown",Jeremy Meiss,Things We've Learned About Better Software Delivery Principles Through a Panini,https://devopsdays.org/events/2022-birmingham-al/program/jeremy-meiss
-2022,"Birmingham, AL - Unknown",Butch Mayhew,End to End Automated Regression Testing with Playwright,https://devopsdays.org/events/2022-birmingham-al/program/butch-mayhew
-2022,"Birmingham, AL - Unknown",Karthik Ashokan,How Fetch Built an Open Source Vendor-Agnostic Observability Platform,https://devopsdays.org/events/2022-birmingham-al/program/karthik-ashokan
-2022,"Birmingham, AL - Unknown",Justin Reock,Developer Productivity Engineering – The Next Big Thing in Software Development,https://devopsdays.org/events/2022-birmingham-al/program/justin-reock
-2022,"Birmingham, AL - Unknown",Vadim Uchitel,"Thinking outside the box in DevOps and SRE: avoiding common pitfalls, improving quality, and on-call experience with a bit of creative thinking",https://devopsdays.org/events/2022-birmingham-al/program/vadim-uchitel
-2022,"Birmingham, AL - Unknown",Richard Lewis,LMAO Helps During Outages,https://devopsdays.org/events/2022-birmingham-al/program/richard-lewis
-2022,"Birmingham, AL - Unknown","Aaron Hanson, Dan Kirkpatrick",Taking Control of your Identity with Keycloak,https://devopsdays.org/events/2022-birmingham-al/program/aaron-hanson
-2022,"Birmingham, AL - Unknown",Byron Lagrone,The Power Of 'No',https://devopsdays.org/events/2022-birmingham-al/program/byron-lagrone
-2022,"Birmingham, AL - Unknown",Nathan Hall,"Authentication and Authorization with Istio, Envoy and your IdP of Choice!",https://devopsdays.org/events/2022-birmingham-al/program/nathan-hall
-2022,"Birmingham, AL - Unknown",Tyler Martin,Nurturing and Cultivating Collaborative Work Tendencies Remotely,https://devopsdays.org/events/2022-birmingham-al/program/tyler-martin
-2022,"Birmingham, AL - Unknown",Jason Barbee,IOT Edge and AI/ML Ops: A smart truck story around Edge Computing,https://devopsdays.org/events/2022-birmingham-al/program/jason-barbee
-2022,"Birmingham, AL - Unknown",Lauren Kieliszewski,We're all people; act accordingly.,https://devopsdays.org/events/2022-birmingham-al/program/lauren-kieliszewski
-2022,"Birmingham, AL - Unknown",JJ Asghar,Lessons Learned from Cultivating Open Source Projects and Communities,https://devopsdays.org/events/2022-birmingham-al/program/jj-asghar
+2022,"Birmingham - United States",Andrew Poland,Authorization and policy-as-code: A DevOps-friendly approach to Zero Trust,https://devopsdays.org/events/2022-birmingham-al/program/andrew-poland
+2022,"Birmingham - United States",Lesley Cordero,Effective Observability in a Microservices Architecture,https://devopsdays.org/events/2022-birmingham-al/program/lesley-cordero
+2022,"Birmingham - United States","Bryan Oliver, Kingdon Barrett",GitOps and Flux scaled to 100s of Developers,https://devopsdays.org/events/2022-birmingham-al/program/bryan-oliver
+2022,"Birmingham - United States",Jean-Rémi Beaudoin,"Rendering 3D scenes with Blender on AWS Lambda, how can it possibly make sense?",https://devopsdays.org/events/2022-birmingham-al/program/jr-beaudoin
+2022,"Birmingham - United States",PJ Hagerty,DevOps - Philosophy vs Practice,https://devopsdays.org/events/2022-birmingham-al/program/pj-hagerty
+2022,"Birmingham - United States",Elizabeth Anderson,Building High Performing Teams with Empathetic Leadership,https://devopsdays.org/events/2022-birmingham-al/program/elizabeth-anderson
+2022,"Birmingham - United States",Brandon Morgado,Scaling SRE through 'Reliability as Code',https://devopsdays.org/events/2022-birmingham-al/program/brandon-morgado
+2022,"Birmingham - United States",Kyler Bush,Bootstrapping Reliability and Performance by building a Site Reliability Team,https://devopsdays.org/events/2022-birmingham-al/program/kyler-bush
+2022,"Birmingham - United States",Jeremy Meiss,Things We've Learned About Better Software Delivery Principles Through a Panini,https://devopsdays.org/events/2022-birmingham-al/program/jeremy-meiss
+2022,"Birmingham - United States",Butch Mayhew,End to End Automated Regression Testing with Playwright,https://devopsdays.org/events/2022-birmingham-al/program/butch-mayhew
+2022,"Birmingham - United States",Karthik Ashokan,How Fetch Built an Open Source Vendor-Agnostic Observability Platform,https://devopsdays.org/events/2022-birmingham-al/program/karthik-ashokan
+2022,"Birmingham - United States",Justin Reock,Developer Productivity Engineering – The Next Big Thing in Software Development,https://devopsdays.org/events/2022-birmingham-al/program/justin-reock
+2022,"Birmingham - United States",Vadim Uchitel,"Thinking outside the box in DevOps and SRE: avoiding common pitfalls, improving quality, and on-call experience with a bit of creative thinking",https://devopsdays.org/events/2022-birmingham-al/program/vadim-uchitel
+2022,"Birmingham - United States",Richard Lewis,LMAO Helps During Outages,https://devopsdays.org/events/2022-birmingham-al/program/richard-lewis
+2022,"Birmingham - United States","Aaron Hanson, Dan Kirkpatrick",Taking Control of your Identity with Keycloak,https://devopsdays.org/events/2022-birmingham-al/program/aaron-hanson
+2022,"Birmingham - United States",Byron Lagrone,The Power Of 'No',https://devopsdays.org/events/2022-birmingham-al/program/byron-lagrone
+2022,"Birmingham - United States",Nathan Hall,"Authentication and Authorization with Istio, Envoy and your IdP of Choice!",https://devopsdays.org/events/2022-birmingham-al/program/nathan-hall
+2022,"Birmingham - United States",Tyler Martin,Nurturing and Cultivating Collaborative Work Tendencies Remotely,https://devopsdays.org/events/2022-birmingham-al/program/tyler-martin
+2022,"Birmingham - United States",Jason Barbee,IOT Edge and AI/ML Ops: A smart truck story around Edge Computing,https://devopsdays.org/events/2022-birmingham-al/program/jason-barbee
+2022,"Birmingham - United States",Lauren Kieliszewski,We're all people; act accordingly.,https://devopsdays.org/events/2022-birmingham-al/program/lauren-kieliszewski
+2022,"Birmingham - United States",JJ Asghar,Lessons Learned from Cultivating Open Source Projects and Communities,https://devopsdays.org/events/2022-birmingham-al/program/jj-asghar
 2022,Atlanta - United States,Crux Conception,An Insider Threat: What is Social Engineering?,https://devopsdays.org/events/2022-atlanta/program/crux-conception
 2022,Atlanta - United States,Noam Salinger,From Continuous Profiling to Continuous Optimization,https://devopsdays.org/events/2022-atlanta/program/noam-salinger
 2022,Atlanta - United States,"H. ""Waldo"" Grunenwald",Argue Better with Active Listening,https://devopsdays.org/events/2022-atlanta/program/waldo-grunenwald
@@ -2475,23 +2475,23 @@
 2022,Boise - United States,Mandi Walls,Improve Your Automation to Reduce Toil,https://devopsdays.org/events/2022-boise/program/mandi-walls
 2022,Boise - United States,Kristina Gibson,title pending,https://devopsdays.org/events/2022-boise/program/kristina-gibson
 2022,Boise - United States,Natalie Conklin,Closing Keynote: Embrace Change Fearlessly,https://devopsdays.org/events/2022-boise/program/natalie-conklin
-2022,"Birmingham, UK - Unknown",Marcel Britsch,Bringing Product Thinking into DevOps,https://devopsdays.org/events/2022-birmingham-uk/program/marcel-britsch
-2022,"Birmingham, UK - Unknown",Bartłomiej Płotka,Designing Pragmatic Observability that Works: Avoiding Pitfalls,https://devopsdays.org/events/2022-birmingham-uk/program/bart%c5%82omiej-p%c5%82otka
-2022,"Birmingham, UK - Unknown",David Flanagan,What I Learnt Fixing 50+ Broken Kubernetes Clusters,https://devopsdays.org/events/2022-birmingham-uk/program/david-flanagan
-2022,"Birmingham, UK - Unknown",Matt Machell,How the work works,https://devopsdays.org/events/2022-birmingham-uk/program/matt-machell
-2022,"Birmingham, UK - Unknown",Leon Adato,Alerts Don't Suck. YOUR Alerts Suck.,https://devopsdays.org/events/2022-birmingham-uk/program/leon-adato
-2022,"Birmingham, UK - Unknown",Piet van Dongen,What is resilience engineering?,https://devopsdays.org/events/2022-birmingham-uk/program/piet-van-dongen
-2022,"Birmingham, UK - Unknown",Antonio Cobo,Karaoke Ignite talk,https://devopsdays.org/events/2022-birmingham-uk/program/antonio-cobo
-2022,"Birmingham, UK - Unknown",Anais Urlichs,Integrating Cloud Native Security into the SRE culture,https://devopsdays.org/events/2022-birmingham-uk/program/anais-urlichs
-2022,"Birmingham, UK - Unknown",Luigi Zoso,From IT Change Management to Change Enablement: The Swiss Re Journey,https://devopsdays.org/events/2022-birmingham-uk/program/luigi-zoso
-2022,"Birmingham, UK - Unknown",Simon Emms,Why We Chose To Ditch Helm To Gain Open Source Sanity,https://devopsdays.org/events/2022-birmingham-uk/program/simon-emms
-2022,"Birmingham, UK - Unknown",Martin Reynolds,Operating DevOps at Scale,https://devopsdays.org/events/2022-birmingham-uk/program/martin-reynolds
-2022,"Birmingham, UK - Unknown",Ayelet Sachto,Maintaining Reliable systems: How to minimize Incident's impact?,https://devopsdays.org/events/2022-birmingham-uk/program/ayelet-sachto
-2022,"Birmingham, UK - Unknown",Angeliki Patsiavou,Rolling (out) in the deep: Lessons I learned as a Change Manager from a global Dynamics 365 rollout,https://devopsdays.org/events/2022-birmingham-uk/program/angeliki-patsiavou
-2022,"Birmingham, UK - Unknown",Federico Fregosi,Why Developer Platforms and Developer Experience are a must-have when scaling up fast!,https://devopsdays.org/events/2022-birmingham-uk/program/federico-fregosi
-2022,"Birmingham, UK - Unknown",Noaa Barki,"A smart person learns from their own mistakes, but a truly wise person learns from the mistakes of others.",https://devopsdays.org/events/2022-birmingham-uk/program/noaa-barki
-2022,"Birmingham, UK - Unknown",Becky Pauley,Supporting new and junior engineers,https://devopsdays.org/events/2022-birmingham-uk/program/becky-pauley
-2022,"Birmingham, UK - Unknown",Matilde Aliffi,Managing the cognitive load of the Enablement team,https://devopsdays.org/events/2022-birmingham-uk/program/matilde-aliffi
+2022,"Birmingham - United Kindom",Marcel Britsch,Bringing Product Thinking into DevOps,https://devopsdays.org/events/2022-birmingham-uk/program/marcel-britsch
+2022,"Birmingham - United Kindom",Bartłomiej Płotka,Designing Pragmatic Observability that Works: Avoiding Pitfalls,https://devopsdays.org/events/2022-birmingham-uk/program/bart%c5%82omiej-p%c5%82otka
+2022,"Birmingham - United Kindom",David Flanagan,What I Learnt Fixing 50+ Broken Kubernetes Clusters,https://devopsdays.org/events/2022-birmingham-uk/program/david-flanagan
+2022,"Birmingham - United Kindom",Matt Machell,How the work works,https://devopsdays.org/events/2022-birmingham-uk/program/matt-machell
+2022,"Birmingham - United Kindom",Leon Adato,Alerts Don't Suck. YOUR Alerts Suck.,https://devopsdays.org/events/2022-birmingham-uk/program/leon-adato
+2022,"Birmingham - United Kindom",Piet van Dongen,What is resilience engineering?,https://devopsdays.org/events/2022-birmingham-uk/program/piet-van-dongen
+2022,"Birmingham - United Kindom",Antonio Cobo,Karaoke Ignite talk,https://devopsdays.org/events/2022-birmingham-uk/program/antonio-cobo
+2022,"Birmingham - United Kindom",Anais Urlichs,Integrating Cloud Native Security into the SRE culture,https://devopsdays.org/events/2022-birmingham-uk/program/anais-urlichs
+2022,"Birmingham - United Kindom",Luigi Zoso,From IT Change Management to Change Enablement: The Swiss Re Journey,https://devopsdays.org/events/2022-birmingham-uk/program/luigi-zoso
+2022,"Birmingham - United Kindom",Simon Emms,Why We Chose To Ditch Helm To Gain Open Source Sanity,https://devopsdays.org/events/2022-birmingham-uk/program/simon-emms
+2022,"Birmingham - United Kindom",Martin Reynolds,Operating DevOps at Scale,https://devopsdays.org/events/2022-birmingham-uk/program/martin-reynolds
+2022,"Birmingham - United Kindom",Ayelet Sachto,Maintaining Reliable systems: How to minimize Incident's impact?,https://devopsdays.org/events/2022-birmingham-uk/program/ayelet-sachto
+2022,"Birmingham - United Kindom",Angeliki Patsiavou,Rolling (out) in the deep: Lessons I learned as a Change Manager from a global Dynamics 365 rollout,https://devopsdays.org/events/2022-birmingham-uk/program/angeliki-patsiavou
+2022,"Birmingham - United Kindom",Federico Fregosi,Why Developer Platforms and Developer Experience are a must-have when scaling up fast!,https://devopsdays.org/events/2022-birmingham-uk/program/federico-fregosi
+2022,"Birmingham - United Kindom",Noaa Barki,"A smart person learns from their own mistakes, but a truly wise person learns from the mistakes of others.",https://devopsdays.org/events/2022-birmingham-uk/program/noaa-barki
+2022,"Birmingham - United Kindom",Becky Pauley,Supporting new and junior engineers,https://devopsdays.org/events/2022-birmingham-uk/program/becky-pauley
+2022,"Birmingham - United Kindom",Matilde Aliffi,Managing the cognitive load of the Enablement team,https://devopsdays.org/events/2022-birmingham-uk/program/matilde-aliffi
 2022,Geneva - Switzerland,"Julie Giacinti, Xavier Nicolovici",Comment accompagner l'émergence d'une culture DevOps au sein d'une grande entreprise ?,https://devopsdays.org/events/2022-geneva/program/julie-giacinti-and-xavier-nicolovici
 2022,Geneva - Switzerland,David Barbarin,Why we migrated our database monitoring stack to Prometheus and Grafana,https://devopsdays.org/events/2022-geneva/program/david-barbarin
 2022,Geneva - Switzerland,Giovanni Galloro,Tekton: From source to production inside Kubernetes,https://devopsdays.org/events/2022-geneva/program/giovanni-galloro
@@ -2823,26 +2823,26 @@
 2023,raleigh - United States,Sharon Goldberg,The Security of Your CICD Pipeline in 2023,https://devopsdays.org/events/2023-raleigh/program/sharon-goldberg-keynote
 2023,raleigh - United States,Carlos Santana,Navigating Disaster Recovery in Kubernetes and Crossplane: Strategies and Tools for Managing Stateful Workloads with GitOps for Platform Teams,https://devopsdays.org/events/2023-raleigh/program/carlos-santana-keynote
 2023,raleigh - United States,John Willis,Burnout 2023,https://devopsdays.org/events/2023-raleigh/program/john-willis-keynote
-2023,"Birmingham, AL - Unknown",Justin Reock,"DevOps, 12-Factor, and Open Source",https://devopsdays.org/events/2023-birmingham-al/program/justin-reock
-2023,"Birmingham, AL - Unknown",Jim Barton,Getting Started with Istio Ambient Mesh: An Interactive Workshop,https://devopsdays.org/events/2023-birmingham-al/program/workshop-1
-2023,"Birmingham, AL - Unknown",Brandon Yates,From Development Faucet to Pipeline,https://devopsdays.org/events/2023-birmingham-al/program/brandon-yates
-2023,"Birmingham, AL - Unknown",Ajuna Kyaruzi,After the dust has settled: learning from incidents,https://devopsdays.org/events/2023-birmingham-al/program/ajuna-kyaruzi
-2023,"Birmingham, AL - Unknown",Butch Mayhew,Continuous Performance Testing With K6!,https://devopsdays.org/events/2023-birmingham-al/program/butch-mayhew
-2023,"Birmingham, AL - Unknown",Cameron Stanley,Scaling Mobile App Development,https://devopsdays.org/events/2023-birmingham-al/program/cameron-stanley
-2023,"Birmingham, AL - Unknown",Chad McElligott,Lessons learned in my first year as a platform engineer,https://devopsdays.org/events/2023-birmingham-al/program/chad-mcelligott
-2023,"Birmingham, AL - Unknown",Elizabeth Anderson,The ethical burden of tech: who is responsible for the software we create?,https://devopsdays.org/events/2023-birmingham-al/program/elizabeth-anderson
-2023,"Birmingham, AL - Unknown",John Byrd,Event Driven Security,https://devopsdays.org/events/2023-birmingham-al/program/workshop-3
-2023,"Birmingham, AL - Unknown",Vadim Uchitel,Maintenance. The art of {not} wasting your time,https://devopsdays.org/events/2023-birmingham-al/program/vadim-uchitel
-2023,"Birmingham, AL - Unknown",Chris Winslett,Let's Define Data Agility,https://devopsdays.org/events/2023-birmingham-al/program/chris-winslett
-2023,"Birmingham, AL - Unknown",John Willis,Modern Governance and the Service Mesh,https://devopsdays.org/events/2023-birmingham-al/program/john-willis
-2023,"Birmingham, AL - Unknown",Mohamed Wali,Amazon EKS Security Best Practices,https://devopsdays.org/events/2023-birmingham-al/program/mohamed-wali
-2023,"Birmingham, AL - Unknown",Jason L. van Brackel,Introduction to Kubernetes and Air Gap Deployments,https://devopsdays.org/events/2023-birmingham-al/program/workshop-2
-2023,"Birmingham, AL - Unknown",Eric Evans,SLSA and GUAC: A Tasty Combination for Application Supply Chain Security,https://devopsdays.org/events/2023-birmingham-al/program/eric-evans
-2023,"Birmingham, AL - Unknown",Gerie Owen,Reimaging the Role of Testing in DevOps; It’s a New Mindset,https://devopsdays.org/events/2023-birmingham-al/program/gerie-owen
-2023,"Birmingham, AL - Unknown",Ashish Bijlani,Scoring open-source dependencies to detect 'weak links' in your software supply chain,https://devopsdays.org/events/2023-birmingham-al/program/workshop-4
-2023,"Birmingham, AL - Unknown",Daniel Fowler,Making a homemade pizza is a lot like Site Reliability at Tilled,https://devopsdays.org/events/2023-birmingham-al/program/daniel-fowler
-2023,"Birmingham, AL - Unknown",Chris Sims,Design Matters: Using Conway's law to build human-centric software,https://devopsdays.org/events/2023-birmingham-al/program/chris-sims
-2023,"Birmingham, AL - Unknown",Eamon Bauman,"It's Elementary, My Dear Kubernetes! Using Rancher's Elemental To Deploy Kubernetes At The Edge",https://devopsdays.org/events/2023-birmingham-al/program/eamon-bauman
+2023,"Birmingham - United States",Justin Reock,"DevOps, 12-Factor, and Open Source",https://devopsdays.org/events/2023-birmingham-al/program/justin-reock
+2023,"Birmingham - United States",Jim Barton,Getting Started with Istio Ambient Mesh: An Interactive Workshop,https://devopsdays.org/events/2023-birmingham-al/program/workshop-1
+2023,"Birmingham - United States",Brandon Yates,From Development Faucet to Pipeline,https://devopsdays.org/events/2023-birmingham-al/program/brandon-yates
+2023,"Birmingham - United States",Ajuna Kyaruzi,After the dust has settled: learning from incidents,https://devopsdays.org/events/2023-birmingham-al/program/ajuna-kyaruzi
+2023,"Birmingham - United States",Butch Mayhew,Continuous Performance Testing With K6!,https://devopsdays.org/events/2023-birmingham-al/program/butch-mayhew
+2023,"Birmingham - United States",Cameron Stanley,Scaling Mobile App Development,https://devopsdays.org/events/2023-birmingham-al/program/cameron-stanley
+2023,"Birmingham - United States",Chad McElligott,Lessons learned in my first year as a platform engineer,https://devopsdays.org/events/2023-birmingham-al/program/chad-mcelligott
+2023,"Birmingham - United States",Elizabeth Anderson,The ethical burden of tech: who is responsible for the software we create?,https://devopsdays.org/events/2023-birmingham-al/program/elizabeth-anderson
+2023,"Birmingham - United States",John Byrd,Event Driven Security,https://devopsdays.org/events/2023-birmingham-al/program/workshop-3
+2023,"Birmingham - United States",Vadim Uchitel,Maintenance. The art of {not} wasting your time,https://devopsdays.org/events/2023-birmingham-al/program/vadim-uchitel
+2023,"Birmingham - United States",Chris Winslett,Let's Define Data Agility,https://devopsdays.org/events/2023-birmingham-al/program/chris-winslett
+2023,"Birmingham - United States",John Willis,Modern Governance and the Service Mesh,https://devopsdays.org/events/2023-birmingham-al/program/john-willis
+2023,"Birmingham - United States",Mohamed Wali,Amazon EKS Security Best Practices,https://devopsdays.org/events/2023-birmingham-al/program/mohamed-wali
+2023,"Birmingham - United States",Jason L. van Brackel,Introduction to Kubernetes and Air Gap Deployments,https://devopsdays.org/events/2023-birmingham-al/program/workshop-2
+2023,"Birmingham - United States",Eric Evans,SLSA and GUAC: A Tasty Combination for Application Supply Chain Security,https://devopsdays.org/events/2023-birmingham-al/program/eric-evans
+2023,"Birmingham - United States",Gerie Owen,Reimaging the Role of Testing in DevOps; It’s a New Mindset,https://devopsdays.org/events/2023-birmingham-al/program/gerie-owen
+2023,"Birmingham - United States",Ashish Bijlani,Scoring open-source dependencies to detect 'weak links' in your software supply chain,https://devopsdays.org/events/2023-birmingham-al/program/workshop-4
+2023,"Birmingham - United States",Daniel Fowler,Making a homemade pizza is a lot like Site Reliability at Tilled,https://devopsdays.org/events/2023-birmingham-al/program/daniel-fowler
+2023,"Birmingham - United States",Chris Sims,Design Matters: Using Conway's law to build human-centric software,https://devopsdays.org/events/2023-birmingham-al/program/chris-sims
+2023,"Birmingham - United States",Eamon Bauman,"It's Elementary, My Dear Kubernetes! Using Rancher's Elemental To Deploy Kubernetes At The Edge",https://devopsdays.org/events/2023-birmingham-al/program/eamon-bauman
 2023,Denver - United States,Nora Jones,Learning from Incidents: How past surprises can build engineering expertise,https://devopsdays.org/events/2023-denver/program/nora-jones
 2023,Denver - United States,Chris DeMars,Demystifying The Dreaded A/B Test,https://devopsdays.org/events/2023-denver/program/chris-demars
 2023,Denver - United States,Dave Stanke,Software Developments: New insights and surprises from DORA research,https://devopsdays.org/events/2023-denver/program/dave-stanke
@@ -3406,22 +3406,22 @@ I am passionate about Technology, efficiency and effectiveness.",https://devopsd
 2024,Minneapolis - United States,Jenessa Petersen,Back to the Basics: Authentication and Authorization 101,https://devopsdays.org/events/2024-minneapolis/program/jenessa-petersen
 2024,Minneapolis - United States,Xe Iaso,Scaling a social network on a whiteboard,https://devopsdays.org/events/2024-minneapolis/program/xe-iaso
 2024,Minneapolis - United States,Steve Jones,Best Practices for Seamless Database Deployments,https://devopsdays.org/events/2024-minneapolis/program/steve-jones
-2024,"Birmingham, AL - Unknown",Michael Kosir,Vault Workshop,https://devopsdays.org/events/2024-birmingham-al/program/michael-kosir
-2024,"Birmingham, AL - Unknown",Aleksandra Lemańska,"If NASA Did It, Why Tech World Can't? PCM Algorithm To Deal With People",https://devopsdays.org/events/2024-birmingham-al/program/aleksandra-lema%c5%84ska-workshop
-2024,"Birmingham, AL - Unknown",Sundaresh R Iyer,Build your own project blueprint using Amazon CodeCatalyst,https://devopsdays.org/events/2024-birmingham-al/program/sundaresh-r-iyer
-2024,"Birmingham, AL - Unknown",Matt Meyer,Low Code Generative AI - Overview of Development in Microsoft CoPilot Studio,https://devopsdays.org/events/2024-birmingham-al/program/matt-meyer
-2024,"Birmingham, AL - Unknown",Steve Hallman,How long does it take to write a name? Surprises in estimation problems,https://devopsdays.org/events/2024-birmingham-al/program/steve-hallman
-2024,"Birmingham, AL - Unknown",Ken Mugrage,Making strategic technology choices in a fast moving world,https://devopsdays.org/events/2024-birmingham-al/program/ken-mugrage
-2024,"Birmingham, AL - Unknown",Mauro Morales,Creating Immutable Infrastructures with Kairos,https://devopsdays.org/events/2024-birmingham-al/program/mauro-morales
-2024,"Birmingham, AL - Unknown",Dan Cook,Put your mask on first: Surviving in a land of information overload,https://devopsdays.org/events/2024-birmingham-al/program/dan-cook
-2024,"Birmingham, AL - Unknown",Ben Goodman,A successful platform is an opinionated platform,https://devopsdays.org/events/2024-birmingham-al/program/ben-goodman
-2024,"Birmingham, AL - Unknown","Gokul Sarangaraju, Ravi Thakur",Mastering AWS Cost Optimization: Real-world technical and operational cost-saving best practices,https://devopsdays.org/events/2024-birmingham-al/program/gokul-sarangaraju
-2024,"Birmingham, AL - Unknown",Chad McElligott,Cultivating DevOps at Startup Scale: A Staff Engineer’s Journey,https://devopsdays.org/events/2024-birmingham-al/program/chad-mcelligott
-2024,"Birmingham, AL - Unknown",Will Blackburn,What Generative AI Means for DevOps,https://devopsdays.org/events/2024-birmingham-al/program/will-blackburn
-2024,"Birmingham, AL - Unknown",Dwayne McDaniel,Stand Up Straight - Security Posture And You,https://devopsdays.org/events/2024-birmingham-al/program/dwayne-mcdaniel
-2024,"Birmingham, AL - Unknown",David Hawthorne,Delivering Value through DevSecOps: A Post-Incident Review,https://devopsdays.org/events/2024-birmingham-al/program/david-hawthorne
-2024,"Birmingham, AL - Unknown",Steve Hallman,Use Queuing Theory to Your Advantage,https://devopsdays.org/events/2024-birmingham-al/program/steve-hallman-talk
-2024,"Birmingham, AL - Unknown",Seth Hollingsead,Haystacks Tech CLI Automation,https://devopsdays.org/events/2024-birmingham-al/program/seth-hollingsead
+2024,"Birmingham - United States",Michael Kosir,Vault Workshop,https://devopsdays.org/events/2024-birmingham-al/program/michael-kosir
+2024,"Birmingham - United States",Aleksandra Lemańska,"If NASA Did It, Why Tech World Can't? PCM Algorithm To Deal With People",https://devopsdays.org/events/2024-birmingham-al/program/aleksandra-lema%c5%84ska-workshop
+2024,"Birmingham - United States",Sundaresh R Iyer,Build your own project blueprint using Amazon CodeCatalyst,https://devopsdays.org/events/2024-birmingham-al/program/sundaresh-r-iyer
+2024,"Birmingham - United States",Matt Meyer,Low Code Generative AI - Overview of Development in Microsoft CoPilot Studio,https://devopsdays.org/events/2024-birmingham-al/program/matt-meyer
+2024,"Birmingham - United States",Steve Hallman,How long does it take to write a name? Surprises in estimation problems,https://devopsdays.org/events/2024-birmingham-al/program/steve-hallman
+2024,"Birmingham - United States",Ken Mugrage,Making strategic technology choices in a fast moving world,https://devopsdays.org/events/2024-birmingham-al/program/ken-mugrage
+2024,"Birmingham - United States",Mauro Morales,Creating Immutable Infrastructures with Kairos,https://devopsdays.org/events/2024-birmingham-al/program/mauro-morales
+2024,"Birmingham - United States",Dan Cook,Put your mask on first: Surviving in a land of information overload,https://devopsdays.org/events/2024-birmingham-al/program/dan-cook
+2024,"Birmingham - United States",Ben Goodman,A successful platform is an opinionated platform,https://devopsdays.org/events/2024-birmingham-al/program/ben-goodman
+2024,"Birmingham - United States","Gokul Sarangaraju, Ravi Thakur",Mastering AWS Cost Optimization: Real-world technical and operational cost-saving best practices,https://devopsdays.org/events/2024-birmingham-al/program/gokul-sarangaraju
+2024,"Birmingham - United States",Chad McElligott,Cultivating DevOps at Startup Scale: A Staff Engineer’s Journey,https://devopsdays.org/events/2024-birmingham-al/program/chad-mcelligott
+2024,"Birmingham - United States",Will Blackburn,What Generative AI Means for DevOps,https://devopsdays.org/events/2024-birmingham-al/program/will-blackburn
+2024,"Birmingham - United States",Dwayne McDaniel,Stand Up Straight - Security Posture And You,https://devopsdays.org/events/2024-birmingham-al/program/dwayne-mcdaniel
+2024,"Birmingham - United States",David Hawthorne,Delivering Value through DevSecOps: A Post-Incident Review,https://devopsdays.org/events/2024-birmingham-al/program/david-hawthorne
+2024,"Birmingham - United States",Steve Hallman,Use Queuing Theory to Your Advantage,https://devopsdays.org/events/2024-birmingham-al/program/steve-hallman-talk
+2024,"Birmingham - United States",Seth Hollingsead,Haystacks Tech CLI Automation,https://devopsdays.org/events/2024-birmingham-al/program/seth-hollingsead
 2024,Rio de Janeiro - Brazil,Andreza Alves Rocha,Criando um Legado que Transforma o Mundo,https://devopsdays.org/events/2024-rio-de-janeiro/program/andreza-alves-rocha
 2024,Rio de Janeiro - Brazil,Daniel Nascimento,Implementando o Cilium no seu Cluster Kubernetes,https://devopsdays.org/events/2024-rio-de-janeiro/program/daniel-nascimento
 2024,Rio de Janeiro - Brazil,Elias Santos,DevSecOps: Segurança desde o Primeiro Commit,https://devopsdays.org/events/2024-rio-de-janeiro/program/elias-santos
@@ -3433,12 +3433,12 @@ I am passionate about Technology, efficiency and effectiveness.",https://devopsd
 2024,Rio de Janeiro - Brazil,Alice de Nazaré Gomes da Paixão,Do Conceito à Realidade: Utilizando Métricas na Engenharia de DevOps e SRE para Impulsionar a Qualidade,https://devopsdays.org/events/2024-rio-de-janeiro/program/alice-de-nazare-gomes-da-paixao
 2024,Rio de Janeiro - Brazil,Andre Fernandes,Engenharia de Plataforma - Lições das trincheiras,https://devopsdays.org/events/2024-rio-de-janeiro/program/andre-fernandes
 2024,Rio de Janeiro - Brazil,Claudia Charro,Explorando os Altos e Baixos: Como os (In)Sucessos Moldaram Minha Carreira em TI,https://devopsdays.org/events/2024-rio-de-janeiro/program/claudia-charro
-2024,Global Organiser Summit - Unknown,Rich Boyd,Everything You Wanted to Know About Venue Selection But Were Afraid to Ask,https://devopsdays.org/events/2024-organiser-summit/program/everything-you-wanted-to-know-about-venue-selection-but-were-afraid-to-ask
-2024,Global Organiser Summit - Unknown,Daniel Maher,"How to DevOpsDays: Planning, Sponsors, and more!",https://devopsdays.org/events/2024-organiser-summit/program/how-to-devopsdays--planning-sponsors-and-more!
-2024,Global Organiser Summit - Unknown,Jason Yee,Getting Sponsors: An events marketing primer,https://devopsdays.org/events/2024-organiser-summit/program/getting-sponsors--an-events-marketing-primer
-2024,Global Organiser Summit - Unknown,"Dirk Lehmann, Nadine Broghammer",DevOpsDays Zürich: Bigger is not always better,https://devopsdays.org/events/2024-organiser-summit/program/devopsdays-z%c3%bcrich--bigger-is-not-always-better
-2024,Global Organiser Summit - Unknown,"Rafael Gomes, Camilla Martins","DevOpsDays in Brazil, from the first DoD to top2",https://devopsdays.org/events/2024-organiser-summit/program/devopsdays-in-brazil-from-the-first-dod-to-top2
-2024,Global Organiser Summit - Unknown,Toshaan Bharvani,Using FOSS tooling for your conference,https://devopsdays.org/events/2024-organiser-summit/program/using-foss-tooling-for-your-conference
+2024,Antwerp - Belgium,Rich Boyd,Everything You Wanted to Know About Venue Selection But Were Afraid to Ask,https://devopsdays.org/events/2024-organiser-summit/program/everything-you-wanted-to-know-about-venue-selection-but-were-afraid-to-ask
+2024,Antwerp - Belgium,Daniel Maher,"How to DevOpsDays: Planning, Sponsors, and more!",https://devopsdays.org/events/2024-organiser-summit/program/how-to-devopsdays--planning-sponsors-and-more!
+2024,Antwerp - Belgium,Jason Yee,Getting Sponsors: An events marketing primer,https://devopsdays.org/events/2024-organiser-summit/program/getting-sponsors--an-events-marketing-primer
+2024,Antwerp - Belgium,"Dirk Lehmann, Nadine Broghammer",DevOpsDays Zürich: Bigger is not always better,https://devopsdays.org/events/2024-organiser-summit/program/devopsdays-z%c3%bcrich--bigger-is-not-always-better
+2024,Antwerp - Belgium,"Rafael Gomes, Camilla Martins","DevOpsDays in Brazil, from the first DoD to top2",https://devopsdays.org/events/2024-organiser-summit/program/devopsdays-in-brazil-from-the-first-dod-to-top2
+2024,Antwerp - Belgium,Toshaan Bharvani,Using FOSS tooling for your conference,https://devopsdays.org/events/2024-organiser-summit/program/using-foss-tooling-for-your-conference
 2024,Antwerp - Belgium,"Nathen Harvey, Daniel Maher",Welcome to DevOpsDays 15 years Anniversary Edition,https://devopsdays.org/events/2024-antwerp/program/welcome-to-devopsdays-15th
 2024,Antwerp - Belgium,Steve Pereira,Wiring for Flow,https://devopsdays.org/events/2024-antwerp/program/wiring-for-flow
 2024,Antwerp - Belgium,Manuel Pais,Fast Flow: Blockers and Pitfalls,https://devopsdays.org/events/2024-antwerp/program/fast-flow--blockers-and-pitfalls
