@@ -192,7 +192,7 @@
 2013,Amsterdam - The Netherlands,Michael Ducy: DudeOps,Why The Big Lebowski is About your IT project,https://legacy.devopsdays.org/events/2013-amsterdam/program
 2013,Amsterdam - The Netherlands,Frank Breedijk: Help,my Security Officer doesn’t trust me,https://legacy.devopsdays.org/events/2013-amsterdam/program
 2013,Amsterdam - The Netherlands,Jasper Sonnevelt: Kanban,"Dealing with the elephant in the room, one chunk at a time.",https://legacy.devopsdays.org/events/2013-amsterdam/program
-2013,Silicon Valley - Unknown,Clusters,"developers, and the complexity in Infrastructure Automation",https://legacy.devopsdays.org/events/2013-mountainview/program
+2013,Silicon Valley - United States,"Clusters,developers, and the complexity in Infrastructure Automation",https://legacy.devopsdays.org/events/2013-mountainview/program
 2013,Sydney - Australia,Devops,"Dungeons & Dragons
   by David Lutz",https://legacy.devopsdays.org/events/2013-downunder/program
 2013,Sydney - Australia,Puppet On Windows & Linux In The Cloud,"A Story Of Triumph Over Adversity
@@ -237,7 +237,7 @@
 2013,Portland - United States,Seth Vargo,Optimizing for the important things,
 2013,Portland - United States,Jason Dixon,Stupid Graphite tips,
 2013,Portland - United States,Alan Sharp-Paul,DevOps vs The Enterprise,
-2013,Portland - United States,Open Spaces, - View Program,https://dl.dropboxusercontent.com/u/327815/openspaces.jpeg
+2013,Portland - United States,Open Spaces," - View Program",https://dl.dropboxusercontent.com/u/327815/openspaces.jpeg
 2013,Portland - United States,Brad Heller,The Ghost Of DevOps Past: Creating a historical record of your infrastructure,
 2013,Portland - United States,Jeremy Carroll,Building an AMI Factory with Open Source Tools,
 2013,Portland - United States,Chris Roberts,Vagabond - Infrastructure testing and development tool,
@@ -246,7 +246,7 @@
 2013,Portland - United States,Greg Borchers,Visualization of Kanban Flow for DevOps,
 2013,Portland - United States,Mark Troester,"Shifting Left for Secure, Component-based Development",
 2013,Portland - United States,Chris Roberts,Adding sanity to AWS CloudFormation,
-2013,Portland - United States,Open Spaces, - View Program,https://dl.dropboxusercontent.com/u/327815/openspaces2.jpeg
+2013,Portland - United States,Open Spaces," - View Program",https://dl.dropboxusercontent.com/u/327815/openspaces2.jpeg
 2013,London - United Kingdom,What science tells us about information infrastructure,Mark Burgess,https://legacy.devopsdays.org/events/2013-london/program
 2013,London - United Kingdom,Failure Friday!,Start injecting failure today - Doug Barth,https://legacy.devopsdays.org/events/2013-london/program
 2013,London - United Kingdom,Crossing the Uncanny Valley of Culture through Mutual Learning,Jeffrey Fredrick,https://legacy.devopsdays.org/events/2013-london/program
@@ -282,28 +282,28 @@
 2014,Pittsburgh - United States,Jennifer Davis,From Hero to Zero,https://devopsdays.org/events/2014-pittsburgh/proposals/From%20Hero%20to%20Zero/
 2014,Pittsburgh - United States,Todd Underwood,Reliability Engineering,https://devopsdays.org/events/2014-pittsburgh/proposals/Fragility%20and%20Reliability/
 2014,Amsterdam - The Netherlands,DevOps: For Happier,More Productive People,https://legacy.devopsdays.org/events/2014-amsterdam/program
-2014,Silicon Valley - Unknown,John Willis,State of the Union - to be confirmed,
-2014,Silicon Valley - Unknown,Dominica Degrandis,Why don’t we just say No?,
-2014,Silicon Valley - Unknown,Adam Auerbach,How Capital One put Quality in the Driver seat thru DevOps and other best practices,
-2014,Silicon Valley - Unknown,Sarah Goff-Dupont,Marketing: the devops comrades you didn't know you had,
-2014,Silicon Valley - Unknown,Erik Sowa,Front-end ops and the OODA loop: A decision cycle time strategy for winning in a hostile internet environment,
-2014,Silicon Valley - Unknown,Seema Jethani,From classic to Contemporary: An approach to tools and technology choices,
-2014,Silicon Valley - Unknown,Matt Ho,Docker and Serf: DevOps Dynamic Duo,
-2014,Silicon Valley - Unknown,Aater Suleman,Quick and Easy Multi-tenancy using Docker,
-2014,Silicon Valley - Unknown,Jason Walker,LEGOOps,
-2014,Silicon Valley - Unknown,Ho Ming Li,5 Common Barriers when Introducing Devops,
-2014,Silicon Valley - Unknown,Andrew Clay Shafer,Prepare for Open Spaces!,
-2014,Silicon Valley - Unknown,Randy Shoup,The Game of Operations and the Operation of Games,
-2014,Silicon Valley - Unknown,Bridget Kromhout,How I Learned to Stop Worrying and Love DevOps,
-2014,Silicon Valley - Unknown,Mercedes Coyle,Onboarding and Mentoring Apprentices with DevOps Culture,
-2014,Silicon Valley - Unknown,Mark Burgess,The Future of Configuration Management (update),
-2014,Silicon Valley - Unknown,James Urquhart,DevOps as Relationship Management: How to keep systems of services happy,
-2014,Silicon Valley - Unknown,Tom Duffield,Tips on being an Introvert in an extrovert's world,
-2014,Silicon Valley - Unknown,Patrick Hoolboom,10 Reasons Why DevOps is the Greatest Shift in the IT Industry,
-2014,Silicon Valley - Unknown,Mike Place,Scalable container management,
-2014,Silicon Valley - Unknown,John Willis,From Deming to Devops,
-2014,Silicon Valley - Unknown,Tanay Nagjee,Building QA into the Continuous Delivery Process – a Pipeline Approach,
-2014,Silicon Valley - Unknown,Cædman Oakley,Application deployment and management with Atlantis,
+2014,Silicon Valley - United States,John Willis,State of the Union - to be confirmed,
+2014,Silicon Valley - United States,Dominica Degrandis,Why don’t we just say No?,
+2014,Silicon Valley - United States,Adam Auerbach,How Capital One put Quality in the Driver seat thru DevOps and other best practices,
+2014,Silicon Valley - United States,Sarah Goff-Dupont,Marketing: the devops comrades you didn't know you had,
+2014,Silicon Valley - United States,Erik Sowa,Front-end ops and the OODA loop: A decision cycle time strategy for winning in a hostile internet environment,
+2014,Silicon Valley - United States,Seema Jethani,From classic to Contemporary: An approach to tools and technology choices,
+2014,Silicon Valley - United States,Matt Ho,Docker and Serf: DevOps Dynamic Duo,
+2014,Silicon Valley - United States,Aater Suleman,Quick and Easy Multi-tenancy using Docker,
+2014,Silicon Valley - United States,Jason Walker,LEGOOps,
+2014,Silicon Valley - United States,Ho Ming Li,5 Common Barriers when Introducing Devops,
+2014,Silicon Valley - United States,Andrew Clay Shafer,Prepare for Open Spaces!,
+2014,Silicon Valley - United States,Randy Shoup,The Game of Operations and the Operation of Games,
+2014,Silicon Valley - United States,Bridget Kromhout,How I Learned to Stop Worrying and Love DevOps,
+2014,Silicon Valley - United States,Mercedes Coyle,Onboarding and Mentoring Apprentices with DevOps Culture,
+2014,Silicon Valley - United States,Mark Burgess,The Future of Configuration Management (update),
+2014,Silicon Valley - United States,James Urquhart,DevOps as Relationship Management: How to keep systems of services happy,
+2014,Silicon Valley - United States,Tom Duffield,Tips on being an Introvert in an extrovert's world,
+2014,Silicon Valley - United States,Patrick Hoolboom,10 Reasons Why DevOps is the Greatest Shift in the IT Industry,
+2014,Silicon Valley - United States,Mike Place,Scalable container management,
+2014,Silicon Valley - United States,John Willis,From Deming to Devops,
+2014,Silicon Valley - United States,Tanay Nagjee,Building QA into the Continuous Delivery Process – a Pipeline Approach,
+2014,Silicon Valley - United States,Cædman Oakley,Application deployment and management with Atlantis,
 2014,Minneapolis - United States,First you build the team,then they build the things.,https://legacy.devopsdays.org/events/2014-minneapolis/program
 2014,Brisbane - Australia,System Failure,Human Error: Who's to Blame?- Keynote by Sidney Dekker,https://legacy.devopsdays.org/events/2014-brisbane/program
 2014,Brisbane - Australia,Acquisition,ownership and migration of legacy applicationsby Mujtaba Hussain,https://legacy.devopsdays.org/events/2014-brisbane/program
@@ -494,7 +494,7 @@
 2015,Berlin - Germany,Hands On,Tools,https://legacy.devopsdays.org/events/2015-berlin/program
 2015,Berlin - Germany,Hands On,Test-Driven Infrastructure,https://legacy.devopsdays.org/events/2015-berlin/program
 2015,Berlin - Germany,Hands On,Ansible,https://legacy.devopsdays.org/events/2015-berlin/program
-2015,Silicon Valley - Unknown,DevOps Army of One,How to Survive When You're the SPoF,https://legacy.devopsdays.org/events/2015-siliconvalley/program
+2015,Silicon Valley - United States,DevOps Army of One,How to Survive When You're the SPoF,https://legacy.devopsdays.org/events/2015-siliconvalley/program
 2015,Detroit - United States,There and Back Again,"Why I Left Michigan, and Why I Came Back",https://legacy.devopsdays.org/events/2015-detroit/program
 2015,Detroit - United States,Continuous Delivery Decision Points,getting software safely into production,https://legacy.devopsdays.org/events/2015-detroit/program
 2015,Detroit - United States,Our Child,DevOps,https://legacy.devopsdays.org/events/2015-detroit/program
@@ -521,14 +521,7 @@
 2016,Los Angeles - United States,Carlos Meza,Getting Started with TDI,
 2016,Los Angeles - United States,Joel Salas,Haute Performance: Cracking the Flash Sale,
 2016,Los Angeles - United States,Elizabeth K. Joseph,Open Source tools for distributed systems administration,
-2016,Los Angeles - United States,,Lunch Break,
 2016,Los Angeles - United States,Justin Garrison,Config Management Sucks,
-2016,Los Angeles - United States,,Open Space Opening,
-2016,Los Angeles - United States,,Open Space #1,
-2016,Los Angeles - United States,,Open Space #2,
-2016,Los Angeles - United States,,Open Space #3,
-2016,Los Angeles - United States,,Closing Circle,
-2016,Los Angeles - United States,,Expo Hall Reception,
 2016,Vancouver - Canada,Consul for QA,integration testing a monitoring tool by simulating distributed systems.,https://legacy.devopsdays.org/events/2016-vancouver/program
 2016,Vancouver - Canada,Docker Provides Convenience with Hidden Complexity,How Can We Cope?,https://legacy.devopsdays.org/events/2016-vancouver/program
 2016,Vancouver - Canada,Being an introvert and at a conference,not as hellish as you think it is,https://legacy.devopsdays.org/events/2016-vancouver/program
@@ -545,7 +538,7 @@
 2016,Atlanta - United States,Leon Fayer,Oncall for developers,
 2016,Atlanta - United States,Parker McGee,How We Dropped a Major Scaling Component and Scaled Better,
 2016,Atlanta - United States,Jason hand,The Unrealized Role of Monitoring & Alerting,https://devopsdays.org/events/2016-atlanta/proposals/The%20Unrealized%20Role%20of%20Monitoring%20and%20Alerting
-2016,Atlanta - United States,Jeff Bragdon and Anton Ouzounov,From Zero to Hero: CareerBuilder's DevOps Deployment Pipeline ,https://devopsdays.org/events/2016-atlanta/proposals/From%200%20to%20Hero%20CareerBuilder%20DevOps%20Deployment%20Pipeline
+2016,Atlanta - United States,Jeff Bragdon and Anton Ouzounov,"From Zero to Hero: CareerBuilder's DevOps Deployment Pipeline ",https://devopsdays.org/events/2016-atlanta/proposals/From%200%20to%20Hero%20CareerBuilder%20DevOps%20Deployment%20Pipeline
 2016,Atlanta - United States,"Lee Blackburn, Chue Her, & Adrian Kosciak",The test automation journey; a labor of love and where are we now?,https://devopsdays.org/events/2016-atlanta/proposals/The%20test%20automation%20journey%20a%20labor%20of%20love%20and%20where%20are%20we%20now
 2016,Atlanta - United States,Virginia Cagwin,Don’t hit it with a pretty stick: LeanUX Methods for Agile Teams,https://devopsdays.org/events/2016-atlanta/proposals/Dont%20hit%20it%20with%20a%20pretty%20stick%20LeanUX%20Methods%20for%20Agile%20Teams
 2016,Atlanta - United States,Josh Goldman,Affecting Change in Your Organization – Being an Agent of Change,
@@ -1022,24 +1015,24 @@
 2018,Kiel - Germany,Mateo Burillo,CI/CD/CS: implementing continuous security across your delivery pipeline and at run-time,https://devopsdays.org/events/2018-kiel/program/mateo-burillo
 2018,Kiel - Germany,Siamak Sadeghianfar,Ten Ways Kubernetes Enables DevOps,https://devopsdays.org/events/2018-kiel/program/siamak-sadeghianfar
 2018,Kiel - Germany,Dirk Lehmann,Trust as foundation of DevOps,https://devopsdays.org/events/2018-kiel/program/dirk-lehmann
-2018,Silicon Valley - Unknown,Jennifer Davis,"Navigating Change, Bridging the Gap",https://devopsdays.org/events/2018-silicon-valley/program/jennifer-davis
-2018,Silicon Valley - Unknown,Nicole Forsgren,The Data Behind DevOps: What Does it Take to be a High Performer?,https://devopsdays.org/events/2018-silicon-valley/program/nicole-forsgren
-2018,Silicon Valley - Unknown,"Amy Nguyen, Adam Barber",Building Developer Tools Your Coworkers Won't Hate,https://devopsdays.org/events/2018-silicon-valley/program/amy-nguyen-adam-barber
-2018,Silicon Valley - Unknown,Fatema Boxwala,Are your interns actually sad? The answer may surprise you!,https://devopsdays.org/events/2018-silicon-valley/program/fatema-boxwala
-2018,Silicon Valley - Unknown,Katy Farmer,How to Be Happy Being Average,https://devopsdays.org/events/2018-silicon-valley/program/katy-farmer
-2018,Silicon Valley - Unknown,Lisa Seelye,"SLO Creation and You: or, How we learned to stop worrying and love the queue length",https://devopsdays.org/events/2018-silicon-valley/program/lisa-seelye
-2018,Silicon Valley - Unknown,Artem Starostenko,Infrastructure as Code The Hard Way,https://devopsdays.org/events/2018-silicon-valley/program/artem-starostenko
-2018,Silicon Valley - Unknown,Noah Kantrowitz,Consumption is Fractal: Open Source Sustainability,https://devopsdays.org/events/2018-silicon-valley/program/noah-kantrowitz
-2018,Silicon Valley - Unknown,Connie-Lynne Villani,Opening - Day 2,https://devopsdays.org/events/2018-silicon-valley/program/opening-day-2
-2018,Silicon Valley - Unknown,Sarah Hagan,"You’re so empathetic, you probably know this talk’s not about you.",https://devopsdays.org/events/2018-silicon-valley/program/sarah-hagan
-2018,Silicon Valley - Unknown,Seth Vargo,Modern Security with Microservices and the Cloud,https://devopsdays.org/events/2018-silicon-valley/program/seth-vargo
-2018,Silicon Valley - Unknown,Frances Hocutt,"Test! (some of) Your! Code!: how to write tests, conquer guilt, and level up",https://devopsdays.org/events/2018-silicon-valley/program/frances-hocutt
-2018,Silicon Valley - Unknown,Jennelle Crothers,Can You Call it a Container when it has Windows?,https://devopsdays.org/events/2018-silicon-valley/program/jennelle-crothers
-2018,Silicon Valley - Unknown,Adrian Cockcroft,Dynamic Non-events,https://devopsdays.org/events/2018-silicon-valley/program/adrian-cockcroft
-2018,Silicon Valley - Unknown,Emily Gladstone Cole,How to be your Security team's best friend,https://devopsdays.org/events/2018-silicon-valley/program/emily-gladstone-cole
-2018,Silicon Valley - Unknown,Eben Freeman,No-Frills Observability for the No-Nonsense Engineer,https://devopsdays.org/events/2018-silicon-valley/program/eben-freeman
-2018,Silicon Valley - Unknown,"James Geboski, Pedro Marques da Luz",News Feed: Source to Production,https://devopsdays.org/events/2018-silicon-valley/program/james-geboski-pedro-marques-da-luz
-2018,Silicon Valley - Unknown,Wren Turkal,Closing Notes,https://devopsdays.org/events/2018-silicon-valley/program/wren-turkal
+2018,Silicon Valley - United States,Jennifer Davis,"Navigating Change, Bridging the Gap",https://devopsdays.org/events/2018-silicon-valley/program/jennifer-davis
+2018,Silicon Valley - United States,Nicole Forsgren,The Data Behind DevOps: What Does it Take to be a High Performer?,https://devopsdays.org/events/2018-silicon-valley/program/nicole-forsgren
+2018,Silicon Valley - United States,"Amy Nguyen, Adam Barber",Building Developer Tools Your Coworkers Won't Hate,https://devopsdays.org/events/2018-silicon-valley/program/amy-nguyen-adam-barber
+2018,Silicon Valley - United States,Fatema Boxwala,Are your interns actually sad? The answer may surprise you!,https://devopsdays.org/events/2018-silicon-valley/program/fatema-boxwala
+2018,Silicon Valley - United States,Katy Farmer,How to Be Happy Being Average,https://devopsdays.org/events/2018-silicon-valley/program/katy-farmer
+2018,Silicon Valley - United States,Lisa Seelye,"SLO Creation and You: or, How we learned to stop worrying and love the queue length",https://devopsdays.org/events/2018-silicon-valley/program/lisa-seelye
+2018,Silicon Valley - United States,Artem Starostenko,Infrastructure as Code The Hard Way,https://devopsdays.org/events/2018-silicon-valley/program/artem-starostenko
+2018,Silicon Valley - United States,Noah Kantrowitz,Consumption is Fractal: Open Source Sustainability,https://devopsdays.org/events/2018-silicon-valley/program/noah-kantrowitz
+2018,Silicon Valley - United States,Connie-Lynne Villani,Opening - Day 2,https://devopsdays.org/events/2018-silicon-valley/program/opening-day-2
+2018,Silicon Valley - United States,Sarah Hagan,"You’re so empathetic, you probably know this talk’s not about you.",https://devopsdays.org/events/2018-silicon-valley/program/sarah-hagan
+2018,Silicon Valley - United States,Seth Vargo,Modern Security with Microservices and the Cloud,https://devopsdays.org/events/2018-silicon-valley/program/seth-vargo
+2018,Silicon Valley - United States,Frances Hocutt,"Test! (some of) Your! Code!: how to write tests, conquer guilt, and level up",https://devopsdays.org/events/2018-silicon-valley/program/frances-hocutt
+2018,Silicon Valley - United States,Jennelle Crothers,Can You Call it a Container when it has Windows?,https://devopsdays.org/events/2018-silicon-valley/program/jennelle-crothers
+2018,Silicon Valley - United States,Adrian Cockcroft,Dynamic Non-events,https://devopsdays.org/events/2018-silicon-valley/program/adrian-cockcroft
+2018,Silicon Valley - United States,Emily Gladstone Cole,How to be your Security team's best friend,https://devopsdays.org/events/2018-silicon-valley/program/emily-gladstone-cole
+2018,Silicon Valley - United States,Eben Freeman,No-Frills Observability for the No-Nonsense Engineer,https://devopsdays.org/events/2018-silicon-valley/program/eben-freeman
+2018,Silicon Valley - United States,"James Geboski, Pedro Marques da Luz",News Feed: Source to Production,https://devopsdays.org/events/2018-silicon-valley/program/james-geboski-pedro-marques-da-luz
+2018,Silicon Valley - United States,Wren Turkal,Closing Notes,https://devopsdays.org/events/2018-silicon-valley/program/wren-turkal
 2018,Toronto - Canada,Steve Pereira,"DevOpsDaysTO Year 5, DevOps Year 10",https://devopsdays.org/events/2018-toronto/program/steve-pereira
 2018,Toronto - Canada,"Shawn Sterling, Nan Jiang",Unleashing the Gorillacorn - DevOps in Very Large Enterprises,https://devopsdays.org/events/2018-toronto/program/shawn-sterling
 2018,Toronto - Canada,Catherine Proulx,Shaky to solid: a test-based approach to legacy code,https://devopsdays.org/events/2018-toronto/program/catherine-proulx
@@ -1577,26 +1570,6 @@
 2019,Denver - United States,Jyoti Mittal,No More Flaky Tests: Building Trust in Your Automated Tests,https://devopsdays.org/events/2019-denver/program/day-two-talk-three
 2019,Denver - United States,"Meagan Cooney, Erin Atkinson, Amanda Collins",When DevOps Goes Awry: A Retrospective,https://devopsdays.org/events/2019-denver/program/day-two-talk-four
 2019,Denver - United States,"Kristina Vincent, Andy Horner, Tim Kuhlman",Dr. Strangelove: or How I Learned to Stop Worrying and Love Remote Employees,https://devopsdays.org/events/2019-denver/program/day-two-talk-five
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
-2019,Austin - United States,,-,https://devopsdays.org/events/2018-austin/program/
 2019,Des Moines - United States,Pete Anderson,How to Avoid Building the Wrong Thing 2-Weeks at a Time (ballroom),https://devopsdays.org/events/2019-des-moines/program/pete-anderson
 2019,Des Moines - United States,Eric Johnson,DevSecOps: Key Controls For Modern Security Success (breakout 1),https://devopsdays.org/events/2019-des-moines/program/eric-johnson
 2019,Des Moines - United States,"Bobby Stockstead, Robert Whalen",Crowdsourcing Technology Governance (breakout 2),https://devopsdays.org/events/2019-des-moines/program/bobby-stockstead-robert-whalen
@@ -2909,7 +2882,7 @@ I am passionate about Technology, efficiency and effectiveness.",https://devopsd
 2023,Cáceres - Spain,Desplegando contenedores como código: un viaje por AWS CDK y CDK8sCésar Prieto Ballester (AWS)SpanishMediumTalk descriptionEmpezaremos viendo cómo creamos Infraestructura en AWS a través del Cloud Development Kit,"un framework que nos ayuda a crear de forma más natural para un desarrollador, recursos en AWS. Veremos los diferentes niveles de constructores que tenemos para crear la infraestructura y lo integraremos con CDK8S, framework que nos permite crear definiciones de Kubernetes también como código.Dí adiós a los yaml files y empieza a crear la Infraestructura usando lenguajes como Python, Java, Go o TypeScript.About the speakerIngeniero Informático por la Universidad de Extremadura enamorado de la automatización de la Infraestructura como código. Actualmente, trabajo como consultor DevOps para el equipo de Servicios de Profesionales de AWS en España.",https://devopsdays.org/events/2023-caceres/program/cdk-cdk8s
 2023,Cáceres - Spain,Getting Best Out of Team Exploratory Testing SessionsJulia Durán (Glofox)SpanishMediumTalk descriptionIn DevOps,"all of the tasks involved in the development and deployment of the code are highly automated. But there is a task manually performed that can provide us with very valuable insights. In the talk, Julia will present the Team Exploratory Testing Sessions, in which different roles within the team (Product Manager, Designer, Developers, Testers, SRE Team) are involved. All together will put themselves in the Tester’s shoes, testing at the same time the current feature in a common session. In that journey, led by the tester, they will identify not only issues but also possible improvements and proposals for future development, while learning because of the knowledge and expertise all of them share during the session.About the speakerLlevo trabajando más de 18 años en el sector tecnológico, de los cuales he dedicado más de 16 años al Testing. Recientemente le he dado un giro a mi carrera profesional, dejando las tareas de gestión y volviendo a realizar tareas de Testing, que es mi pasión!. Siempre trabajo con orientación a resultados y creo en el aprendizaje continuo. Para mejorar los proyectos en los que participo, me encanta experimentar y encontrar cambios que generen mejoras. Mi actitud y mentalidad positiva en todas las situaciones me permiten sacar lo mejor de las personas que trabajan conmigo. Ser una organizadora voluntaria de la European Testing Conference durante las 3 últimas ediciones, formar parte de un equipo multidisciplinario y multicultural, distribuido en varias zonas horarias y colaborar en un idioma que no hablo de forma nativa me dio una nueva perspectiva de hacia dónde quería dirigir mi carrera profesional. Finalmente, lo he conseguido! En continua actualización de mis habilidades técnicas, formándome en Automatización de Pruebas y Pruebas Exploratorias.",https://devopsdays.org/events/2023-caceres/program/exploratory-testing
 2023,Cáceres - Spain,Why and how to include database changes in the deployment pipelineEduardo Piairo (Devoteam)EnglishMediumTalk descriptionIn the software development process,"the database introduces some challenges when we want to articulate with the application development. When all database changes can be described with scripts, version control can be applied unlocking continuous integration and continuous delivery capabilities.In this session I will explore the database challenges of each stage of the deployment pipeline, how to use automation to make de deployment pipeline repeatable, reliable and fast, reducing the fear around database changes, and identify the different configurations of the deployment pipeline while articulating database and applications.About the speakerPrincipal DevOps Engineer @ Devoteam that enjoys building software, pipelines, and communities. The deployment pipeline is his favorite technical and cultural tool. AnythingOps approach enthusiast.",https://devopsdays.org/events/2023-caceres/program/database-changes
-2023,Cáceres - Spain,“Why would anyone want to come to my talk?”Diego Coy (Scaleway)EnglishMediumTalk descriptionWith this talk I go over some of the thoughts people have when presented with the idea of sharing their knowledge at a conference,"such as “There’s nothing special for me to share” or “Yeah, but surely everyone knows that” or “What I do is boring”.About the speakerWeb developer with over 10 years of experience turned Developer Advocate currently acting as a bridge between technologists and the cloud world.Google Developer Expert in Web Technologies and Google Maps Platform, passionate about communities and sharing knowledge.",https://devopsdays.org/events/2023-caceres/program/why-my-talk
+2023,Cáceres - Spain,Why would anyone want to come to my talk? Diego Coy (Scaleway)EnglishMediumTalk descriptionWith this talk I go over some of the thoughts people have when presented with the idea of sharing their knowledge at a conference,"such as “There’s nothing special for me to share” or “Yeah, but surely everyone knows that” or “What I do is boring”.About the speakerWeb developer with over 10 years of experience turned Developer Advocate currently acting as a bridge between technologists and the cloud world.Google Developer Expert in Web Technologies and Google Maps Platform, passionate about communities and sharing knowledge.",https://devopsdays.org/events/2023-caceres/program/why-my-talk
 2023,Copenhagen - Denmark,Ixchel Ruiz,Failure is not an option. It's a fact,https://devopsdays.org/events/2023-copenhagen/program/ixchel-ruiz
 2023,Copenhagen - Denmark,Lesley Cordero,Effective Observability in Microservice architectures,https://devopsdays.org/events/2023-copenhagen/program/lesley-cordero
 2023,Copenhagen - Denmark,"Christina Staun Biangslev, Paul Freeman",Digital for Dairy! Arla's journey to DevOps for tailor made IT,https://devopsdays.org/events/2023-copenhagen/program/christina-staun-biangslev
@@ -2988,32 +2961,32 @@ I am passionate about Technology, efficiency and effectiveness.",https://devopsd
 2023,New York City - United States,Ramón Huidobro,There's More to Open Source than Code,https://devopsdays.org/events/2023-new-york-city/program/ramon-huidobro
 2023,New York City - United States,Tiffany Jernigan,How to make Kubernetes rhyme with prod readiness,https://devopsdays.org/events/2023-new-york-city/program/tiffany-jernigan
 2023,New York City - United States,Todd Baert,Breaking up is(n't) hard to do: separating releases from deploys with vendor neutral feature flags,https://devopsdays.org/events/2023-new-york-city/program/todd-baert
-2023,Birmingham UK - Unknown,Leon Adato,Looking back at a lifetime of poor tech choices,https://devopsdays.org/events/2023-birmingham-uk/program/leon-adato
-2023,Birmingham UK - Unknown,Hannah Mitchell,Creating 'happy' at work,https://devopsdays.org/events/2023-birmingham-uk/program/hannah-mitchell
-2023,Birmingham UK - Unknown,Salma Alam-Naylor,"Fake it, don't make it. How serverless can level up your front end game and unlock your full stack potential",https://devopsdays.org/events/2023-birmingham-uk/program/salma-alam-naylor
-2023,Birmingham UK - Unknown,Fawaz Ghali,Five Challenges in Real-time Stream Processing and Five Solutions,https://devopsdays.org/events/2023-birmingham-uk/program/fawaz-ghali
-2023,Birmingham UK - Unknown,Viktor Farcic,DevOps Is Dead! Long Live Platform Engineering! Did We Get Confused?,https://devopsdays.org/events/2023-birmingham-uk/program/viktor-farcic
-2023,Birmingham UK - Unknown,Omar Qureshi,Breaking Out of Silos,https://devopsdays.org/events/2023-birmingham-uk/program/omar-qureshi
-2023,Birmingham UK - Unknown,Kat Samperi,How to unf*ck the monolith,https://devopsdays.org/events/2023-birmingham-uk/program/kat-samperi
-2023,Birmingham UK - Unknown,Elizabeth Lawel,Diversity in Tech: Igniting Creative Innovation and Building a Better Future,https://devopsdays.org/events/2023-birmingham-uk/program/elizabeth-lawel
-2023,Birmingham UK - Unknown,Carly Richmond,Are They Really Using It? Monitoring Digital Experience to Determine Feature Effectiveness,https://devopsdays.org/events/2023-birmingham-uk/program/carly-richmond
-2023,Birmingham UK - Unknown,Craig Box,Unpacking Open Source Security in Public Repos & Registries,https://devopsdays.org/events/2023-birmingham-uk/program/craig-box
-2023,Birmingham UK - Unknown,Eli Holderness,A Brief History Of Data Storage,https://devopsdays.org/events/2023-birmingham-uk/program/eli-holderness
-2023,Birmingham UK - Unknown,Kris Buytaert,"10+ years of #devops , but what did we really learn ?",https://devopsdays.org/events/2023-birmingham-uk/program/kris-buytaert
-2023,Birmingham UK - Unknown,Max Woolf,"How to code review, effectively",https://devopsdays.org/events/2023-birmingham-uk/program/max-woolf
-2023,Birmingham UK - Unknown,Kat Cosgrove,Historical Context: Infrastructure as Code,https://devopsdays.org/events/2023-birmingham-uk/program/kat-cosgrove
-2023,Birmingham UK - Unknown,Lin Sun,Operate Multi-Tenancy Service Mesh with ArgoCD in Production,https://devopsdays.org/events/2023-birmingham-uk/program/lin-sun
-2023,Birmingham UK - Unknown,Stuart Langridge,Privacy Could Be The Next Big Thing,https://devopsdays.org/events/2023-birmingham-uk/program/stuart-langridge
-2023,Birmingham UK - Unknown,Louise Paling,Lean Startup,https://devopsdays.org/events/2023-birmingham-uk/program/louise-paling
-2023,Birmingham UK - Unknown,Zakariya Mohummed,The Unconventional Engineer,https://devopsdays.org/events/2023-birmingham-uk/program/zakariya-mohummed
-2023,Birmingham UK - Unknown,Esther Barthel,Branching strategies speeddating,https://devopsdays.org/events/2023-birmingham-uk/program/esther-barthel
-2023,Birmingham UK - Unknown,Baruch Sadogursky,DevOps for developers (or maybe against them?!),https://devopsdays.org/events/2023-birmingham-uk/program/baruch-sadogursky
-2023,Birmingham UK - Unknown,Steve Heyes,Debunking The Myths Of Leadership,https://devopsdays.org/events/2023-birmingham-uk/program/steve-heyes
-2023,Birmingham UK - Unknown,Daniel Oates-Lee,Git those passwords out your repos! - detecting leaked secrets at scale,https://devopsdays.org/events/2023-birmingham-uk/program/daniel-oates-lee
-2023,Birmingham UK - Unknown,Hila Fish,Terraform Practices to Enable Infrastructure Scaling,https://devopsdays.org/events/2023-birmingham-uk/program/hila-fish
-2023,Birmingham UK - Unknown,Andy Burgin,Curating a Platform Experience,https://devopsdays.org/events/2023-birmingham-uk/program/andy-burgin
-2023,Birmingham UK - Unknown,Krisztian Fekete,BumbleBee: Or How I Learned To Stop Worrying And Love eBPF,https://devopsdays.org/events/2023-birmingham-uk/program/krisztian-fekete
-2023,Birmingham UK - Unknown,Joanna Suau,Why docs-as-code peer review should be part of your dev cycle,https://devopsdays.org/events/2023-birmingham-uk/program/joanna-suau
+2023,Birmingham - United Kindom,Leon Adato,Looking back at a lifetime of poor tech choices,https://devopsdays.org/events/2023-birmingham-uk/program/leon-adato
+2023,Birmingham - United Kindom,Hannah Mitchell,Creating 'happy' at work,https://devopsdays.org/events/2023-birmingham-uk/program/hannah-mitchell
+2023,Birmingham - United Kindom,Salma Alam-Naylor,"Fake it, don't make it. How serverless can level up your front end game and unlock your full stack potential",https://devopsdays.org/events/2023-birmingham-uk/program/salma-alam-naylor
+2023,Birmingham - United Kindom,Fawaz Ghali,Five Challenges in Real-time Stream Processing and Five Solutions,https://devopsdays.org/events/2023-birmingham-uk/program/fawaz-ghali
+2023,Birmingham - United Kindom,Viktor Farcic,DevOps Is Dead! Long Live Platform Engineering! Did We Get Confused?,https://devopsdays.org/events/2023-birmingham-uk/program/viktor-farcic
+2023,Birmingham - United Kindom,Omar Qureshi,Breaking Out of Silos,https://devopsdays.org/events/2023-birmingham-uk/program/omar-qureshi
+2023,Birmingham - United Kindom,Kat Samperi,How to unf*ck the monolith,https://devopsdays.org/events/2023-birmingham-uk/program/kat-samperi
+2023,Birmingham - United Kindom,Elizabeth Lawel,Diversity in Tech: Igniting Creative Innovation and Building a Better Future,https://devopsdays.org/events/2023-birmingham-uk/program/elizabeth-lawel
+2023,Birmingham - United Kindom,Carly Richmond,Are They Really Using It? Monitoring Digital Experience to Determine Feature Effectiveness,https://devopsdays.org/events/2023-birmingham-uk/program/carly-richmond
+2023,Birmingham - United Kindom,Craig Box,Unpacking Open Source Security in Public Repos & Registries,https://devopsdays.org/events/2023-birmingham-uk/program/craig-box
+2023,Birmingham - United Kindom,Eli Holderness,A Brief History Of Data Storage,https://devopsdays.org/events/2023-birmingham-uk/program/eli-holderness
+2023,Birmingham - United Kindom,Kris Buytaert,"10+ years of #devops , but what did we really learn ?",https://devopsdays.org/events/2023-birmingham-uk/program/kris-buytaert
+2023,Birmingham - United Kindom,Max Woolf,"How to code review, effectively",https://devopsdays.org/events/2023-birmingham-uk/program/max-woolf
+2023,Birmingham - United Kindom,Kat Cosgrove,Historical Context: Infrastructure as Code,https://devopsdays.org/events/2023-birmingham-uk/program/kat-cosgrove
+2023,Birmingham - United Kindom,Lin Sun,Operate Multi-Tenancy Service Mesh with ArgoCD in Production,https://devopsdays.org/events/2023-birmingham-uk/program/lin-sun
+2023,Birmingham - United Kindom,Stuart Langridge,Privacy Could Be The Next Big Thing,https://devopsdays.org/events/2023-birmingham-uk/program/stuart-langridge
+2023,Birmingham - United Kindom,Louise Paling,Lean Startup,https://devopsdays.org/events/2023-birmingham-uk/program/louise-paling
+2023,Birmingham - United Kindom,Zakariya Mohummed,The Unconventional Engineer,https://devopsdays.org/events/2023-birmingham-uk/program/zakariya-mohummed
+2023,Birmingham - United Kindom,Esther Barthel,Branching strategies speeddating,https://devopsdays.org/events/2023-birmingham-uk/program/esther-barthel
+2023,Birmingham - United Kindom,Baruch Sadogursky,DevOps for developers (or maybe against them?!),https://devopsdays.org/events/2023-birmingham-uk/program/baruch-sadogursky
+2023,Birmingham - United Kindom,Steve Heyes,Debunking The Myths Of Leadership,https://devopsdays.org/events/2023-birmingham-uk/program/steve-heyes
+2023,Birmingham - United Kindom,Daniel Oates-Lee,Git those passwords out your repos! - detecting leaked secrets at scale,https://devopsdays.org/events/2023-birmingham-uk/program/daniel-oates-lee
+2023,Birmingham - United Kindom,Hila Fish,Terraform Practices to Enable Infrastructure Scaling,https://devopsdays.org/events/2023-birmingham-uk/program/hila-fish
+2023,Birmingham - United Kindom,Andy Burgin,Curating a Platform Experience,https://devopsdays.org/events/2023-birmingham-uk/program/andy-burgin
+2023,Birmingham - United Kindom,Krisztian Fekete,BumbleBee: Or How I Learned To Stop Worrying And Love eBPF,https://devopsdays.org/events/2023-birmingham-uk/program/krisztian-fekete
+2023,Birmingham - United Kindom,Joanna Suau,Why docs-as-code peer review should be part of your dev cycle,https://devopsdays.org/events/2023-birmingham-uk/program/joanna-suau
 2023,Amsterdam - The Netherlands,Julia Sullivan,Keynote - Long live the imposter syndrome!,https://devopsdays.org/events/2023-amsterdam/program/keynote-julia-sullivan
 2023,Amsterdam - The Netherlands,Busra Koken,The Art of Turning Incidents into Opportunities,https://devopsdays.org/events/2023-amsterdam/program/busra-koken
 2023,Amsterdam - The Netherlands,Andrew Clay Shafer,Learn Sociotechnical Systems The Hard Way,https://devopsdays.org/events/2023-amsterdam/program/andrew-clay-shafer
@@ -3030,15 +3003,15 @@ I am passionate about Technology, efficiency and effectiveness.",https://devopsd
 2023,Amsterdam - The Netherlands,"Dinant Paardenkooper, Jurgen Allewijn","AKS unlighted, but what about Compliancy, cost and Multi-tenancy?",https://devopsdays.org/events/2023-amsterdam/program/dinant-paardenkooper-jurgen-allewijn
 2023,Amsterdam - The Netherlands,"Derik Evangelista, Winna Bridgewater",The common fallacies on platform building,https://devopsdays.org/events/2023-amsterdam/program/derik-evangelista-winna-bridgewater
 2023,Amsterdam - The Netherlands,Monika Singh,Alert Analytics,https://devopsdays.org/events/2023-amsterdam/program/monika-singh
-2023,Global Organizer Summit - Unknown,"Katie McLaughlin, Yvo van Doorn, Dan ""phrawzty"" Maher",Who Is Core and How They Help You,https://devopsdays.org/events/2023-organizer-summit/program/katie-yvo-dan
-2023,Global Organizer Summit - Unknown,Laura Santamaria,Avoiding Community Collapse when Passing the Torch,https://devopsdays.org/events/2023-organizer-summit/program/laura-santamaria
-2023,Global Organizer Summit - Unknown,Yvo van Doorn,Stop giving Eventbrite your $,https://devopsdays.org/events/2023-organizer-summit/program/yvo-van-doorn
-2023,Global Organizer Summit - Unknown,"PJ Hagerty, Floor Drees",How To Do Hybrid Well,https://devopsdays.org/events/2023-organizer-summit/program/pj-floor
-2023,Global Organizer Summit - Unknown,Matty Stratton,A (Quick) Deep Dive Into The DevOpsDays Website,https://devopsdays.org/events/2023-organizer-summit/program/matty-stratton
-2023,Global Organizer Summit - Unknown,"Hannah Foxwell, Paula Kennedy",Mistakes Were Made,https://devopsdays.org/events/2023-organizer-summit/program/hannah-paula
-2023,Global Organizer Summit - Unknown,Laura Wickett,Manage Your Finances So They Don't Manage You,https://devopsdays.org/events/2023-organizer-summit/program/laura-wickett
-2023,Global Organizer Summit - Unknown,Joep Piscaer,How Not To Burn Out As A DevOpsDays Organizer,https://devopsdays.org/events/2023-organizer-summit/program/joep-piscaer
-2023,Global Organizer Summit - Unknown,Aaron Blythe,On Agreeing To Be Most Excellent,https://devopsdays.org/events/2023-organizer-summit/program/aaron-blythe
+2023,Chicago - United States,"Katie McLaughlin, Yvo van Doorn, Dan ""phrawzty"" Maher",Who Is Core and How They Help You,https://devopsdays.org/events/2023-organizer-summit/program/katie-yvo-dan
+2023,Chicago - United States,Laura Santamaria,Avoiding Community Collapse when Passing the Torch,https://devopsdays.org/events/2023-organizer-summit/program/laura-santamaria
+2023,Chicago - United States,Yvo van Doorn,Stop giving Eventbrite your $,https://devopsdays.org/events/2023-organizer-summit/program/yvo-van-doorn
+2023,Chicago - United States,"PJ Hagerty, Floor Drees",How To Do Hybrid Well,https://devopsdays.org/events/2023-organizer-summit/program/pj-floor
+2023,Chicago - United States,Matty Stratton,A (Quick) Deep Dive Into The DevOpsDays Website,https://devopsdays.org/events/2023-organizer-summit/program/matty-stratton
+2023,Chicago - United States,"Hannah Foxwell, Paula Kennedy",Mistakes Were Made,https://devopsdays.org/events/2023-organizer-summit/program/hannah-paula
+2023,Chicago - United States,Laura Wickett,Manage Your Finances So They Don't Manage You,https://devopsdays.org/events/2023-organizer-summit/program/laura-wickett
+2023,Chicago - United States,Joep Piscaer,How Not To Burn Out As A DevOpsDays Organizer,https://devopsdays.org/events/2023-organizer-summit/program/joep-piscaer
+2023,Chicago - United States,Aaron Blythe,On Agreeing To Be Most Excellent,https://devopsdays.org/events/2023-organizer-summit/program/aaron-blythe
 2023,Chicago - United States,"Katie McLaughlin, Amanda Lewis",The State of DevOps - Capabilities for Building High-performing Technology Teams,https://devopsdays.org/events/2023-chicago/program/katie-amanda
 2023,Chicago - United States,Ana Lebron,Finding Opportunity in the Chaos: How Production Incidents Can Help Engineers (and Leaders) Grow Their Career.,https://devopsdays.org/events/2023-chicago/program/ana-lebron
 2023,Chicago - United States,Rizel Scarlett,Breaking Down Barriers: How Containerization Promotes Equity in the Tech Industry,https://devopsdays.org/events/2023-chicago/program/rizel-scarlett
